@@ -1,0 +1,657 @@
+[
+	{
+		"id": "1",
+		"id_comite": "1",
+		"descripcion": "YACUSISA"
+	},
+	{
+		"id": "2",
+		"id_comite": "2",
+		"descripcion": "ALTO EL SOL"
+	},
+	{
+		"id": "3",
+		"id_comite": "3",
+		"descripcion": "CASPIZAPA"
+	},
+	{
+		"id": "4",
+		"id_comite": "4",
+		"descripcion": "SACANCHE"
+	},
+	{
+		"id": "5",
+		"id_comite": "5",
+		"descripcion": "CHAMBIRA"
+	},
+	{
+		"id": "6",
+		"id_comite": "6",
+		"descripcion": "PUCACACA"
+	},
+	{
+		"id": "7",
+		"id_comite": "7",
+		"descripcion": "BALSAYACU"
+	},
+	{
+		"id": "8",
+		"id_comite": "8",
+		"descripcion": "LA LIBERTAD"
+	},
+	{
+		"id": "9",
+		"id_comite": "8",
+		"descripcion": "PANAMA"
+	},
+	{
+		"id": "10",
+		"id_comite": "9",
+		"descripcion": "TINGO DE SAPOSOA"
+	},
+	{
+		"id": "11",
+		"id_comite": "10",
+		"descripcion": "LEDOY"
+	},
+	{
+		"id": "12",
+		"id_comite": "11",
+		"descripcion": "HUINGUILLO"
+	},
+	{
+		"id": "13",
+		"id_comite": "12",
+		"descripcion": "MIRAFLORES"
+	},
+	{
+		"id": "14",
+		"id_comite": "7",
+		"descripcion": "MIRAMAR"
+	},
+	{
+		"id": "15",
+		"id_comite": "13",
+		"descripcion": "BELLAVISTA"
+	},
+	{
+		"id": "16",
+		"id_comite": "8",
+		"descripcion": "SAN HILARION"
+	},
+	{
+		"id": "17",
+		"id_comite": "8",
+		"descripcion": "PUERTO RICO"
+	},
+	{
+		"id": "18",
+		"id_comite": "14",
+		"descripcion": "PAJARILLO"
+	},
+	{
+		"id": "19",
+		"id_comite": "15",
+		"descripcion": "PASARRAYA"
+	},
+	{
+		"id": "20",
+		"id_comite": "4",
+		"descripcion": "SAPOSOA"
+	},
+	{
+		"id": "21",
+		"id_comite": "16",
+		"descripcion": "DOS UNIDOS"
+	},
+	{
+		"id": "22",
+		"id_comite": "17",
+		"descripcion": "CAMPANILLA"
+	},
+	{
+		"id": "23",
+		"id_comite": "12",
+		"descripcion": "VILLAPRADO"
+	},
+	{
+		"id": "24",
+		"id_comite": "18",
+		"descripcion": "PACHIZA"
+	},
+	{
+		"id": "25",
+		"id_comite": "19",
+		"descripcion": "ARMAYARI"
+	},
+	{
+		"id": "26",
+		"id_comite": "12",
+		"descripcion": "LA VICTORIA"
+	},
+	{
+		"id": "27",
+		"id_comite": "20",
+		"descripcion": "SHEPTE"
+	},
+	{
+		"id": "28",
+		"id_comite": "21",
+		"descripcion": "HUICUNGO"
+	},
+	{
+		"id": "29",
+		"id_comite": "11",
+		"descripcion": "HUAYABAMBA"
+	},
+	{
+		"id": "30",
+		"id_comite": "5",
+		"descripcion": "CONCHUILLO"
+	},
+	{
+		"id": "31",
+		"id_comite": "4",
+		"descripcion": "MONTEVIDEO"
+	},
+	{
+		"id": "32",
+		"id_comite": "22",
+		"descripcion": "CAPIRONA"
+	},
+	{
+		"id": "33",
+		"id_comite": "22",
+		"descripcion": "COSTA RICA"
+	},
+	{
+		"id": "34",
+		"id_comite": "5",
+		"descripcion": "LANCHARARCA"
+	},
+	{
+		"id": "35",
+		"id_comite": "16",
+		"descripcion": "BAJO JUÑAO"
+	},
+	{
+		"id": "36",
+		"id_comite": "23",
+		"descripcion": "BELLO HORIZONTE"
+	},
+	{
+		"id": "37",
+		"id_comite": "14",
+		"descripcion": "SAN JOSE DE JUÑAO"
+	},
+	{
+		"id": "38",
+		"id_comite": "12",
+		"descripcion": "SANJA SECA"
+	},
+	{
+		"id": "39",
+		"id_comite": "11",
+		"descripcion": "CAYENA"
+	},
+	{
+		"id": "40",
+		"id_comite": "24",
+		"descripcion": "AHUIHUA"
+	},
+	{
+		"id": "41",
+		"id_comite": "25",
+		"descripcion": "DOS DE MAYO"
+	},
+	{
+		"id": "42",
+		"id_comite": "26",
+		"descripcion": "TANGER"
+	},
+	{
+		"id": "43",
+		"id_comite": "27",
+		"descripcion": "NUEVA VIDA"
+	},
+	{
+		"id": "44",
+		"id_comite": "28",
+		"descripcion": "MARISOL"
+	},
+	{
+		"id": "45",
+		"id_comite": "29",
+		"descripcion": "BAGAZAN"
+	},
+	{
+		"id": "46",
+		"id_comite": "30",
+		"descripcion": "CHORRILOS"
+	},
+	{
+		"id": "47",
+		"id_comite": "14",
+		"descripcion": "MARICHI"
+	},
+	{
+		"id": "48",
+		"id_comite": "31",
+		"descripcion": "PUCALLPILLO"
+	},
+	{
+		"id": "49",
+		"id_comite": "32",
+		"descripcion": "PERLA MAYO"
+	},
+	{
+		"id": "50",
+		"id_comite": "33",
+		"descripcion": "JUANJUICILLO"
+	},
+	{
+		"id": "51",
+		"id_comite": "7",
+		"descripcion": "NUEVO JUNIN"
+	},
+	{
+		"id": "52",
+		"id_comite": "34",
+		"descripcion": "CEDROPAMPA"
+	},
+	{
+		"id": "53",
+		"id_comite": "30",
+		"descripcion": "SAN REGIS"
+	},
+	{
+		"id": "54",
+		"id_comite": "35",
+		"descripcion": "PIZARRO"
+	},
+	{
+		"id": "55",
+		"id_comite": "36",
+		"descripcion": "SOLEDAD"
+	},
+	{
+		"id": "56",
+		"id_comite": "37",
+		"descripcion": "RICARDO PALMA"
+	},
+	{
+		"id": "57",
+		"id_comite": "11",
+		"descripcion": "QUINILLA"
+	},
+	{
+		"id": "58",
+		"id_comite": "38",
+		"descripcion": "SANAMBO"
+	},
+	{
+		"id": "59",
+		"id_comite": "39",
+		"descripcion": "MOJARRAS"
+	},
+	{
+		"id": "60",
+		"id_comite": "40",
+		"descripcion": "HUINGOYACU"
+	},
+	{
+		"id": "61",
+		"id_comite": "12",
+		"descripcion": "CALCUCHIMA"
+	},
+	{
+		"id": "62",
+		"id_comite": "38",
+		"descripcion": "SANCHIMA"
+	},
+	{
+		"id": "63",
+		"id_comite": "42",
+		"descripcion": "SAN RAMON"
+	},
+	{
+		"id": "64",
+		"id_comite": "43",
+		"descripcion": "MONTERREY"
+	},
+	{
+		"id": "65",
+		"id_comite": "44",
+		"descripcion": "AUCARARCA"
+	},
+	{
+		"id": "66",
+		"id_comite": "12",
+		"descripcion": "RICHOJA"
+	},
+	{
+		"id": "67",
+		"id_comite": "5",
+		"descripcion": "CERRO BLANCO"
+	},
+	{
+		"id": "68",
+		"id_comite": "45",
+		"descripcion": "PAMPA HERMOSA"
+	},
+	{
+		"id": "69",
+		"id_comite": "46",
+		"descripcion": "SANTA INES"
+	},
+	{
+		"id": "70",
+		"id_comite": "47",
+		"descripcion": "ATAHUALLPA"
+	},
+	{
+		"id": "71",
+		"id_comite": "48",
+		"descripcion": "SHUMANZA"
+	},
+	{
+		"id": "72",
+		"id_comite": "49",
+		"descripcion": "NUEVO EDEN"
+	},
+	{
+		"id": "73",
+		"id_comite": "16",
+		"descripcion": "RETAMA"
+	},
+	{
+		"id": "74",
+		"id_comite": "5",
+		"descripcion": "RIO BLANCO"
+	},
+	{
+		"id": "75",
+		"id_comite": "18",
+		"descripcion": "HUAYRANGA"
+	},
+	{
+		"id": "76",
+		"id_comite": "6",
+		"descripcion": "NUEVO CODO"
+	},
+	{
+		"id": "77",
+		"id_comite": "6",
+		"descripcion": "CHINCHA ALTA"
+	},
+	{
+		"id": "78",
+		"id_comite": "50",
+		"descripcion": "TRES UNIDOS"
+	},
+	{
+		"id": "79",
+		"id_comite": "33",
+		"descripcion": "COCAMA"
+	},
+	{
+		"id": "80",
+		"id_comite": "51",
+		"descripcion": "PRIMAVERA"
+	},
+	{
+		"id": "81",
+		"id_comite": "4",
+		"descripcion": "PISCOYACU"
+	},
+	{
+		"id": "82",
+		"id_comite": "14",
+		"descripcion": "VIVERES"
+	},
+	{
+		"id": "83",
+		"id_comite": "5",
+		"descripcion": "AGUA AZUL"
+	},
+	{
+		"id": "84",
+		"id_comite": "7",
+		"descripcion": "ALTO MACANA"
+	},
+	{
+		"id": "85",
+		"id_comite": "33",
+		"descripcion": "ALTO PORVENIR"
+	},
+	{
+		"id": "86",
+		"id_comite": "52",
+		"descripcion": "SAN JUAN DEL CAÑO"
+	},
+	{
+		"id": "87",
+		"id_comite": "4",
+		"descripcion": "SHIMA"
+	},
+	{
+		"id": "88",
+		"id_comite": "5",
+		"descripcion": "BOMBONAJE"
+	},
+	{
+		"id": "89",
+		"id_comite": "6",
+		"descripcion": "BUENOS AIRES"
+	},
+	{
+		"id": "90",
+		"id_comite": "22",
+		"descripcion": "PORVENIR"
+	},
+	{
+		"id": "91",
+		"id_comite": "36",
+		"descripcion": "SANCUDO"
+	},
+	{
+		"id": "92",
+		"id_comite": "4",
+		"descripcion": "SAN ANDRES"
+	},
+	{
+		"id": "93",
+		"id_comite": "53",
+		"descripcion": "NUEVA ESPERANZA"
+	},
+	{
+		"id": "94",
+		"id_comite": "4",
+		"descripcion": "PALTAICO"
+	},
+	{
+		"id": "95",
+		"id_comite": "54",
+		"descripcion": "CUÑUMBUZA"
+	},
+	{
+		"id": "96",
+		"id_comite": "7",
+		"descripcion": "BALSAYAQUILLO"
+	},
+	{
+		"id": "97",
+		"id_comite": "55",
+		"descripcion": "PUERTO BERMUDEZ"
+	},
+	{
+		"id": "98",
+		"id_comite": "52",
+		"descripcion": "SAN PEDRO"
+	},
+	{
+		"id": "99",
+		"id_comite": "56",
+		"descripcion": "ALTO YANAYACU"
+	},
+	{
+		"id": "100",
+		"id_comite": "57",
+		"descripcion": "CENTRO AMERICA"
+	},
+	{
+		"id": "101",
+		"id_comite": "6",
+		"descripcion": "PICOTA"
+	},
+	{
+		"id": "102",
+		"id_comite": "58",
+		"descripcion": "GERVACIO"
+	},
+	{
+		"id": "103",
+		"id_comite": "59",
+		"descripcion": "NUEVO JAEN"
+	},
+	{
+		"id": "104",
+		"id_comite": "57",
+		"descripcion": "PUERTO FRANCO"
+	},
+	{
+		"id": "105",
+		"id_comite": "4",
+		"descripcion": "SAN MIGUEL"
+	},
+	{
+		"id": "106",
+		"id_comite": "40",
+		"descripcion": "NUEVA FLORIDA"
+	},
+	{
+		"id": "107",
+		"id_comite": "60",
+		"descripcion": "MERCEDES"
+	},
+	{
+		"id": "108",
+		"id_comite": "6",
+		"descripcion": "SANTA ROSILLO"
+	},
+	{
+		"id": "109",
+		"id_comite": "4",
+		"descripcion": "INTIYACU"
+	},
+	{
+		"id": "110",
+		"id_comite": "7",
+		"descripcion": "MACANA"
+	},
+	{
+		"id": "111",
+		"id_comite": "5",
+		"descripcion": "CANGREJO"
+	},
+	{
+		"id": "112",
+		"id_comite": "18",
+		"descripcion": "CUÑO CUÑO"
+	},
+	{
+		"id": "113",
+		"id_comite": "40",
+		"descripcion": "SHAMBOYACU"
+	},
+	{
+		"id": "114",
+		"id_comite": "61",
+		"descripcion": "EL PORVENIR"
+	},
+	{
+		"id": "115",
+		"id_comite": "11",
+		"descripcion": "CATAHUILLO"
+	},
+	{
+		"id": "116",
+		"id_comite": "32",
+		"descripcion": "PERLA MAYO/NUEVO JAEN"
+	},
+	{
+		"id": "117",
+		"id_comite": "22",
+		"descripcion": "PLAYA HERMOSA"
+	},
+	{
+		"id": "118",
+		"id_comite": "22",
+		"descripcion": "PLAYA HERMOSA/CAPIRONA"
+	},
+	{
+		"id": "119",
+		"id_comite": "45",
+		"descripcion": "PAMPA HEROSA"
+	},
+	{
+		"id": "120",
+		"id_comite": "45",
+		"descripcion": "PAMPA HERMOZA"
+	},
+	{
+		"id": "121",
+		"id_comite": "61",
+		"descripcion": "JUANJUI"
+	},
+	{
+		"id": "122",
+		"id_comite": "56",
+		"descripcion": "SHITARI/ALTO YANAYACU"
+	},
+	{
+		"id": "123",
+		"id_comite": "56",
+		"descripcion": "ALTO YANAYACU/SHITARI"
+	},
+	{
+		"id": "124",
+		"id_comite": "50",
+		"descripcion": "ZAPOTILLO"
+	},
+	{
+		"id": "125",
+		"id_comite": "51",
+		"descripcion": "PRIMEVERA"
+	},
+	{
+		"id": "126",
+		"id_comite": "21",
+		"descripcion": "HUICUNGO I"
+	},
+	{
+		"id": "127",
+		"id_comite": "21",
+		"descripcion": "HUICUNGO II"
+	},
+	{
+		"id": "128",
+		"id_comite": "21",
+		"descripcion": "HUICUNGO III"
+	},
+	{
+		"id": "129",
+		"id_comite": "2",
+		"descripcion": "ALTO EL SOL I"
+	},
+	{
+		"id": "130",
+		"id_comite": "2",
+		"descripcion": "ALTO EL SOL II"
+	},
+	{
+		"id": "131",
+		"id_comite": "62",
+		"descripcion": "MAGDALENA"
+	}
+]

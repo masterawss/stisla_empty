@@ -1,0 +1,344 @@
+[
+    {
+      "n": "1",
+      "norma": "Documentacion del productor",
+      "item": "Se conserva la  documentacion del SIC en orden y actualizada",
+      "puntaje": "3"
+    },
+    {
+      "n": "2",
+      "norma": "Documentacion del productor",
+      "item": "El productor conserva sus recibos de venta de cacao y compra de insumos",
+      "puntaje": "3"
+    },
+    {
+      "n": "3",
+      "norma": "Documentacion del productor",
+      "item": "El productor conoce el contenido de los documentos del sistema interno de control",
+      "puntaje": "3"
+    },
+    {
+      "n": "4",
+      "norma": "Documentacion del productor",
+      "item": "Registra sus actividades, ventas, etc, en su cuaderno del productor (labores, insumos y cosechas",
+      "puntaje": "3"
+    },
+    {
+      "n": "5",
+      "norma": "Documentacion del productor",
+      "item": "El productor y su familia conocen y cumplen las normas vigentes y las reglementaciones internas",
+      "puntaje": "3"
+    },
+    {
+      "n": "6",
+      "norma": "Semillas y OMG",
+      "item": "Las semillas utilizadas para sus cultivos provienen de parcelas certificadas",
+      "puntaje": "2"
+    },
+    {
+      "n": "7",
+      "norma": "Semillas y OMG",
+      "item": "Selecciono varas yemeras de plantas productivas y certificadas para la injertacion del cacao",
+      "puntaje": "2"
+    },
+    {
+      "n": "8",
+      "norma": "Semillas y OMG",
+      "item": "Evita introducir y cultivar semillas  transgenicas",
+      "puntaje": "2"
+    },
+    {
+      "n": "9",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Tiene ecosistemas naturales integros, protegidos, recuperados, o enriquecidos",
+      "puntaje": "2"
+    },
+    {
+      "n": "10",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "El productor tiene un inventario de flora y fauna",
+      "puntaje": "2"
+    },
+    {
+      "n": "11",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Los cultivos se cultivan donde no provocan efectos negativos al ecosistema",
+      "puntaje": "2"
+    },
+    {
+      "n": "12",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Existen zonas de vegetaci n o amortiguamiento entre el cultivo y  reas colindantes",
+      "puntaje": "2"
+    },
+    {
+      "n": "13",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": " Tiene especies nativas de sombra, cuantas y cu les?",
+      "puntaje": "2"
+    },
+    {
+      "n": "14",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Prohibe el uso de pesticidas toxicos al humano, flora y fauna, en su finca",
+      "puntaje": "2"
+    },
+    {
+      "n": "15",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Ha establecido nuevas areas de cultivo evitando la quema y deforestacion",
+      "puntaje": "2"
+    },
+    {
+      "n": "16",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Se prohibe la caceria, recolecta y extraccion de animales silvestres",
+      "puntaje": "2"
+    },
+    {
+      "n": "17",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Existe evaluacion del riesgo de contaminacion cruzada que puede ocasionar su colindante (parcela vecina)",
+      "puntaje": "2"
+    },
+    {
+      "n": "18",
+      "norma": "Conservacion de ecosistema y medio ambiente",
+      "item": "Ha identificado las zonas de riesgos en su unidad productiva",
+      "puntaje": "2"
+    },
+    {
+      "n": "19",
+      "norma": "Conservacion de recursos hidricos",
+      "item": "Se protegen las fuentes de agua (rios, quebradas, arroyos)",
+      "puntaje": "2"
+    },
+    {
+      "n": "20",
+      "norma": "Conservacion de recursos hidricos",
+      "item": "Se evita el deposito de las aguas residuales en cuerpos de aguas naturales",
+      "puntaje": "2"
+    },
+    {
+      "n": "21",
+      "norma": "Conservacion de recursos hidricos",
+      "item": "Utiliza agua para riego",
+      "puntaje": "2"
+    },
+    {
+      "n": "22",
+      "norma": "Manejo integro de cultivo",
+      "item": "Se mantiene especies de leguminosas en asociacion con el cultivo",
+      "puntaje": "2"
+    },
+    {
+      "n": "23",
+      "norma": "Manejo integro de cultivo",
+      "item": "Ha asociado su cultivo con especies forestales",
+      "puntaje": "2"
+    },
+    {
+      "n": "24",
+      "norma": "Manejo integro de cultivo",
+      "item": "Preparo y aplico  materia organica Descompuesta/ Compost/ Material Vegetal",
+      "puntaje": "2"
+    },
+    {
+      "n": "25",
+      "norma": "Manejo integro de cultivo",
+      "item": "Preparo y aplico  EMA y Biol",
+      "puntaje": "2"
+    },
+    {
+      "n": "26",
+      "norma": "Manejo integro de cultivo",
+      "item": "Aplica algun abono organico externo (foliar o al suelo) previamente autorizado por la cooperativa",
+      "puntaje": "2"
+    },
+    {
+      "n": "27",
+      "norma": "Manejo integro de cultivo",
+      "item": "No existe uso y/o almacenamiento de insumos no permitidos en la U.P.",
+      "puntaje": "2"
+    },
+    {
+      "n": "28",
+      "norma": "Manejo integro de cultivo",
+      "item": "Realiza deshierbos oportunos con herramientas adecuadas",
+      "puntaje": "2"
+    },
+    {
+      "n": "29",
+      "norma": "Manejo integro de cultivo",
+      "item": "Hace control cultural de las plagas y enfermedades en sus cultivos",
+      "puntaje": "2"
+    },
+    {
+      "n": "30",
+      "norma": "Manejo integro de cultivo",
+      "item": "Aplico algun insumo externo autorizado para el control de plagas y enfermedades",
+      "puntaje": "2"
+    },
+    {
+      "n": "31",
+      "norma": "Manejo integro de cultivo",
+      "item": "Realiza podas, aperturas y remocion de frutos de manera oportuna y adecuada",
+      "puntaje": "2"
+    },
+    {
+      "n": "32",
+      "norma": "Manejo integro de cultivo",
+      "item": "Las mochilas para la aplicacion (foliar y fitosanitario) son de uso exclusivo y organico",
+      "puntaje": "2"
+    },
+    {
+      "n": "33",
+      "norma": "Manejo y Conservacion del suelo",
+      "item": "Se previene y controla la erosion de los suelos en las areas de cultivo",
+      "puntaje": "1"
+    },
+    {
+      "n": "34",
+      "norma": "Manejo y Conservacion del suelo",
+      "item": "Mantiene en el suelo cobertura viva (plantas superficiales) y muerta (hojarascas)",
+      "puntaje": "1"
+    },
+    {
+      "n": "35",
+      "norma": "Manejo y Conservacion del suelo",
+      "item": "Mantiene barreras vivas o muertas en las areas de cultivo",
+      "puntaje": "1"
+    },
+    {
+      "n": "36",
+      "norma": "Manejo y Conservacion del suelo",
+      "item": "Mantiene e incrementa la vida (microorganismos) y fertilidad natural del suelo",
+      "puntaje": "1"
+    },
+    {
+      "n": "37",
+      "norma": "Manejo integrado de desechos",
+      "item": "Prohibe el uso de botaderos y la quema de basura a cielo abierto",
+      "puntaje": "1"
+    },
+    {
+      "n": "38",
+      "norma": "Manejo integrado de desechos",
+      "item": "Hay limpieza en general, sin acumulo de deshechos de ningun tipo",
+      "puntaje": "1"
+    },
+    {
+      "n": "39",
+      "norma": "Manejo integrado de desechos",
+      "item": "Recoge y maneja adecuadamente los inservibles norganicos generados en la U.P.",
+      "puntaje": "1"
+    },
+    {
+      "n": "40",
+      "norma": "Manejo integrado de desechos",
+      "item": "Cuenta con SS.HH (letrina, cilo) en condiciones adecuadas en su U.P.",
+      "puntaje": "1"
+    },
+    {
+      "n": "41",
+      "norma": "Integridad del producto",
+      "item": "No se mezcla el producto certificado con el convencional (vecinos, familiares)",
+      "puntaje": "2"
+    },
+    {
+      "n": "42",
+      "norma": "Integridad del producto",
+      "item": "No existe contacto del producto organico con sustancias contaminantes durante su cosecha y poda",
+      "puntaje": "2"
+    },
+    {
+      "n": "43",
+      "norma": "Integridad del producto",
+      "item": "Se minimiza el riesgo de contaminacion del producto durante el transporte",
+      "puntaje": "2"
+    },
+    {
+      "n": "44",
+      "norma": "Integridad del producto",
+      "item": "Se hace seleccion del cacao bueno, durante la cosecha y despulpe",
+      "puntaje": "2"
+    },
+    {
+      "n": "45",
+      "norma": "Integridad del producto",
+      "item": "Usa materiales adecuados (no convencionales) y limpios en la cosecha y traslado del cacao",
+      "puntaje": "2"
+    },
+    {
+      "n": "46",
+      "norma": "Condiciones de trabajo",
+      "item": "No existe discriminacion en la contrata de jornaleros para trabajos en la U.P",
+      "puntaje": "1"
+    },
+    {
+      "n": "47",
+      "norma": "Condiciones de trabajo",
+      "item": "El productor contrata directamente a su mano de obra",
+      "puntaje": "1"
+    },
+    {
+      "n": "48",
+      "norma": "Condiciones de trabajo",
+      "item": "No se contrata a menores de edad para trabajos, trabajos a tiempo, a tiempo parcial o completo",
+      "puntaje": "1"
+    },
+    {
+      "n": "49",
+      "norma": "Condiciones de trabajo",
+      "item": "Se remuneran los jornales en base al sueldo minimo y horarios del pais",
+      "puntaje": "1"
+    },
+    {
+      "n": "50",
+      "norma": "Condiciones de trabajo",
+      "item": "El productor no aplica alguna forma de trabajo forzado con sus trabajadores",
+      "puntaje": "1"
+    },
+    {
+      "n": "51",
+      "norma": "Condiciones de trabajo",
+      "item": "Hay areas adecuadas para el descanso y alimentacion de los trabajadores",
+      "puntaje": "1"
+    },
+    {
+      "n": "52",
+      "norma": "Salud y Seguridad",
+      "item": "Tiene medicinas y equipo para prevenir y responder a una emergencia (botiquin)",
+      "puntaje": "1"
+    },
+    {
+      "n": "53",
+      "norma": "Salud y Seguridad",
+      "item": "El almacen de insumos, herramientas, combustibles, estan bien ubicados y señalizados",
+      "puntaje": "1"
+    },
+    {
+      "n": "54",
+      "norma": "Salud y Seguridad",
+      "item": "Se usa equipos de proteccion al manipular y aplicar insumos organicos",
+      "puntaje": "1"
+    },
+    {
+      "n": "55",
+      "norma": "Conservacion de recursos hidricos",
+      "item": "Las aguas grises y de cocina son bien drenadas y tratadas",
+      "puntaje": "2"
+    },
+    {
+      "n": "56",
+      "norma": "SIC",
+      "item": "Realiz  la implementacion de las acciones correctivas encontradas en la  ltima inspeccion interna (verificar dicho cumplimiento en la ficha digital",
+      "puntaje": "1"
+    },
+    {
+      "n": "57",
+      "norma": "SIC",
+      "item": "El productor facilita  el acceso a las areas de su unidad de produccion",
+      "puntaje": "1"
+    }
+  ]

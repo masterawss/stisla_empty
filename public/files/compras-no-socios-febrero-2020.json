@@ -1,0 +1,62 @@
+[
+  {
+    "n": "1",
+    "dni": "00970258",
+    "nombre": "GARCIA SUAREZ MARIA ANGELICA",
+    "centro_acopio": "1.2.13",
+    "comite_local": "",
+    "fecha": "02/03/2020",
+    "correlativo": "87048",
+    "cantidad": "169",
+    "precio": "8.5",
+    "importe": "1436.5"
+  },
+  {
+    "n": "2",
+    "dni": "00968100",
+    "nombre": "ROJAS GUERRERO EMILIO",
+    "centro_acopio": "1.2.22",
+    "comite_local": "DOS DE MAYO",
+    "fecha": "02/22/2020",
+    "correlativo": "381070",
+    "cantidad": "11.5",
+    "precio": "8.8",
+    "importe": "101.2"
+  },
+  {
+    "n": "3",
+    "dni": "00970584",
+    "nombre": "DEL CASTILLO LOPEZ FRANKLIN",
+    "centro_acopio": "1.2.22",
+    "comite_local": "DOS DE MAYO",
+    "fecha": "02/10/2020",
+    "correlativo": "378641",
+    "cantidad": "14",
+    "precio": "8.6",
+    "importe": "120.4"
+  },
+  {
+    "n": "4",
+    "dni": "45601429",
+    "nombre": "PAIMA LOPEZ CARLOS",
+    "centro_acopio": "1.2.22",
+    "comite_local": "DOS DE MAYO",
+    "fecha": "02/22/2020",
+    "correlativo": "381073",
+    "cantidad": "14",
+    "precio": "8.8",
+    "importe": "123.2"
+  },
+  {
+    "n": "5",
+    "dni": "45291661",
+    "nombre": "TUANAMA RIOS CARMELINO",
+    "centro_acopio": "2.5.43",
+    "comite_local": "NUEVA VIDA",
+    "fecha": "02/15/2020",
+    "correlativo": "370195",
+    "cantidad": "12.5",
+    "precio": "8.7",
+    "importe": "108.75"
+  }
+]

@@ -1,0 +1,1082 @@
+[
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.1. Conserva la documentación del SIC (folder) completo y actualizada",
+		"item_puntaje": 3,
+		"observacion": "Sí, conserva en orden y actualizado"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.1. Conserva la documentación del SIC (folder) completo y actualizada",
+		"item_puntaje": 3,
+		"observacion": "No conserva en orden y actualizado"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.1. Conserva la documentación del SIC (folder) completo y actualizada",
+		"item_puntaje": 3,
+		"observacion": "Sí conserva en orden, pero no actualizó"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.2. Conserva sus recibos de venta de cacao y compra de insumos organicos",
+		"item_puntaje": 3,
+		"observacion": "Sí, conserva sus recibos de venta y compra"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.2. Conserva sus recibos de venta de cacao y compra de insumos organicos",
+		"item_puntaje": 3,
+		"observacion": "Sí, conserva sus recibos de venta de cacao"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.2. Conserva sus recibos de venta de cacao y compra de insumos organicos",
+		"item_puntaje": 3,
+		"observacion": "Sí, conserva sus recibos de compra de insumos"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.2. Conserva sus recibos de venta de cacao y compra de insumos organicos",
+		"item_puntaje": 3,
+		"observacion": "No conserva sus recibos"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.3.  Conoce el contenido de los documentos del SIC  ( Ficha de inspeccion interna, Ficha basica unidad productiva  y Contrato de compromiso)",
+		"item_puntaje": 3,
+		"observacion": "Sí, conoce la documentación"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.3.  Conoce el contenido de los documentos del SIC  ( Ficha de inspeccion interna, Ficha basica unidad productiva  y Contrato de compromiso)",
+		"item_puntaje": 3,
+		"observacion": "No conoce la documentación"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.3.  Conoce el contenido de los documentos del SIC  ( Ficha de inspeccion interna, Ficha basica unidad productiva  y Contrato de compromiso)",
+		"item_puntaje": 3,
+		"observacion": "Conoce pero no de manera general"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.4. Registra sus actividades agricolas  en su cuaderno del productor (labores mensuales, cosechas, insumos y capacitaciones/visitas/ inspecciones)",
+		"item_puntaje": 3,
+		"observacion": "Sí, registra sus actividades"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.4. Registra sus actividades agricolas  en su cuaderno del productor (labores mensuales, cosechas, insumos y capacitaciones/visitas/ inspecciones)",
+		"item_puntaje": 3,
+		"observacion": "Registra pero falta actualizar"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.4. Registra sus actividades agricolas  en su cuaderno del productor (labores mensuales, cosechas, insumos y capacitaciones/visitas/ inspecciones)",
+		"item_puntaje": 3,
+		"observacion": "No registra"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.5. El productor y su familia conocen y cumplen las normas vigentes ( UE/NOP/RTPO/BIOSUISSE/FLO) y los reglamentaciones internas del SIC",
+		"item_puntaje": 3,
+		"observacion": "Sí, conoce y pone en práctica las normas establecidas"
+	},
+	{
+		"norma": "1. DOCUMENTACIÓN DEL PRODUCTOR",
+		"item_norma": "1.5. El productor y su familia conocen y cumplen las normas vigentes ( UE/NOP/RTPO/BIOSUISSE/FLO) y los reglamentaciones internas del SIC",
+		"item_puntaje": 3,
+		"observacion": "No conococe las normas"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.1.  Las semillas utilizadas para la ampliación de areas de cacao previene de su misma parcela o parcelas externaS certificadas",
+		"item_puntaje": 2,
+		"observacion": "Si, de su misma parcela certificada"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.1.  Las semillas utilizadas para la ampliación de areas de cacao previene de su misma parcela o parcelas externaS certificadas",
+		"item_puntaje": 2,
+		"observacion": "Si, de otra parcela certificada"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.1.  Las semillas utilizadas para la ampliación de areas de cacao previene de su misma parcela o parcelas externaS certificadas",
+		"item_puntaje": 2,
+		"observacion": "No porque provienen de una parcela convencional"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.2. Las varas yemeras para realizar la injertación provienen  de su  misma parcela o parcelas certificadas",
+		"item_puntaje": 2,
+		"observacion": "Si, de su misma parcela certificada"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.2. Las varas yemeras para realizar la injertación provienen  de su  misma parcela o parcelas certificadas",
+		"item_puntaje": 2,
+		"observacion": "Si, de otra parcela certificada"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.2. Las varas yemeras para realizar la injertación provienen  de su  misma parcela o parcelas certificadas",
+		"item_puntaje": 2,
+		"observacion": "No porque provienen de una parcela convencional"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.3. Evita  sembrar e introducir  semillas/ varas transgénicas",
+		"item_puntaje": 2,
+		"observacion": "Si evita, porque utiliza semillas de su misma parcela"
+	},
+	{
+		"norma": "2. SEMILLAS Y ORGANISMOS GENETICAMENTE   MODIFICADOS",
+		"item_norma": "2.3. Evita  sembrar e introducir  semillas/ varas transgénicas",
+		"item_puntaje": 2,
+		"observacion": "No evita, porque utiliza semillas transgenicas"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.1. Tiene ecosistemas naturales íntegros, protegidos, recuperados, o enriquecidos",
+		"item_puntaje": 2,
+		"observacion": "Si tiene, protegidos"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.1. Tiene ecosistemas naturales íntegros, protegidos, recuperados, o enriquecidos",
+		"item_puntaje": 2,
+		"observacion": "Si tiene, recuperados"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.1. Tiene ecosistemas naturales íntegros, protegidos, recuperados, o enriquecidos",
+		"item_puntaje": 2,
+		"observacion": "Si tiene, íntegros"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.1. Tiene ecosistemas naturales íntegros, protegidos, recuperados, o enriquecidos",
+		"item_puntaje": 2,
+		"observacion": "No tiene"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.2. Tiene un inventario o registro de la cantidad  de flora y fauna en su unidad productiva",
+		"item_puntaje": 2,
+		"observacion": "Si tiene, actualizada"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.2. Tiene un inventario o registro de la cantidad  de flora y fauna en su unidad productiva",
+		"item_puntaje": 2,
+		"observacion": "Si tiene, pero falta actualizar"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.2. Tiene un inventario o registro de la cantidad  de flora y fauna en su unidad productiva",
+		"item_puntaje": 2,
+		"observacion": "No tiene"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.3. Los cultivos se siembran donde no provocan efectos negativos al suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, en áreas con poca pendiente"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.3. Los cultivos se siembran donde no provocan efectos negativos al suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, en áreas reforestadas o protegidas"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.3. Los cultivos se siembran donde no provocan efectos negativos al suelo",
+		"item_puntaje": 2,
+		"observacion": "No, porque su pendiente es mayor al 25%"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.3. Los cultivos se siembran donde no provocan efectos negativos al suelo",
+		"item_puntaje": 2,
+		"observacion": "No, porque instaló su cacao en áreas protegidas"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.4. Existen zonas de vegetación o amortiguamiento entre el cultivo y áreas colindantes",
+		"item_puntaje": 2,
+		"observacion": "Sí existen, con especies forestales"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.4. Existen zonas de vegetación o amortiguamiento entre el cultivo y áreas colindantes",
+		"item_puntaje": 2,
+		"observacion": "Sí existen, con bosque o purma"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.4. Existen zonas de vegetación o amortiguamiento entre el cultivo y áreas colindantes",
+		"item_puntaje": 2,
+		"observacion": "Sí existen, con palos de eritrina"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.4. Existen zonas de vegetación o amortiguamiento entre el cultivo y áreas colindantes",
+		"item_puntaje": 2,
+		"observacion": "Sí existen, con el mismo cacao"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.4. Existen zonas de vegetación o amortiguamiento entre el cultivo y áreas colindantes",
+		"item_puntaje": 2,
+		"observacion": "No existe ninguna zona de vegetación o amortiguamiento instalada"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.5. Existe especies forestales como sombra,cuales y cuantas",
+		"item_puntaje": 2,
+		"observacion": "Sí tiene, guaba 20 plantas/ha"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.5. Existe especies forestales como sombra,cuales y cuantas",
+		"item_puntaje": 2,
+		"observacion": "Sí tiene, especies forestales nativas 20 plantas/ha"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.5. Existe especies forestales como sombra,cuales y cuantas",
+		"item_puntaje": 2,
+		"observacion": "No tiene ninguna especie de sombra"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.6. Prohibe el uso /almacenamiento de productos quimicos como medio de proteccion a la flora y fauna en su unidad productiva",
+		"item_puntaje": 2,
+		"observacion": "Sí prohibe, porque solo utiliza productos orgánicos y/o autorizados"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.6. Prohibe el uso /almacenamiento de productos quimicos como medio de proteccion a la flora y fauna en su unidad productiva",
+		"item_puntaje": 2,
+		"observacion": "No prohibe"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.7. Conoce que al sembrar o querer ampliar nuevas areas de cultivo lo tiene que hacer evitando la tala, quema y deforestación",
+		"item_puntaje": 2,
+		"observacion": "Sembró cacao evitando quema y deforestación"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.7. Conoce que al sembrar o querer ampliar nuevas areas de cultivo lo tiene que hacer evitando la tala, quema y deforestación",
+		"item_puntaje": 2,
+		"observacion": "Sembró cacao sin evitar quema y deforestación"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.8. Prohibe la cacería (caza) , recolecta y extracción de animales silvestres/plantas exoticas en su unidad productiva.",
+		"item_puntaje": 2,
+		"observacion": "No realiza la caza de animales silvestres"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.8. Prohibe la cacería (caza) , recolecta y extracción de animales silvestres/plantas exoticas en su unidad productiva.",
+		"item_puntaje": 2,
+		"observacion": "Realiza la caza de animales silvestres"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.9.  Identifica y conoce los riesgos de contaminación quimica que puede ocasionar su conlidante (parcela vecina convencional)",
+		"item_puntaje": 2,
+		"observacion": "Sí, informa el riesgo al momento de la inspección interna, porque sabe las consecuencias que ocasionaría"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.9.  Identifica y conoce los riesgos de contaminación quimica que puede ocasionar su conlidante (parcela vecina convencional)",
+		"item_puntaje": 2,
+		"observacion": "No porque no informa al momento de la inspección interna"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.10. Conoce las zonas con riesgo de erosion en su unidad productiva de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, erosión de suelo"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.10. Conoce las zonas con riesgo de erosion en su unidad productiva de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, contaminación cruzada"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.10. Conoce las zonas con riesgo de erosion en su unidad productiva de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, inundación"
+	},
+	{
+		"norma": "3. CONSERVACIÓN DE LA BIODIVERSIDAD Y MEDIO AMBIENTE",
+		"item_norma": "3.10. Conoce las zonas con riesgo de erosion en su unidad productiva de suelo",
+		"item_puntaje": 2,
+		"observacion": "No identifica"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.1. Protege y cuida las fuentes de agua existentes en su unidad productiva (ríos, quebradas, riachuelos)",
+		"item_puntaje": 2,
+		"observacion": "Sí protege, evitando botar basuras inórganicas"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.1. Protege y cuida las fuentes de agua existentes en su unidad productiva (ríos, quebradas, riachuelos)",
+		"item_puntaje": 2,
+		"observacion": "No protege"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.1. Protege y cuida las fuentes de agua existentes en su unidad productiva (ríos, quebradas, riachuelos)",
+		"item_puntaje": 2,
+		"observacion": "Sí protege, conservando los árboles en los bordes"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.1. Protege y cuida las fuentes de agua existentes en su unidad productiva (ríos, quebradas, riachuelos)",
+		"item_puntaje": 2,
+		"observacion": "Sí protege, sembrando árboles o especies forestales"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.2. Evita el depósito de las aguas residuales (baño) en las fuentes de agua",
+		"item_puntaje": 2,
+		"observacion": "Sí prohibe"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.2. Evita el depósito de las aguas residuales (baño) en las fuentes de agua",
+		"item_puntaje": 2,
+		"observacion": "No prohibe"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.3. Evita  llevar y poner envases plasticos o desperdicios inorganicos en la fuente de agua",
+		"item_puntaje": 2,
+		"observacion": "si evita"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.3. Evita  llevar y poner envases plasticos o desperdicios inorganicos en la fuente de agua",
+		"item_puntaje": 2,
+		"observacion": "Tiene un sistema de riego que afecta el abastecimiento de agua"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.3. Evita  llevar y poner envases plasticos o desperdicios inorganicos en la fuente de agua",
+		"item_puntaje": 2,
+		"observacion": "No tiene sistema de riego"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.4. Las aguas grises y de cocina son bien drenadas y tratadas",
+		"item_puntaje": 2,
+		"observacion": "Sí, porque no son ubicadas en cuerpos de aguas naturales"
+	},
+	{
+		"norma": "4. CONSERVACIÓN DE  LOS RECURSOS HÍDRICOS",
+		"item_norma": "4.4. Las aguas grises y de cocina son bien drenadas y tratadas",
+		"item_puntaje": 2,
+		"observacion": "No porque son ubicadas en cuerpos de aguas naturales"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.1.  Mantiene y conserva  especies  leguminosas en asociación con el cultivo",
+		"item_puntaje": 2,
+		"observacion": "Sí, guaba"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.1.  Mantiene y conserva  especies  leguminosas en asociación con el cultivo",
+		"item_puntaje": 2,
+		"observacion": "No tiene ninguna especie leguminosa"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con capirona"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con bolaina"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con paliperro"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con capirona/bolaina"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con teca"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con teca/capirona"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con teca/bolaina"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con capirona/bolaina/paliperro/caoba/teca/tornillo"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con tornillo"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí,  ha asociado con caoba"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.2. Presenta  especies forestales en asociacion con el cacao",
+		"item_puntaje": 2,
+		"observacion": "No tiene asociado ninguna especie forestal"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.3. Preparó y aplicó materia orgánica / Compost/ Material Vegetal descompuesto",
+		"item_puntaje": 2,
+		"observacion": "Sí,  preparó y aplicó"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.3. Preparó y aplicó materia orgánica / Compost/ Material Vegetal descompuesto",
+		"item_puntaje": 2,
+		"observacion": "Sí, preparó pero falta aplicar"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.3. Preparó y aplicó materia orgánica / Compost/ Material Vegetal descompuesto",
+		"item_puntaje": 2,
+		"observacion": "No preparó"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.4. Conoce que productos organicos autorizados recomienda utilizar la cooperativa",
+		"item_puntaje": 2,
+		"observacion": "Sí, preparó y aplicó EMA (8L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.4. Conoce que productos organicos autorizados recomienda utilizar la cooperativa",
+		"item_puntaje": 2,
+		"observacion": "Sí, preparó pero falta aplicar EMA"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.4. Conoce que productos organicos autorizados recomienda utilizar la cooperativa",
+		"item_puntaje": 2,
+		"observacion": "No preparó y aplicó ningún producto"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.4. Conoce que productos organicos autorizados recomienda utilizar la cooperativa",
+		"item_puntaje": 2,
+		"observacion": "Sí, preparó pero falta aplicar Biol (10L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.4. Conoce que productos organicos autorizados recomienda utilizar la cooperativa",
+		"item_puntaje": 2,
+		"observacion": "Sí, preparó pero falta aplicar Biol"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.5. Aplica en su cacao abonos organicos externos autorizados a nivel foliar y de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, compuesto orgánico de Acopagro"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.5. Aplica en su cacao abonos organicos externos autorizados a nivel foliar y de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, Hard-Toc (1L/ha) + Grow organic (0,5L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.5. Aplica en su cacao abonos organicos externos autorizados a nivel foliar y de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, Wuxal Ascofol (0,5L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.5. Aplica en su cacao abonos organicos externos autorizados a nivel foliar y de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, FX-31 (1L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.5. Aplica en su cacao abonos organicos externos autorizados a nivel foliar y de suelo",
+		"item_puntaje": 2,
+		"observacion": "No aplica ningún producto externo autorizado"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.5. Aplica en su cacao abonos organicos externos autorizados a nivel foliar y de suelo",
+		"item_puntaje": 2,
+		"observacion": "Sí, EMA (8L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.6. Aplico algun  producto externo autorizado para el control o reducción de plagas                                                                          ( insectos y enfermedades)",
+		"item_puntaje": 2,
+		"observacion": "No usa ni almacena productos no permitidos"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.6. Aplico algun  producto externo autorizado para el control o reducción de plagas                                                                          ( insectos y enfermedades)",
+		"item_puntaje": 2,
+		"observacion": "Existe uso y/o almacenamiento de insumos no permitidos"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.7. Existe uso y/o almacenamiento de productos no permitido/ no autorizados                                  (quimicos,foliares y suelos en su unidad productiva no autorizados)",
+		"item_puntaje": 2,
+		"observacion": "Sí, con machete"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.7. Existe uso y/o almacenamiento de productos no permitido/ no autorizados                                  (quimicos,foliares y suelos en su unidad productiva no autorizados)",
+		"item_puntaje": 2,
+		"observacion": "Sí, con chaleadora"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.7. Existe uso y/o almacenamiento de productos no permitido/ no autorizados                                  (quimicos,foliares y suelos en su unidad productiva no autorizados)",
+		"item_puntaje": 2,
+		"observacion": "No realiza deshierbos oportunos"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.8 Realiza deshierbos oportunos y programadas con herramientas adecuadas                        ( machete y chaleadora)",
+		"item_puntaje": 2,
+		"observacion": "Sí, mediante remocion de frutos enfermos"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.8 Realiza deshierbos oportunos y programadas con herramientas adecuadas                        ( machete y chaleadora)",
+		"item_puntaje": 2,
+		"observacion": "Sí, mediante podas de mantenimiento"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.8 Realiza deshierbos oportunos y programadas con herramientas adecuadas                        ( machete y chaleadora)",
+		"item_puntaje": 2,
+		"observacion": "Sí, mediante apertura de calles"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.8 Realiza deshierbos oportunos y programadas con herramientas adecuadas                        ( machete y chaleadora)",
+		"item_puntaje": 2,
+		"observacion": "Sí, mediante raleo de sombra permanente"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.8 Realiza deshierbos oportunos y programadas con herramientas adecuadas                        ( machete y chaleadora)",
+		"item_puntaje": 2,
+		"observacion": "Sí, mediante poda a las sombras permanentes y/o mediante poda a los árboles en los linderos"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.8 Realiza deshierbos oportunos y programadas con herramientas adecuadas                        ( machete y chaleadora)",
+		"item_puntaje": 2,
+		"observacion": "No hace control cultural de plagas"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.8 Realiza deshierbos oportunos y programadas con herramientas adecuadas                        ( machete y chaleadora)",
+		"item_puntaje": 2,
+		"observacion": "Sí, mediante apertura de calles, remoción de frutos  y raleo"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.9. Las mochilas fumigadoras  utilizadas para la aplicacion de productos foliares y fitosanitarias son de uso exclusivo y organico",
+		"item_puntaje": 2,
+		"observacion": "Sí, aplicó Biocinn (150 mL) + Biospore (300 g) / ha"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.9. Las mochilas fumigadoras  utilizadas para la aplicacion de productos foliares y fitosanitarias son de uso exclusivo y organico",
+		"item_puntaje": 2,
+		"observacion": "Sí, Biocinn (150 mL)/ha"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.9. Las mochilas fumigadoras  utilizadas para la aplicacion de productos foliares y fitosanitarias son de uso exclusivo y organico",
+		"item_puntaje": 2,
+		"observacion": "Sí, EMA (8L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.9. Las mochilas fumigadoras  utilizadas para la aplicacion de productos foliares y fitosanitarias son de uso exclusivo y organico",
+		"item_puntaje": 2,
+		"observacion": "Sí, caldo sulfocalcico (10L/ha)"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.9. Las mochilas fumigadoras  utilizadas para la aplicacion de productos foliares y fitosanitarias son de uso exclusivo y organico",
+		"item_puntaje": 2,
+		"observacion": "No aplicó"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.10. Realiza podas  y remoción de frutos  enfermos de manera adecuada y oportuna",
+		"item_puntaje": 2,
+		"observacion": "Sí, realiza"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.10. Realiza podas  y remoción de frutos  enfermos de manera adecuada y oportuna",
+		"item_puntaje": 2,
+		"observacion": "No realiza"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.11. Esta permanentemente en su parcela de cacao, realizando sus actividades agricolas",
+		"item_puntaje": 2,
+		"observacion": "Sí, mochila propria"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.11. Esta permanentemente en su parcela de cacao, realizando sus actividades agricolas",
+		"item_puntaje": 2,
+		"observacion": "Sí, mochila de un productor certificado"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.11. Esta permanentemente en su parcela de cacao, realizando sus actividades agricolas",
+		"item_puntaje": 2,
+		"observacion": "Sí, mochila de la propria empresa"
+	},
+	{
+		"norma": "5. MANEJO INTEGRADO  DEL CULTIVO DE CACAO",
+		"item_norma": "5.11. Esta permanentemente en su parcela de cacao, realizando sus actividades agricolas",
+		"item_puntaje": 2,
+		"observacion": "No, mochila de un productor convencional"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.1. Se previene y controla la erosión del suelo  en las zonas con mayor pendiente dentro de su área de cultivo",
+		"item_puntaje": 1,
+		"observacion": "Sí, mediante la instalación de barreras vivas (eritrina)"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.1. Se previene y controla la erosión del suelo  en las zonas con mayor pendiente dentro de su área de cultivo",
+		"item_puntaje": 1,
+		"observacion": "Sí, evitando la siembra de cacao en terrenos con fuerte pendiente (mayor al 30%)"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.1. Se previene y controla la erosión del suelo  en las zonas con mayor pendiente dentro de su área de cultivo",
+		"item_puntaje": 1,
+		"observacion": "Sí, mediante la conservación de zonas de amortiguamiento"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.1. Se previene y controla la erosión del suelo  en las zonas con mayor pendiente dentro de su área de cultivo",
+		"item_puntaje": 1,
+		"observacion": "No se previene, ni se controla la erosión"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.2. Mantiene y/o conserva cobertura viva (plantas) y muerta (hojarascas) en las superficies del suelo",
+		"item_puntaje": 1,
+		"observacion": "Sí, cobertura viva"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.2. Mantiene y/o conserva cobertura viva (plantas) y muerta (hojarascas) en las superficies del suelo",
+		"item_puntaje": 1,
+		"observacion": "Sí, hojarascas"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.2. Mantiene y/o conserva cobertura viva (plantas) y muerta (hojarascas) en las superficies del suelo",
+		"item_puntaje": 1,
+		"observacion": "Sí, cobertura viva y hojarascas"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.2. Mantiene y/o conserva cobertura viva (plantas) y muerta (hojarascas) en las superficies del suelo",
+		"item_puntaje": 1,
+		"observacion": "No conserva ningún tipo de cobertura"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.3. Establece barreras vivas (eritrina) o muertas (troncos/palos)  en su U.P.",
+		"item_puntaje": 1,
+		"observacion": "Sí, con eritrina"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.3. Establece barreras vivas (eritrina) o muertas (troncos/palos)  en su U.P.",
+		"item_puntaje": 1,
+		"observacion": "Sí, con trozos de madera ubicados de manera horizontal"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.3. Establece barreras vivas (eritrina) o muertas (troncos/palos)  en su U.P.",
+		"item_puntaje": 1,
+		"observacion": "Sí, con eritrina y trozos de madera"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.3. Establece barreras vivas (eritrina) o muertas (troncos/palos)  en su U.P.",
+		"item_puntaje": 1,
+		"observacion": "No mantiene o no tiene"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.4.  Conserva y/o mantiene la vida microbiana (microorganismos)  del suelo",
+		"item_puntaje": 1,
+		"observacion": "Sí, evitando la deforestación de bosques y purmas"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.4.  Conserva y/o mantiene la vida microbiana (microorganismos)  del suelo",
+		"item_puntaje": 1,
+		"observacion": "Sí, evitando la deforestación de bosques/purmas y aplicando EMA"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.4.  Conserva y/o mantiene la vida microbiana (microorganismos)  del suelo",
+		"item_puntaje": 1,
+		"observacion": "Sí, mediante la aplicación de EMA"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.4.  Conserva y/o mantiene la vida microbiana (microorganismos)  del suelo",
+		"item_puntaje": 1,
+		"observacion": "Sí, aplicando EMA y conservando las hojarascas"
+	},
+	{
+		"norma": "6. MANEJO Y CONSERVACIÓN DEL SUELO",
+		"item_norma": "6.4.  Conserva y/o mantiene la vida microbiana (microorganismos)  del suelo",
+		"item_puntaje": 1,
+		"observacion": "No mantiene/incremente"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.1. Prohibe los  botaderos y la quema de basura a cielo abierto",
+		"item_puntaje": 1,
+		"observacion": "Sí, se prohibe y no realiza"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.1. Prohibe los  botaderos y la quema de basura a cielo abierto",
+		"item_puntaje": 1,
+		"observacion": "Realiza la quema de basura a cielo abierto"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.2. Existe  limpieza  continua de deshechos inorganicos en la U.P.",
+		"item_puntaje": 1,
+		"observacion": "Sí, en toda su parcela"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.2. Existe  limpieza  continua de deshechos inorganicos en la U.P.",
+		"item_puntaje": 1,
+		"observacion": "No existe limpieza en su parcela"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.2. Existe  limpieza  continua de deshechos inorganicos en la U.P.",
+		"item_puntaje": 1,
+		"observacion": "Sí pero no en toda la parcela"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.3. Existe un lugar adecuado para ubicar los desechos inorganicos",
+		"item_puntaje": 1,
+		"observacion": "Sí, recoge y los ubica en su microrelleno"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.3. Existe un lugar adecuado para ubicar los desechos inorganicos",
+		"item_puntaje": 1,
+		"observacion": "No recoge o no ubica en su microrelleno"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.4. Presenta SS.HH ( baño/letrina ) en condiciones adecuadas en su U.P.",
+		"item_puntaje": 1,
+		"observacion": "Tiene SS.HH en condiciones adecuadas"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.4. Presenta SS.HH ( baño/letrina ) en condiciones adecuadas en su U.P.",
+		"item_puntaje": 1,
+		"observacion": "No tiene"
+	},
+	{
+		"norma": "7. MANEJO SOSTENIBLE  DE DESECHOS",
+		"item_norma": "7.4. Presenta SS.HH ( baño/letrina ) en condiciones adecuadas en su U.P.",
+		"item_puntaje": 1,
+		"observacion": "Tiene SS.HH en malas condiciones"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.1. Evita la mezcla de su cacao certificado  con el cacao  convencional (vecinos o familiares no organicos )",
+		"item_puntaje": 2,
+		"observacion": "No mezcla"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.1. Evita la mezcla de su cacao certificado  con el cacao  convencional (vecinos o familiares no organicos )",
+		"item_puntaje": 2,
+		"observacion": "Mezcla"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.2. Evita el contacto de su cacao orgánico con sustancias contaminantes (combustible, repelentes ,etc) durante la cosecha",
+		"item_puntaje": 2,
+		"observacion": "No existe contacto o riesgo de contacto"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.2. Evita el contacto de su cacao orgánico con sustancias contaminantes (combustible, repelentes ,etc) durante la cosecha",
+		"item_puntaje": 2,
+		"observacion": "Existe contacto y no previene"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.3. Reduce el riesgo de contaminación del producto durante el traslado del cacao al centro de acopio",
+		"item_puntaje": 2,
+		"observacion": "Sí, mediante el transporte exclusivo del producto certificado"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.3. Reduce el riesgo de contaminación del producto durante el traslado del cacao al centro de acopio",
+		"item_puntaje": 2,
+		"observacion": "No se evita ningún riesgo al momento del transporte"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.4. Selecciona durante la cosecha, cacao bueno, maduro y sano",
+		"item_puntaje": 2,
+		"observacion": "Sí, porque tiene conocimiento (el y toda su familia)"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.4. Selecciona durante la cosecha, cacao bueno, maduro y sano",
+		"item_puntaje": 2,
+		"observacion": "No selecciona el cacao bueno, con el cacao contaminado o malogrado"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.5. Utiliza herramientas y materiales propios ( no convencionales ) y limpios durante la cosecha y traslado del cacao",
+		"item_puntaje": 2,
+		"observacion": "Sí, utiliza sus proprios materiales"
+	},
+	{
+		"norma": "8. INTEGRIDAD DEL PRODUCTO",
+		"item_norma": "8.5. Utiliza herramientas y materiales propios ( no convencionales ) y limpios durante la cosecha y traslado del cacao",
+		"item_puntaje": 2,
+		"observacion": "Utiliza materiales prestados a un productor convencional"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.1.  La contrata de jornaleros para los trabajos en su U.P, es sin  discriminación de ningun  indole",
+		"item_puntaje": 1,
+		"observacion": "No existe ningún tipo de discriminación al momento de la contrata"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.1.  La contrata de jornaleros para los trabajos en su U.P, es sin  discriminación de ningun  indole",
+		"item_puntaje": 1,
+		"observacion": "Existe discriminación"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.2.  Contrata directamente a su mano de obra temporal",
+		"item_puntaje": 1,
+		"observacion": "Sí, acuerdos directos con las personas que trabajarán parcialmente en su U.P."
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.2.  Contrata directamente a su mano de obra temporal",
+		"item_puntaje": 1,
+		"observacion": "No contrata directamente"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.3. Durante los trabajos o actividades que realiza en su U.P no contrata a menores de edad",
+		"item_puntaje": 1,
+		"observacion": "Solo mayores de edad"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.3. Durante los trabajos o actividades que realiza en su U.P no contrata a menores de edad",
+		"item_puntaje": 1,
+		"observacion": "Contrata menores de edad"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.4. La remuneración  o pago de los jornaleros es en  base al sueldo mínimo y horarios del país",
+		"item_puntaje": 1,
+		"observacion": "Sí, S/30 diarios (8 horas/día)"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.4. La remuneración  o pago de los jornaleros es en  base al sueldo mínimo y horarios del país",
+		"item_puntaje": 1,
+		"observacion": "Sí, S/40 diarios (8 horas/día)"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.4. La remuneración  o pago de los jornaleros es en  base al sueldo mínimo y horarios del país",
+		"item_puntaje": 1,
+		"observacion": "Sí, S/50 diarios (8 horas/día)"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.4. La remuneración  o pago de los jornaleros es en  base al sueldo mínimo y horarios del país",
+		"item_puntaje": 1,
+		"observacion": "Sí, S/60 diarios (8 horas/día)"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.4. La remuneración  o pago de los jornaleros es en  base al sueldo mínimo y horarios del país",
+		"item_puntaje": 1,
+		"observacion": "No respeta los horarios, ni el sueldo mínimo"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.5. Las actividades realizadas en su U.P  no implica alguna forma de trabajo forzado de los  trabajadores temporales",
+		"item_puntaje": 1,
+		"observacion": "No existe trabajo forzado o pesado"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.5. Las actividades realizadas en su U.P  no implica alguna forma de trabajo forzado de los  trabajadores temporales",
+		"item_puntaje": 1,
+		"observacion": "Existe trabajo forzado o pesado"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.6. Existe áreas o espacios  adecuadas para el descanso y alimentación de los trabajadores",
+		"item_puntaje": 1,
+		"observacion": "Tambo, casa o área sombria"
+	},
+	{
+		"norma": "9. CONDICIONES LABORALES",
+		"item_norma": "9.6. Existe áreas o espacios  adecuadas para el descanso y alimentación de los trabajadores",
+		"item_puntaje": 1,
+		"observacion": "No tiene tambo, casa o área sombria"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.1. Tiene medicinas y equipo para prevenir y responder a una emergencia (botiquín)",
+		"item_puntaje": 1,
+		"observacion": "Tiene botiquín con medicinas vigentes"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.1. Tiene medicinas y equipo para prevenir y responder a una emergencia (botiquín)",
+		"item_puntaje": 1,
+		"observacion": "Tiene botiquín con medicinas vencidas"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.1. Tiene medicinas y equipo para prevenir y responder a una emergencia (botiquín)",
+		"item_puntaje": 1,
+		"observacion": "No tiene botiquín"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.2. El almacén de insumos, herramientas, combustibles, están bien ubicados y señalizados",
+		"item_puntaje": 1,
+		"observacion": "Sí, correctamente ubicadas y señalizadas"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.2. El almacén de insumos, herramientas, combustibles, están bien ubicados y señalizados",
+		"item_puntaje": 1,
+		"observacion": "Sí, correctamente ubicadas pero no señalizadas"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.2. El almacén de insumos, herramientas, combustibles, están bien ubicados y señalizados",
+		"item_puntaje": 1,
+		"observacion": "No ubica y señala adecuadamente"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.3. Usa equipos de protección basica al momento de fumigar los insumos orgánicos y realizar el deshierbo",
+		"item_puntaje": 1,
+		"observacion": "Sí, lentes, camisa manga larga, botas, mascarilla y gorro"
+	},
+	{
+		"norma": "10. SALUD Y SEGURIDAD",
+		"item_norma": "10.3. Usa equipos de protección basica al momento de fumigar los insumos orgánicos y realizar el deshierbo",
+		"item_puntaje": 1,
+		"observacion": "No usa equipos de protección"
+	},
+	{
+		"norma": "11. SISTEMA INTERNO DE CONTROL",
+		"item_norma": "11.1. Realizó la implementación de las acciones correctivas encontradas en la última inspeccion interna (tambien en el caso  de haber tenido una inspeccion externa de la certificadora)",
+		"item_puntaje": 1,
+		"observacion": "Sí, realizó en el tiempo establecido"
+	},
+	{
+		"norma": "11. SISTEMA INTERNO DE CONTROL",
+		"item_norma": "11.1. Realizó la implementación de las acciones correctivas encontradas en la última inspeccion interna (tambien en el caso  de haber tenido una inspeccion externa de la certificadora)",
+		"item_puntaje": 1,
+		"observacion": "No realiza las implementaciones"
+	},
+	{
+		"norma": "11. SISTEMA INTERNO DE CONTROL",
+		"item_norma": "11.1. Realizó la implementación de las acciones correctivas encontradas en la última inspeccion interna (tambien en el caso  de haber tenido una inspeccion externa de la certificadora)",
+		"item_puntaje": 1,
+		"observacion": "Esta en proceso de implementación"
+	},
+	{
+		"norma": "11. SISTEMA INTERNO DE CONTROL",
+		"item_norma": "11.2. Permitio y facilitó el acceso a las áreas de toda su unidad productiva",
+		"item_puntaje": 1,
+		"observacion": "Brindó todas las facilidades y el acceso a su parcela"
+	},
+	{
+		"norma": "11. SISTEMA INTERNO DE CONTROL",
+		"item_norma": "11.2. Permitio y facilitó el acceso a las áreas de toda su unidad productiva",
+		"item_puntaje": 1,
+		"observacion": "No facilitó el acceso a su U.P."
+	}
+]

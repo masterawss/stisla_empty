@@ -1,0 +1,307 @@
+[
+	{
+		"id": "1",
+		"ubigeo": "220402",
+		"descripcion": "YACUSISA"
+	},
+	{
+		"id": "2",
+		"ubigeo": "220604",
+		"descripcion": "ALTO EL SOL"
+	},
+	{
+		"id": "3",
+		"ubigeo": "220703",
+		"descripcion": "CASPIZAPA"
+	},
+	{
+		"id": "4",
+		"ubigeo": "220401",
+		"descripcion": "SAPOSOA"
+	},
+	{
+		"id": "5",
+		"ubigeo": "220601",
+		"descripcion": "CHAMBIRA"
+	},
+	{
+		"id": "6",
+		"ubigeo": "220705",
+		"descripcion": "PUCACACA"
+	},
+	{
+		"id": "7",
+		"ubigeo": "220602",
+		"descripcion": "BALSAYACU"
+	},
+	{
+		"id": "8",
+		"ubigeo": "220206",
+		"descripcion": "LA LIBERTAD"
+	},
+	{
+		"id": "9",
+		"ubigeo": "220401",
+		"descripcion": "TINGO DE SAPOSOA "
+	},
+	{
+		"id": "10",
+		"ubigeo": "220204",
+		"descripcion": "LEDOY "
+	},
+	{
+		"id": "11",
+		"ubigeo": "220601",
+		"descripcion": "CAYENA"
+	},
+	{
+		"id": "12",
+		"ubigeo": "220601",
+		"descripcion": "LA VICTORIA"
+	},
+	{
+		"id": "13",
+		"ubigeo": "220201",
+		"descripcion": "BELLAVISTA"
+	},
+	{
+		"id": "14",
+		"ubigeo": "220605",
+		"descripcion": "PAJARILLO"
+	},
+	{
+		"id": "15",
+		"ubigeo": "220402",
+		"descripcion": "PASARRAYA"
+	},
+	{
+		"id": "16",
+		"ubigeo": "220605",
+		"descripcion": "DOS UNIDOS"
+	},
+	{
+		"id": "17",
+		"ubigeo": "220602",
+		"descripcion": "CAMPANILLA"
+	},
+	{
+		"id": "18",
+		"ubigeo": "220604",
+		"descripcion": "PACHIZA"
+	},
+	{
+		"id": "19",
+		"ubigeo": "220605",
+		"descripcion": "ARMAYARI"
+	},
+	{
+		"id": "20",
+		"ubigeo": "220603",
+		"descripcion": "SHEPTE"
+	},
+	{
+		"id": "21",
+		"ubigeo": "220603",
+		"descripcion": "HUICUNGO"
+	},
+	{
+		"id": "22",
+		"ubigeo": "220605",
+		"descripcion": "CAPIRONA"
+	},
+	{
+		"id": "23",
+		"ubigeo": "220604",
+		"descripcion": "BELLO HORIZONTE"
+	},
+	{
+		"id": "24",
+		"ubigeo": "220401",
+		"descripcion": "AHUIHUA"
+	},
+	{
+		"id": "25",
+		"ubigeo": "220603",
+		"descripcion": "DOS DE MAYO"
+	},
+	{
+		"id": "26",
+		"ubigeo": "220401",
+		"descripcion": "TANGER"
+	},
+	{
+		"id": "27",
+		"ubigeo": "220402",
+		"descripcion": "NUEVA VIDA"
+	},
+	{
+		"id": "28",
+		"ubigeo": "220604",
+		"descripcion": "MARISOL"
+	},
+	{
+		"id": "29",
+		"ubigeo": "220604",
+		"descripcion": "BAGAZAN"
+	},
+	{
+		"id": "30",
+		"ubigeo": "220401",
+		"descripcion": "SAN REGIS"
+	},
+	{
+		"id": "31",
+		"ubigeo": "220603",
+		"descripcion": "PUCALLPILLO"
+	},
+	{
+		"id": "32",
+		"ubigeo": "220602",
+		"descripcion": "PERLA MAYO"
+	},
+	{
+		"id": "33",
+		"ubigeo": "220601",
+		"descripcion": "EL PORVENIR"
+	},
+	{
+		"id": "34",
+		"ubigeo": "220705",
+		"descripcion": "CEDRO PAMPA"
+	},
+	{
+		"id": "35",
+		"ubigeo": "220603",
+		"descripcion": "PIZARRO"
+	},
+	{
+		"id": "36",
+		"ubigeo": "220605",
+		"descripcion": "SOLEDAD"
+	},
+	{
+		"id": "37",
+		"ubigeo": "220604",
+		"descripcion": "RICARDO PALMA"
+	},
+	{
+		"id": "38",
+		"ubigeo": "220604",
+		"descripcion": "SANCHIMA"
+	},
+	{
+		"id": "39",
+		"ubigeo": "220603",
+		"descripcion": "MOJARRAS"
+	},
+	{
+		"id": "40",
+		"ubigeo": "220205",
+		"descripcion": "HUINGOYACU"
+	},
+	{
+		"id": "42",
+		"ubigeo": "220604",
+		"descripcion": "SAN RAMON"
+	},
+	{
+		"id": "43",
+		"ubigeo": "220604",
+		"descripcion": "MONTERREY"
+	},
+	{
+		"id": "44",
+		"ubigeo": "220204",
+		"descripcion": "AUCARARCA"
+	},
+	{
+		"id": "45",
+		"ubigeo": "220602",
+		"descripcion": "PAMPA HERMOZA"
+	},
+	{
+		"id": "46",
+		"ubigeo": "220603",
+		"descripcion": "SANTA INES"
+	},
+	{
+		"id": "47",
+		"ubigeo": "220604",
+		"descripcion": "ATAHUALLPA"
+	},
+	{
+		"id": "48",
+		"ubigeo": "220602",
+		"descripcion": "SHUMANZA"
+	},
+	{
+		"id": "49",
+		"ubigeo": "220604",
+		"descripcion": "NUEVO EDEN"
+	},
+	{
+		"id": "50",
+		"ubigeo": "220710",
+		"descripcion": "TRES UNIDOS"
+	},
+	{
+		"id": "51",
+		"ubigeo": "220603",
+		"descripcion": "PRIMAVERA"
+	},
+	{
+		"id": "52",
+		"ubigeo": "220604",
+		"descripcion": "SAN JUAN DEL CAÑO"
+	},
+	{
+		"id": "53",
+		"ubigeo": "220603",
+		"descripcion": "NUEVA ESPERANZA"
+	},
+	{
+		"id": "54",
+		"ubigeo": "220602",
+		"descripcion": "CUÑUMBUZA"
+	},
+	{
+		"id": "55",
+		"ubigeo": "220202",
+		"descripcion": "PUERTO BERMUDEZ"
+	},
+	{
+		"id": "56",
+		"ubigeo": "220202",
+		"descripcion": "ALTO YANAYACU"
+	},
+	{
+		"id": "57",
+		"ubigeo": "220202",
+		"descripcion": "CENTRO AMERICA"
+	},
+	{
+		"id": "58",
+		"ubigeo": "220604",
+		"descripcion": "GERVACIO"
+	},
+	{
+		"id": "59",
+		"ubigeo": "220602",
+		"descripcion": "NUEVO JAEN"
+	},
+	{
+		"id": "60",
+		"ubigeo": "220205",
+		"descripcion": "MERCEDES"
+	},
+	{
+		"id": "61",
+		"ubigeo": "220601",
+		"descripcion": "JUANJUI"
+	},
+	{
+		"id": "62",
+		"ubigeo": "220604",
+		"descripcion": "MAGDALENA"
+	}
+]

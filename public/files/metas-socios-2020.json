@@ -1,0 +1,8932 @@
+[
+    {
+      "n": "1",
+      "codigo_socio": "ACO-02626",
+      "meta": "1129.2"
+    },
+    {
+      "n": "2",
+      "codigo_socio": "ACO-03031",
+      "meta": "451.2"
+    },
+    {
+      "n": "3",
+      "codigo_socio": "ACO-03800",
+      "meta": "130.2"
+    },
+    {
+      "n": "4",
+      "codigo_socio": "ACO-02632",
+      "meta": "1108.8"
+    },
+    {
+      "n": "5",
+      "codigo_socio": "ACO-03032",
+      "meta": "729.6"
+    },
+    {
+      "n": "6",
+      "codigo_socio": "ACO-02768",
+      "meta": "1598.4"
+    },
+    {
+      "n": "7",
+      "codigo_socio": "ACO-02769",
+      "meta": "564"
+    },
+    {
+      "n": "8",
+      "codigo_socio": "ACO-02630",
+      "meta": "1561.2"
+    },
+    {
+      "n": "9",
+      "codigo_socio": "ACO-03914",
+      "meta": "230.4"
+    },
+    {
+      "n": "10",
+      "codigo_socio": "ACO-02767",
+      "meta": "853.2"
+    },
+    {
+      "n": "11",
+      "codigo_socio": "ACO-03616",
+      "meta": "684"
+    },
+    {
+      "n": "12",
+      "codigo_socio": "ACO-02628",
+      "meta": "1246.8"
+    },
+    {
+      "n": "13",
+      "codigo_socio": "ACO-02770",
+      "meta": "334.8"
+    },
+    {
+      "n": "14",
+      "codigo_socio": "ACO-00062",
+      "meta": "1238.4"
+    },
+    {
+      "n": "15",
+      "codigo_socio": "ACO-00058",
+      "meta": "4140"
+    },
+    {
+      "n": "16",
+      "codigo_socio": "ACO-00066",
+      "meta": "148.2"
+    },
+    {
+      "n": "17",
+      "codigo_socio": "ACO-03531",
+      "meta": "1577.4"
+    },
+    {
+      "n": "18",
+      "codigo_socio": "ACO-00067",
+      "meta": "1165.8"
+    },
+    {
+      "n": "19",
+      "codigo_socio": "ACO-00065",
+      "meta": "3679.8"
+    },
+    {
+      "n": "20",
+      "codigo_socio": "ACO-00602",
+      "meta": "670.8"
+    },
+    {
+      "n": "21",
+      "codigo_socio": "ACO-03695",
+      "meta": "3090.6"
+    },
+    {
+      "n": "22",
+      "codigo_socio": "ACO-03617",
+      "meta": "1555.2"
+    },
+    {
+      "n": "23",
+      "codigo_socio": "ACO-00057",
+      "meta": "1929"
+    },
+    {
+      "n": "24",
+      "codigo_socio": "ACO-00055",
+      "meta": "220.8"
+    },
+    {
+      "n": "25",
+      "codigo_socio": "ACO-00069",
+      "meta": "385.8"
+    },
+    {
+      "n": "26",
+      "codigo_socio": "ACO-00011",
+      "meta": "2109.6"
+    },
+    {
+      "n": "27",
+      "codigo_socio": "ACO-00165",
+      "meta": "1230"
+    },
+    {
+      "n": "28",
+      "codigo_socio": "ACO-00203",
+      "meta": "387"
+    },
+    {
+      "n": "29",
+      "codigo_socio": "ACO-01023",
+      "meta": "1669.2"
+    },
+    {
+      "n": "30",
+      "codigo_socio": "ACO-00052",
+      "meta": "1530"
+    },
+    {
+      "n": "31",
+      "codigo_socio": "ACO-03137",
+      "meta": "3581.4"
+    },
+    {
+      "n": "32",
+      "codigo_socio": "ACO-00164",
+      "meta": "813"
+    },
+    {
+      "n": "33",
+      "codigo_socio": "ACO-03694",
+      "meta": "693.6"
+    },
+    {
+      "n": "34",
+      "codigo_socio": "ACO-03563",
+      "meta": "979.8"
+    },
+    {
+      "n": "35",
+      "codigo_socio": "ACO-00036",
+      "meta": "724.8"
+    },
+    {
+      "n": "36",
+      "codigo_socio": "ACO-00125",
+      "meta": "148.8"
+    },
+    {
+      "n": "37",
+      "codigo_socio": "ACO-00340",
+      "meta": "233"
+    },
+    {
+      "n": "38",
+      "codigo_socio": "ACO-00246",
+      "meta": "152"
+    },
+    {
+      "n": "39",
+      "codigo_socio": "ACO-00335",
+      "meta": "152"
+    },
+    {
+      "n": "40",
+      "codigo_socio": "ACO-00084",
+      "meta": "2329.5"
+    },
+    {
+      "n": "41",
+      "codigo_socio": "ACO-00360",
+      "meta": "258"
+    },
+    {
+      "n": "42",
+      "codigo_socio": "ACO-01363",
+      "meta": "1217.4"
+    },
+    {
+      "n": "43",
+      "codigo_socio": "ACO-00796",
+      "meta": "513.6"
+    },
+    {
+      "n": "44",
+      "codigo_socio": "ACO-00648",
+      "meta": "856.2"
+    },
+    {
+      "n": "45",
+      "codigo_socio": "ACO-02498",
+      "meta": "455.4"
+    },
+    {
+      "n": "46",
+      "codigo_socio": "ACO-01080",
+      "meta": "649.8"
+    },
+    {
+      "n": "47",
+      "codigo_socio": "ACO-02586",
+      "meta": "818.4"
+    },
+    {
+      "n": "48",
+      "codigo_socio": "ACO-02786",
+      "meta": "457.2"
+    },
+    {
+      "n": "49",
+      "codigo_socio": "ACO-02138",
+      "meta": "477.6"
+    },
+    {
+      "n": "50",
+      "codigo_socio": "ACO-02784",
+      "meta": "1011.6"
+    },
+    {
+      "n": "51",
+      "codigo_socio": "ACO-01230",
+      "meta": "983.4"
+    },
+    {
+      "n": "52",
+      "codigo_socio": "ACO-03785",
+      "meta": "378.6"
+    },
+    {
+      "n": "53",
+      "codigo_socio": "ACO-03825",
+      "meta": "1513.8"
+    },
+    {
+      "n": "54",
+      "codigo_socio": "ACO-00795",
+      "meta": "541.8"
+    },
+    {
+      "n": "55",
+      "codigo_socio": "ACO-01375",
+      "meta": "383.4"
+    },
+    {
+      "n": "56",
+      "codigo_socio": "ACO-00769",
+      "meta": "930"
+    },
+    {
+      "n": "57",
+      "codigo_socio": "ACO-01229",
+      "meta": "190.8"
+    },
+    {
+      "n": "58",
+      "codigo_socio": "ACO-00768",
+      "meta": "361.8"
+    },
+    {
+      "n": "59",
+      "codigo_socio": "ACO-02007",
+      "meta": "406.2"
+    },
+    {
+      "n": "60",
+      "codigo_socio": "ACO-03650",
+      "meta": "127.2"
+    },
+    {
+      "n": "61",
+      "codigo_socio": "ACO-00770",
+      "meta": "663"
+    },
+    {
+      "n": "62",
+      "codigo_socio": "ACO-00771",
+      "meta": "448.2"
+    },
+    {
+      "n": "63",
+      "codigo_socio": "ACO-01374",
+      "meta": "486"
+    },
+    {
+      "n": "64",
+      "codigo_socio": "ACO-03633",
+      "meta": "399.6"
+    },
+    {
+      "n": "65",
+      "codigo_socio": "ACO-02623",
+      "meta": "1402.8"
+    },
+    {
+      "n": "66",
+      "codigo_socio": "ACO-03651",
+      "meta": "390"
+    },
+    {
+      "n": "67",
+      "codigo_socio": "ACO-03247",
+      "meta": "448.2"
+    },
+    {
+      "n": "68",
+      "codigo_socio": "ACO-02053",
+      "meta": "693"
+    },
+    {
+      "n": "69",
+      "codigo_socio": "ACO-03613",
+      "meta": "547.8"
+    },
+    {
+      "n": "70",
+      "codigo_socio": "ACO-03644",
+      "meta": "457.8"
+    },
+    {
+      "n": "71",
+      "codigo_socio": "ACO-00772",
+      "meta": "2102.4"
+    },
+    {
+      "n": "72",
+      "codigo_socio": "ACO-01228",
+      "meta": "470.4"
+    },
+    {
+      "n": "73",
+      "codigo_socio": "ACO-01227",
+      "meta": "1420.8"
+    },
+    {
+      "n": "74",
+      "codigo_socio": "ACO-01069",
+      "meta": "1841.4"
+    },
+    {
+      "n": "75",
+      "codigo_socio": "ACO-02006",
+      "meta": "1606.8"
+    },
+    {
+      "n": "76",
+      "codigo_socio": "ACO-02134",
+      "meta": "628.2"
+    },
+    {
+      "n": "77",
+      "codigo_socio": "ACO-03028",
+      "meta": "1144.2"
+    },
+    {
+      "n": "78",
+      "codigo_socio": "ACO-02237",
+      "meta": "1525.2"
+    },
+    {
+      "n": "79",
+      "codigo_socio": "ACO-00793",
+      "meta": "927.6"
+    },
+    {
+      "n": "80",
+      "codigo_socio": "ACO-03255",
+      "meta": "173.4"
+    },
+    {
+      "n": "81",
+      "codigo_socio": "ACO-03614",
+      "meta": "1111.8"
+    },
+    {
+      "n": "82",
+      "codigo_socio": "ACO-02572",
+      "meta": "312"
+    },
+    {
+      "n": "83",
+      "codigo_socio": "ACO-00818",
+      "meta": "1462.2"
+    },
+    {
+      "n": "84",
+      "codigo_socio": "ACO-00773",
+      "meta": "718.8"
+    },
+    {
+      "n": "85",
+      "codigo_socio": "ACO-03826",
+      "meta": "703.8"
+    },
+    {
+      "n": "86",
+      "codigo_socio": "ACO-02136",
+      "meta": "464.4"
+    },
+    {
+      "n": "87",
+      "codigo_socio": "ACO-02357",
+      "meta": "489.6"
+    },
+    {
+      "n": "88",
+      "codigo_socio": "ACO-02571",
+      "meta": "782.4"
+    },
+    {
+      "n": "89",
+      "codigo_socio": "ACO-02088",
+      "meta": "1476.6"
+    },
+    {
+      "n": "90",
+      "codigo_socio": "ACO-02135",
+      "meta": "1543.2"
+    },
+    {
+      "n": "91",
+      "codigo_socio": "ACO-03256",
+      "meta": "1548"
+    },
+    {
+      "n": "92",
+      "codigo_socio": "ACO-03860",
+      "meta": "1018.2"
+    },
+    {
+      "n": "93",
+      "codigo_socio": "ACO-02587",
+      "meta": "2035.2"
+    },
+    {
+      "n": "94",
+      "codigo_socio": "ACO-03880",
+      "meta": "1332.6"
+    },
+    {
+      "n": "95",
+      "codigo_socio": "ACO-02151",
+      "meta": "748.8"
+    },
+    {
+      "n": "96",
+      "codigo_socio": "ACO-03636",
+      "meta": "708"
+    },
+    {
+      "n": "97",
+      "codigo_socio": "ACO-03881",
+      "meta": "2386.8"
+    },
+    {
+      "n": "98",
+      "codigo_socio": "ACO-02194",
+      "meta": "560.4"
+    },
+    {
+      "n": "99",
+      "codigo_socio": "ACO-02137",
+      "meta": "1172.4"
+    },
+    {
+      "n": "100",
+      "codigo_socio": "ACO-03859",
+      "meta": "572.4"
+    },
+    {
+      "n": "101",
+      "codigo_socio": "ACO-03851",
+      "meta": "529.2"
+    },
+    {
+      "n": "102",
+      "codigo_socio": "ACO-03652",
+      "meta": "537"
+    },
+    {
+      "n": "103",
+      "codigo_socio": "ACO-02497",
+      "meta": "304.8"
+    },
+    {
+      "n": "104",
+      "codigo_socio": "ACO-03824",
+      "meta": "461.4"
+    },
+    {
+      "n": "105",
+      "codigo_socio": "ACO-02591",
+      "meta": "3652.8"
+    },
+    {
+      "n": "106",
+      "codigo_socio": "ACO-03500",
+      "meta": "2722.2"
+    },
+    {
+      "n": "107",
+      "codigo_socio": "ACO-02152",
+      "meta": "2785.2"
+    },
+    {
+      "n": "108",
+      "codigo_socio": "ACO-03792",
+      "meta": "1117.2"
+    },
+    {
+      "n": "109",
+      "codigo_socio": "ACO-03363",
+      "meta": "5899.8"
+    },
+    {
+      "n": "110",
+      "codigo_socio": "ACO-02458",
+      "meta": "2238.6"
+    },
+    {
+      "n": "111",
+      "codigo_socio": "ACO-02366",
+      "meta": "2577"
+    },
+    {
+      "n": "112",
+      "codigo_socio": "ACO-02118",
+      "meta": "7156.8"
+    },
+    {
+      "n": "113",
+      "codigo_socio": "ACO-02716",
+      "meta": "1603.2"
+    },
+    {
+      "n": "114",
+      "codigo_socio": "ACO-02364",
+      "meta": "2091"
+    },
+    {
+      "n": "115",
+      "codigo_socio": "ACO-03427",
+      "meta": "3185.4"
+    },
+    {
+      "n": "116",
+      "codigo_socio": "ACO-03408",
+      "meta": "4260"
+    },
+    {
+      "n": "117",
+      "codigo_socio": "ACO-02365",
+      "meta": "4527.6"
+    },
+    {
+      "n": "118",
+      "codigo_socio": "ACO-02718",
+      "meta": "1557.6"
+    },
+    {
+      "n": "119",
+      "codigo_socio": "ACO-03362",
+      "meta": "827.4"
+    },
+    {
+      "n": "120",
+      "codigo_socio": "ACO-03141",
+      "meta": "4270.8"
+    },
+    {
+      "n": "121",
+      "codigo_socio": "ACO-02592",
+      "meta": "2610"
+    },
+    {
+      "n": "122",
+      "codigo_socio": "ACO-03749",
+      "meta": "2082.6"
+    },
+    {
+      "n": "123",
+      "codigo_socio": "ACO-03751",
+      "meta": "2234.4"
+    },
+    {
+      "n": "124",
+      "codigo_socio": "ACO-02594",
+      "meta": "1781.4"
+    },
+    {
+      "n": "125",
+      "codigo_socio": "ACO-02153",
+      "meta": "9580.8"
+    },
+    {
+      "n": "126",
+      "codigo_socio": "ACO-02265",
+      "meta": "3201"
+    },
+    {
+      "n": "127",
+      "codigo_socio": "ACO-03794",
+      "meta": "493.8"
+    },
+    {
+      "n": "128",
+      "codigo_socio": "ACO-03550",
+      "meta": "3692.4"
+    },
+    {
+      "n": "129",
+      "codigo_socio": "ACO-01893",
+      "meta": "13995.6"
+    },
+    {
+      "n": "130",
+      "codigo_socio": "ACO-03793",
+      "meta": "1537.8"
+    },
+    {
+      "n": "131",
+      "codigo_socio": "ACO-01894",
+      "meta": "4883.4"
+    },
+    {
+      "n": "132",
+      "codigo_socio": "ACO-01890",
+      "meta": "18680.4"
+    },
+    {
+      "n": "133",
+      "codigo_socio": "ACO-01896",
+      "meta": "885.6"
+    },
+    {
+      "n": "134",
+      "codigo_socio": "ACO-03750",
+      "meta": "1735.8"
+    },
+    {
+      "n": "135",
+      "codigo_socio": "ACO-03709",
+      "meta": "1040.4"
+    },
+    {
+      "n": "136",
+      "codigo_socio": "ACO-03609",
+      "meta": "1119"
+    },
+    {
+      "n": "137",
+      "codigo_socio": "ACO-03708",
+      "meta": "3420"
+    },
+    {
+      "n": "138",
+      "codigo_socio": "ACO-03745",
+      "meta": "2890.8"
+    },
+    {
+      "n": "139",
+      "codigo_socio": "ACO-03927",
+      "meta": "2557.8"
+    },
+    {
+      "n": "140",
+      "codigo_socio": "ACO-00102",
+      "meta": "138"
+    },
+    {
+      "n": "141",
+      "codigo_socio": "ACO-00197",
+      "meta": "2076"
+    },
+    {
+      "n": "142",
+      "codigo_socio": "ACO-00169",
+      "meta": "531.6"
+    },
+    {
+      "n": "143",
+      "codigo_socio": "ACO-02830",
+      "meta": "2685.6"
+    },
+    {
+      "n": "144",
+      "codigo_socio": "ACO-00104",
+      "meta": "772.2"
+    },
+    {
+      "n": "145",
+      "codigo_socio": "ACO-01059",
+      "meta": "1089.6"
+    },
+    {
+      "n": "146",
+      "codigo_socio": "ACO-00216",
+      "meta": "487.2"
+    },
+    {
+      "n": "147",
+      "codigo_socio": "ACO-00222",
+      "meta": "125.4"
+    },
+    {
+      "n": "148",
+      "codigo_socio": "ACO-00315",
+      "meta": "954"
+    },
+    {
+      "n": "149",
+      "codigo_socio": "ACO-00245",
+      "meta": "583.8"
+    },
+    {
+      "n": "150",
+      "codigo_socio": "ACO-02107",
+      "meta": "468.6"
+    },
+    {
+      "n": "151",
+      "codigo_socio": "ACO-03905",
+      "meta": "1032"
+    },
+    {
+      "n": "152",
+      "codigo_socio": "ACO-03446",
+      "meta": "2834.4"
+    },
+    {
+      "n": "153",
+      "codigo_socio": "ACO-02332",
+      "meta": "1110.6"
+    },
+    {
+      "n": "154",
+      "codigo_socio": "ACO-03596",
+      "meta": "420"
+    },
+    {
+      "n": "155",
+      "codigo_socio": "ACO-03440",
+      "meta": "3571.8"
+    },
+    {
+      "n": "156",
+      "codigo_socio": "ACO-02535",
+      "meta": "4081.8"
+    },
+    {
+      "n": "157",
+      "codigo_socio": "ACO-01982",
+      "meta": "1494"
+    },
+    {
+      "n": "158",
+      "codigo_socio": "ACO-03725",
+      "meta": "808.8"
+    },
+    {
+      "n": "159",
+      "codigo_socio": "ACO-03726",
+      "meta": "956.4"
+    },
+    {
+      "n": "160",
+      "codigo_socio": "ACO-03733",
+      "meta": "13479.6"
+    },
+    {
+      "n": "161",
+      "codigo_socio": "ACO-02534",
+      "meta": "1680"
+    },
+    {
+      "n": "162",
+      "codigo_socio": "ACO-03796",
+      "meta": "4317.6"
+    },
+    {
+      "n": "163",
+      "codigo_socio": "ACO-03720",
+      "meta": "3124.8"
+    },
+    {
+      "n": "164",
+      "codigo_socio": "ACO-01979",
+      "meta": "4135.8"
+    },
+    {
+      "n": "165",
+      "codigo_socio": "ACO-02186",
+      "meta": "1367.4"
+    },
+    {
+      "n": "166",
+      "codigo_socio": "ACO-01978",
+      "meta": "981.6"
+    },
+    {
+      "n": "167",
+      "codigo_socio": "ACO-03752",
+      "meta": "880.8"
+    },
+    {
+      "n": "168",
+      "codigo_socio": "ACO-02724",
+      "meta": "1476"
+    },
+    {
+      "n": "169",
+      "codigo_socio": "ACO-02188",
+      "meta": "549"
+    },
+    {
+      "n": "170",
+      "codigo_socio": "ACO-02012",
+      "meta": "4233"
+    },
+    {
+      "n": "171",
+      "codigo_socio": "ACO-02723",
+      "meta": "1336.2"
+    },
+    {
+      "n": "172",
+      "codigo_socio": "ACO-02726",
+      "meta": "2041.2"
+    },
+    {
+      "n": "173",
+      "codigo_socio": "ACO-02727",
+      "meta": "6910.8"
+    },
+    {
+      "n": "174",
+      "codigo_socio": "ACO-02185",
+      "meta": "8500.2"
+    },
+    {
+      "n": "175",
+      "codigo_socio": "ACO-03730",
+      "meta": "4664.4"
+    },
+    {
+      "n": "176",
+      "codigo_socio": "ACO-03407",
+      "meta": "5769.6"
+    },
+    {
+      "n": "177",
+      "codigo_socio": "ACO-01996",
+      "meta": "15516.6"
+    },
+    {
+      "n": "178",
+      "codigo_socio": "ACO-03630",
+      "meta": "2496.6"
+    },
+    {
+      "n": "179",
+      "codigo_socio": "ACO-03729",
+      "meta": "2191.2"
+    },
+    {
+      "n": "180",
+      "codigo_socio": "ACO-03723",
+      "meta": "999"
+    },
+    {
+      "n": "181",
+      "codigo_socio": "ACO-02722",
+      "meta": "5649.6"
+    },
+    {
+      "n": "182",
+      "codigo_socio": "ACO-03724",
+      "meta": "1731.6"
+    },
+    {
+      "n": "183",
+      "codigo_socio": "ACO-03732",
+      "meta": "3851.4"
+    },
+    {
+      "n": "184",
+      "codigo_socio": "ACO-03597",
+      "meta": "1004.4"
+    },
+    {
+      "n": "185",
+      "codigo_socio": "ACO-03904",
+      "meta": "624.6"
+    },
+    {
+      "n": "186",
+      "codigo_socio": "ACO-03728",
+      "meta": "1650.6"
+    },
+    {
+      "n": "187",
+      "codigo_socio": "ACO-02536",
+      "meta": "1872"
+    },
+    {
+      "n": "188",
+      "codigo_socio": "ACO-03237",
+      "meta": "5106.6"
+    },
+    {
+      "n": "189",
+      "codigo_socio": "ACO-03795",
+      "meta": "1412.4"
+    },
+    {
+      "n": "190",
+      "codigo_socio": "ACO-03227",
+      "meta": "33077.4"
+    },
+    {
+      "n": "191",
+      "codigo_socio": "ACO-03594",
+      "meta": "2040"
+    },
+    {
+      "n": "192",
+      "codigo_socio": "ACO-03406",
+      "meta": "2053.8"
+    },
+    {
+      "n": "193",
+      "codigo_socio": "ACO-03230",
+      "meta": "1420.8"
+    },
+    {
+      "n": "194",
+      "codigo_socio": "ACO-03797",
+      "meta": "2718"
+    },
+    {
+      "n": "195",
+      "codigo_socio": "ACO-03876",
+      "meta": "796.8"
+    },
+    {
+      "n": "196",
+      "codigo_socio": "ACO-03229",
+      "meta": "4311"
+    },
+    {
+      "n": "197",
+      "codigo_socio": "ACO-03721",
+      "meta": "1485"
+    },
+    {
+      "n": "198",
+      "codigo_socio": "ACO-03722",
+      "meta": "1213.2"
+    },
+    {
+      "n": "199",
+      "codigo_socio": "ACO-03852",
+      "meta": "1254.6"
+    },
+    {
+      "n": "200",
+      "codigo_socio": "ACO-03907",
+      "meta": "4096.8"
+    },
+    {
+      "n": "201",
+      "codigo_socio": "ACO-02537",
+      "meta": "2569.8"
+    },
+    {
+      "n": "202",
+      "codigo_socio": "ACO-03595",
+      "meta": "2082.6"
+    },
+    {
+      "n": "203",
+      "codigo_socio": "ACO-03789",
+      "meta": "310.2"
+    },
+    {
+      "n": "204",
+      "codigo_socio": "ACO-03165",
+      "meta": "459.6"
+    },
+    {
+      "n": "205",
+      "codigo_socio": "ACO-03861",
+      "meta": "442.2"
+    },
+    {
+      "n": "206",
+      "codigo_socio": "ACO-03356",
+      "meta": "576.6"
+    },
+    {
+      "n": "207",
+      "codigo_socio": "ACO-03346",
+      "meta": "470.4"
+    },
+    {
+      "n": "208",
+      "codigo_socio": "ACO-02787",
+      "meta": "2060.4"
+    },
+    {
+      "n": "209",
+      "codigo_socio": "ACO-03354",
+      "meta": "316.8"
+    },
+    {
+      "n": "210",
+      "codigo_socio": "ACO-03347",
+      "meta": "764.4"
+    },
+    {
+      "n": "211",
+      "codigo_socio": "ACO-03349",
+      "meta": "1786.2"
+    },
+    {
+      "n": "212",
+      "codigo_socio": "ACO-03357",
+      "meta": "444"
+    },
+    {
+      "n": "213",
+      "codigo_socio": "ACO-03167",
+      "meta": "2357.4"
+    },
+    {
+      "n": "214",
+      "codigo_socio": "ACO-03355",
+      "meta": "588.6"
+    },
+    {
+      "n": "215",
+      "codigo_socio": "ACO-03030",
+      "meta": "2101.2"
+    },
+    {
+      "n": "216",
+      "codigo_socio": "ACO-03029",
+      "meta": "1735.8"
+    },
+    {
+      "n": "217",
+      "codigo_socio": "ACO-03351",
+      "meta": "1216.2"
+    },
+    {
+      "n": "218",
+      "codigo_socio": "ACO-03348",
+      "meta": "1231.8"
+    },
+    {
+      "n": "219",
+      "codigo_socio": "ACO-03258",
+      "meta": "205.2"
+    },
+    {
+      "n": "220",
+      "codigo_socio": "ACO-03718",
+      "meta": "1185.6"
+    },
+    {
+      "n": "221",
+      "codigo_socio": "ACO-03350",
+      "meta": "364.2"
+    },
+    {
+      "n": "222",
+      "codigo_socio": "ACO-03353",
+      "meta": "172.2"
+    },
+    {
+      "n": "223",
+      "codigo_socio": "ACO-03352",
+      "meta": "2258.4"
+    },
+    {
+      "n": "224",
+      "codigo_socio": "ACO-03259",
+      "meta": "1174.2"
+    },
+    {
+      "n": "225",
+      "codigo_socio": "ACO-03816",
+      "meta": "1689.6"
+    },
+    {
+      "n": "226",
+      "codigo_socio": "ACO-03787",
+      "meta": "1359.6"
+    },
+    {
+      "n": "227",
+      "codigo_socio": "ACO-03815",
+      "meta": "1251"
+    },
+    {
+      "n": "228",
+      "codigo_socio": "ACO-03615",
+      "meta": "402"
+    },
+    {
+      "n": "229",
+      "codigo_socio": "ACO-03910",
+      "meta": "955.8"
+    },
+    {
+      "n": "230",
+      "codigo_socio": "ACO-02776",
+      "meta": "1074"
+    },
+    {
+      "n": "231",
+      "codigo_socio": "ACO-00754",
+      "meta": "1333.8"
+    },
+    {
+      "n": "232",
+      "codigo_socio": "ACO-03107",
+      "meta": "1768.2"
+    },
+    {
+      "n": "233",
+      "codigo_socio": "ACO-02224",
+      "meta": "996"
+    },
+    {
+      "n": "234",
+      "codigo_socio": "ACO-02117",
+      "meta": "231"
+    },
+    {
+      "n": "235",
+      "codigo_socio": "ACO-01618",
+      "meta": "414.6"
+    },
+    {
+      "n": "236",
+      "codigo_socio": "ACO-00674",
+      "meta": "337.2"
+    },
+    {
+      "n": "237",
+      "codigo_socio": "ACO-00676",
+      "meta": "1320"
+    },
+    {
+      "n": "238",
+      "codigo_socio": "ACO-01701",
+      "meta": "573"
+    },
+    {
+      "n": "239",
+      "codigo_socio": "ACO-00680",
+      "meta": "101.4"
+    },
+    {
+      "n": "240",
+      "codigo_socio": "ACO-02912",
+      "meta": "337.2"
+    },
+    {
+      "n": "241",
+      "codigo_socio": "ACO-00728",
+      "meta": "1526.4"
+    },
+    {
+      "n": "242",
+      "codigo_socio": "ACO-03958",
+      "meta": "115.2"
+    },
+    {
+      "n": "243",
+      "codigo_socio": "ACO-00709",
+      "meta": "573"
+    },
+    {
+      "n": "244",
+      "codigo_socio": "ACO-03706",
+      "meta": "766.8"
+    },
+    {
+      "n": "245",
+      "codigo_socio": "ACO-02913",
+      "meta": "1088.4"
+    },
+    {
+      "n": "246",
+      "codigo_socio": "ACO-00954",
+      "meta": "1942.2"
+    },
+    {
+      "n": "247",
+      "codigo_socio": "ACO-03952",
+      "meta": "299.4"
+    },
+    {
+      "n": "248",
+      "codigo_socio": "ACO-03949",
+      "meta": "667.2"
+    },
+    {
+      "n": "249",
+      "codigo_socio": "ACO-00410",
+      "meta": "987"
+    },
+    {
+      "n": "250",
+      "codigo_socio": "ACO-01770",
+      "meta": "1970.4"
+    },
+    {
+      "n": "251",
+      "codigo_socio": "ACO-03951",
+      "meta": "1065"
+    },
+    {
+      "n": "252",
+      "codigo_socio": "ACO-03960",
+      "meta": "132"
+    },
+    {
+      "n": "253",
+      "codigo_socio": "ACO-03705",
+      "meta": "180"
+    },
+    {
+      "n": "254",
+      "codigo_socio": "ACO-03661",
+      "meta": "576.6"
+    },
+    {
+      "n": "255",
+      "codigo_socio": "ACO-03219",
+      "meta": "318"
+    },
+    {
+      "n": "256",
+      "codigo_socio": "ACO-03634",
+      "meta": "838.8"
+    },
+    {
+      "n": "257",
+      "codigo_socio": "ACO-03950",
+      "meta": "510"
+    },
+    {
+      "n": "258",
+      "codigo_socio": "ACO-02342",
+      "meta": "734.4"
+    },
+    {
+      "n": "259",
+      "codigo_socio": "ACO-03665",
+      "meta": "738.6"
+    },
+    {
+      "n": "260",
+      "codigo_socio": "ACO-00679",
+      "meta": "664.2"
+    },
+    {
+      "n": "261",
+      "codigo_socio": "ACO-02171",
+      "meta": "410.4"
+    },
+    {
+      "n": "262",
+      "codigo_socio": "ACO-03317",
+      "meta": "268.8"
+    },
+    {
+      "n": "263",
+      "codigo_socio": "ACO-00833",
+      "meta": "438"
+    },
+    {
+      "n": "264",
+      "codigo_socio": "ACO-00726",
+      "meta": "970.2"
+    },
+    {
+      "n": "265",
+      "codigo_socio": "ACO-00893",
+      "meta": "612.6"
+    },
+    {
+      "n": "266",
+      "codigo_socio": "ACO-01365",
+      "meta": "1795.8"
+    },
+    {
+      "n": "267",
+      "codigo_socio": "ACO-00731",
+      "meta": "1579.8"
+    },
+    {
+      "n": "268",
+      "codigo_socio": "ACO-00235",
+      "meta": "934.2"
+    },
+    {
+      "n": "269",
+      "codigo_socio": "ACO-00691",
+      "meta": "1197"
+    },
+    {
+      "n": "270",
+      "codigo_socio": "ACO-01906",
+      "meta": "1153.8"
+    },
+    {
+      "n": "271",
+      "codigo_socio": "ACO-01351",
+      "meta": "589.2"
+    },
+    {
+      "n": "272",
+      "codigo_socio": "ACO-01172",
+      "meta": "518.4"
+    },
+    {
+      "n": "273",
+      "codigo_socio": "ACO-01394",
+      "meta": "464.4"
+    },
+    {
+      "n": "274",
+      "codigo_socio": "ACO-03043",
+      "meta": "773.4"
+    },
+    {
+      "n": "275",
+      "codigo_socio": "ACO-01421",
+      "meta": "628.8"
+    },
+    {
+      "n": "276",
+      "codigo_socio": "ACO-01405",
+      "meta": "509.4"
+    },
+    {
+      "n": "277",
+      "codigo_socio": "ACO-00738",
+      "meta": "4864.2"
+    },
+    {
+      "n": "278",
+      "codigo_socio": "ACO-03044",
+      "meta": "881.4"
+    },
+    {
+      "n": "279",
+      "codigo_socio": "ACO-03625",
+      "meta": "1795.8"
+    },
+    {
+      "n": "280",
+      "codigo_socio": "ACO-02379",
+      "meta": "2181"
+    },
+    {
+      "n": "281",
+      "codigo_socio": "ACO-00697",
+      "meta": "844.8"
+    },
+    {
+      "n": "282",
+      "codigo_socio": "ACO-01599",
+      "meta": "1946.4"
+    },
+    {
+      "n": "283",
+      "codigo_socio": "ACO-03323",
+      "meta": "265.8"
+    },
+    {
+      "n": "284",
+      "codigo_socio": "ACO-01278",
+      "meta": "647.4"
+    },
+    {
+      "n": "285",
+      "codigo_socio": "ACO-01279",
+      "meta": "1146"
+    },
+    {
+      "n": "286",
+      "codigo_socio": "ACO-03324",
+      "meta": "1353.6"
+    },
+    {
+      "n": "287",
+      "codigo_socio": "ACO-01452",
+      "meta": "2553.6"
+    },
+    {
+      "n": "288",
+      "codigo_socio": "ACO-01521",
+      "meta": "496.2"
+    },
+    {
+      "n": "289",
+      "codigo_socio": "ACO-02115",
+      "meta": "1135.8"
+    },
+    {
+      "n": "290",
+      "codigo_socio": "ACO-02058",
+      "meta": "1753.2"
+    },
+    {
+      "n": "291",
+      "codigo_socio": "ACO-03040",
+      "meta": "936"
+    },
+    {
+      "n": "292",
+      "codigo_socio": "ACO-03442",
+      "meta": "302.4"
+    },
+    {
+      "n": "293",
+      "codigo_socio": "ACO-03269",
+      "meta": "324"
+    },
+    {
+      "n": "294",
+      "codigo_socio": "ACO-03321",
+      "meta": "1809.6"
+    },
+    {
+      "n": "295",
+      "codigo_socio": "ACO-03270",
+      "meta": "232.2"
+    },
+    {
+      "n": "296",
+      "codigo_socio": "ACO-03441",
+      "meta": "838.2"
+    },
+    {
+      "n": "297",
+      "codigo_socio": "ACO-02380",
+      "meta": "339.6"
+    },
+    {
+      "n": "298",
+      "codigo_socio": "ACO-00368",
+      "meta": "1879.2"
+    },
+    {
+      "n": "299",
+      "codigo_socio": "ACO-01299",
+      "meta": "982.8"
+    },
+    {
+      "n": "300",
+      "codigo_socio": "ACO-00964",
+      "meta": "1090.8"
+    },
+    {
+      "n": "301",
+      "codigo_socio": "ACO-00965",
+      "meta": "1621.8"
+    },
+    {
+      "n": "302",
+      "codigo_socio": "ACO-01297",
+      "meta": "1923.6"
+    },
+    {
+      "n": "303",
+      "codigo_socio": "ACO-01298",
+      "meta": "876"
+    },
+    {
+      "n": "304",
+      "codigo_socio": "ACO-02178",
+      "meta": "156"
+    },
+    {
+      "n": "305",
+      "codigo_socio": "ACO-02748",
+      "meta": "902.4"
+    },
+    {
+      "n": "306",
+      "codigo_socio": "ACO-01296",
+      "meta": "1839.6"
+    },
+    {
+      "n": "307",
+      "codigo_socio": "ACO-03215",
+      "meta": "1682.4"
+    },
+    {
+      "n": "308",
+      "codigo_socio": "ACO-03359",
+      "meta": "988.2"
+    },
+    {
+      "n": "309",
+      "codigo_socio": "ACO-03392",
+      "meta": "190.8"
+    },
+    {
+      "n": "310",
+      "codigo_socio": "ACO-02705",
+      "meta": "1171.2"
+    },
+    {
+      "n": "311",
+      "codigo_socio": "ACO-01211",
+      "meta": "844.8"
+    },
+    {
+      "n": "312",
+      "codigo_socio": "ACO-02222",
+      "meta": "1394.4"
+    },
+    {
+      "n": "313",
+      "codigo_socio": "ACO-00850",
+      "meta": "1047"
+    },
+    {
+      "n": "314",
+      "codigo_socio": "ACO-02704",
+      "meta": "120"
+    },
+    {
+      "n": "315",
+      "codigo_socio": "ACO-01822",
+      "meta": "393.6"
+    },
+    {
+      "n": "316",
+      "codigo_socio": "ACO-01992",
+      "meta": "488.4"
+    },
+    {
+      "n": "317",
+      "codigo_socio": "ACO-03216",
+      "meta": "1403.4"
+    },
+    {
+      "n": "318",
+      "codigo_socio": "ACO-00963",
+      "meta": "7007.4"
+    },
+    {
+      "n": "319",
+      "codigo_socio": "ACO-03360",
+      "meta": "1428.6"
+    },
+    {
+      "n": "320",
+      "codigo_socio": "ACO-02929",
+      "meta": "2297.4"
+    },
+    {
+      "n": "321",
+      "codigo_socio": "ACO-02600",
+      "meta": "229.8"
+    },
+    {
+      "n": "322",
+      "codigo_socio": "ACO-02933",
+      "meta": "1378.8"
+    },
+    {
+      "n": "323",
+      "codigo_socio": "ACO-03318",
+      "meta": "884.4"
+    },
+    {
+      "n": "324",
+      "codigo_socio": "ACO-03238",
+      "meta": "795"
+    },
+    {
+      "n": "325",
+      "codigo_socio": "ACO-03151",
+      "meta": "1279.2"
+    },
+    {
+      "n": "326",
+      "codigo_socio": "ACO-03970",
+      "meta": "945"
+    },
+    {
+      "n": "327",
+      "codigo_socio": "ACO-03465",
+      "meta": "607.2"
+    },
+    {
+      "n": "328",
+      "codigo_socio": "ACO-01712",
+      "meta": "444"
+    },
+    {
+      "n": "329",
+      "codigo_socio": "ACO-00366",
+      "meta": "1766.4"
+    },
+    {
+      "n": "330",
+      "codigo_socio": "ACO-01462",
+      "meta": "1418.4"
+    },
+    {
+      "n": "331",
+      "codigo_socio": "ACO-02429",
+      "meta": "1168.8"
+    },
+    {
+      "n": "332",
+      "codigo_socio": "ACO-00971",
+      "meta": "793.2"
+    },
+    {
+      "n": "333",
+      "codigo_socio": "ACO-03554",
+      "meta": "68.4"
+    },
+    {
+      "n": "334",
+      "codigo_socio": "ACO-03740",
+      "meta": "5336.4"
+    },
+    {
+      "n": "335",
+      "codigo_socio": "ACO-02636",
+      "meta": "1214.4"
+    },
+    {
+      "n": "336",
+      "codigo_socio": "ACO-00231",
+      "meta": "1870.2"
+    },
+    {
+      "n": "337",
+      "codigo_socio": "ACO-00254",
+      "meta": "1195.2"
+    },
+    {
+      "n": "338",
+      "codigo_socio": "ACO-03211",
+      "meta": "2248.8"
+    },
+    {
+      "n": "339",
+      "codigo_socio": "ACO-00952",
+      "meta": "348"
+    },
+    {
+      "n": "340",
+      "codigo_socio": "ACO-01805",
+      "meta": "1657.2"
+    },
+    {
+      "n": "341",
+      "codigo_socio": "ACO-00296",
+      "meta": "845.4"
+    },
+    {
+      "n": "342",
+      "codigo_socio": "ACO-02326",
+      "meta": "3065.4"
+    },
+    {
+      "n": "343",
+      "codigo_socio": "ACO-00572",
+      "meta": "1321.2"
+    },
+    {
+      "n": "344",
+      "codigo_socio": "ACO-03628",
+      "meta": "5298.6"
+    },
+    {
+      "n": "345",
+      "codigo_socio": "ACO-01791",
+      "meta": "1166.4"
+    },
+    {
+      "n": "346",
+      "codigo_socio": "ACO-01559",
+      "meta": "490.8"
+    },
+    {
+      "n": "347",
+      "codigo_socio": "ACO-02817",
+      "meta": "1720.8"
+    },
+    {
+      "n": "348",
+      "codigo_socio": "ACO-02818",
+      "meta": "4032.6"
+    },
+    {
+      "n": "349",
+      "codigo_socio": "ACO-01409",
+      "meta": "1208.4"
+    },
+    {
+      "n": "350",
+      "codigo_socio": "ACO-00698",
+      "meta": "930"
+    },
+    {
+      "n": "351",
+      "codigo_socio": "ACO-01087",
+      "meta": "1021.2"
+    },
+    {
+      "n": "352",
+      "codigo_socio": "ACO-03975",
+      "meta": "652.8"
+    },
+    {
+      "n": "353",
+      "codigo_socio": "ACO-03976",
+      "meta": "1198.8"
+    },
+    {
+      "n": "354",
+      "codigo_socio": "ACO-01543",
+      "meta": "2381.4"
+    },
+    {
+      "n": "355",
+      "codigo_socio": "ACO-00316",
+      "meta": "244.8"
+    },
+    {
+      "n": "356",
+      "codigo_socio": "ACO-02700",
+      "meta": "1774.2"
+    },
+    {
+      "n": "357",
+      "codigo_socio": "ACO-00255",
+      "meta": "5373"
+    },
+    {
+      "n": "358",
+      "codigo_socio": "ACO-02319",
+      "meta": "327.6"
+    },
+    {
+      "n": "359",
+      "codigo_socio": "ACO-02049",
+      "meta": "3529.2"
+    },
+    {
+      "n": "360",
+      "codigo_socio": "ACO-03875",
+      "meta": "1540.8"
+    },
+    {
+      "n": "361",
+      "codigo_socio": "ACO-01771",
+      "meta": "447.6"
+    },
+    {
+      "n": "362",
+      "codigo_socio": "ACO-03218",
+      "meta": "1036.8"
+    },
+    {
+      "n": "363",
+      "codigo_socio": "ACO-03691",
+      "meta": "1591.8"
+    },
+    {
+      "n": "364",
+      "codigo_socio": "ACO-02068",
+      "meta": "166.8"
+    },
+    {
+      "n": "365",
+      "codigo_socio": "ACO-00438",
+      "meta": "789"
+    },
+    {
+      "n": "366",
+      "codigo_socio": "ACO-00444",
+      "meta": "963.6"
+    },
+    {
+      "n": "367",
+      "codigo_socio": "ACO-02565",
+      "meta": "630.6"
+    },
+    {
+      "n": "368",
+      "codigo_socio": "ACO-02236",
+      "meta": "394.8"
+    },
+    {
+      "n": "369",
+      "codigo_socio": "ACO-02562",
+      "meta": "740.4"
+    },
+    {
+      "n": "370",
+      "codigo_socio": "ACO-02044",
+      "meta": "484.2"
+    },
+    {
+      "n": "371",
+      "codigo_socio": "ACO-00406",
+      "meta": "493.2"
+    },
+    {
+      "n": "372",
+      "codigo_socio": "ACO-02126",
+      "meta": "1151.4"
+    },
+    {
+      "n": "373",
+      "codigo_socio": "ACO-01867",
+      "meta": "1340.4"
+    },
+    {
+      "n": "374",
+      "codigo_socio": "ACO-01868",
+      "meta": "1059.6"
+    },
+    {
+      "n": "375",
+      "codigo_socio": "ACO-02019",
+      "meta": "427.2"
+    },
+    {
+      "n": "376",
+      "codigo_socio": "ACO-02568",
+      "meta": "2748"
+    },
+    {
+      "n": "377",
+      "codigo_socio": "ACO-02696",
+      "meta": "410.4"
+    },
+    {
+      "n": "378",
+      "codigo_socio": "ACO-02123",
+      "meta": "835.2"
+    },
+    {
+      "n": "379",
+      "codigo_socio": "ACO-02124",
+      "meta": "394.8"
+    },
+    {
+      "n": "380",
+      "codigo_socio": "ACO-02043",
+      "meta": "456"
+    },
+    {
+      "n": "381",
+      "codigo_socio": "ACO-02193",
+      "meta": "402"
+    },
+    {
+      "n": "382",
+      "codigo_socio": "ACO-03886",
+      "meta": "465"
+    },
+    {
+      "n": "383",
+      "codigo_socio": "ACO-03885",
+      "meta": "174"
+    },
+    {
+      "n": "384",
+      "codigo_socio": "ACO-02042",
+      "meta": "655.2"
+    },
+    {
+      "n": "385",
+      "codigo_socio": "ACO-00006",
+      "meta": "196.8"
+    },
+    {
+      "n": "386",
+      "codigo_socio": "ACO-01946",
+      "meta": "141.6"
+    },
+    {
+      "n": "387",
+      "codigo_socio": "ACO-01619",
+      "meta": "429.6"
+    },
+    {
+      "n": "388",
+      "codigo_socio": "ACO-01675",
+      "meta": "1182.6"
+    },
+    {
+      "n": "389",
+      "codigo_socio": "ACO-01665",
+      "meta": "688.8"
+    },
+    {
+      "n": "390",
+      "codigo_socio": "ACO-03002",
+      "meta": "419.4"
+    },
+    {
+      "n": "391",
+      "codigo_socio": "ACO-01566",
+      "meta": "7401"
+    },
+    {
+      "n": "392",
+      "codigo_socio": "ACO-01633",
+      "meta": "324.6"
+    },
+    {
+      "n": "393",
+      "codigo_socio": "ACO-01667",
+      "meta": "361.8"
+    },
+    {
+      "n": "394",
+      "codigo_socio": "ACO-01691",
+      "meta": "387.6"
+    },
+    {
+      "n": "395",
+      "codigo_socio": "ACO-02896",
+      "meta": "120"
+    },
+    {
+      "n": "396",
+      "codigo_socio": "ACO-01658",
+      "meta": "453"
+    },
+    {
+      "n": "397",
+      "codigo_socio": "ACO-01158",
+      "meta": "322.8"
+    },
+    {
+      "n": "398",
+      "codigo_socio": "ACO-02116",
+      "meta": "772.8"
+    },
+    {
+      "n": "399",
+      "codigo_socio": "ACO-02170",
+      "meta": "1333.2"
+    },
+    {
+      "n": "400",
+      "codigo_socio": "ACO-00010",
+      "meta": "403.8"
+    },
+    {
+      "n": "401",
+      "codigo_socio": "ACO-02268",
+      "meta": "1653"
+    },
+    {
+      "n": "402",
+      "codigo_socio": "ACO-01055",
+      "meta": "4383"
+    },
+    {
+      "n": "403",
+      "codigo_socio": "ACO-02848",
+      "meta": "310.2"
+    },
+    {
+      "n": "404",
+      "codigo_socio": "ACO-02232",
+      "meta": "11525.4"
+    },
+    {
+      "n": "405",
+      "codigo_socio": "ACO-02233",
+      "meta": "227.4"
+    },
+    {
+      "n": "406",
+      "codigo_socio": "ACO-02243",
+      "meta": "929.4"
+    },
+    {
+      "n": "407",
+      "codigo_socio": "ACO-02316",
+      "meta": "2071.2"
+    },
+    {
+      "n": "408",
+      "codigo_socio": "ACO-02847",
+      "meta": "877.2"
+    },
+    {
+      "n": "409",
+      "codigo_socio": "ACO-02267",
+      "meta": "291.6"
+    },
+    {
+      "n": "410",
+      "codigo_socio": "ACO-03050",
+      "meta": "3691.2"
+    },
+    {
+      "n": "411",
+      "codigo_socio": "ACO-03294",
+      "meta": "407.4"
+    },
+    {
+      "n": "412",
+      "codigo_socio": "ACO-00565",
+      "meta": "1230"
+    },
+    {
+      "n": "413",
+      "codigo_socio": "ACO-00555",
+      "meta": "1339.2"
+    },
+    {
+      "n": "414",
+      "codigo_socio": "ACO-02129",
+      "meta": "1290"
+    },
+    {
+      "n": "415",
+      "codigo_socio": "ACO-01865",
+      "meta": "1327.8"
+    },
+    {
+      "n": "416",
+      "codigo_socio": "ACO-02130",
+      "meta": "1212"
+    },
+    {
+      "n": "417",
+      "codigo_socio": "ACO-00466",
+      "meta": "3309"
+    },
+    {
+      "n": "418",
+      "codigo_socio": "ACO-03572",
+      "meta": "1104"
+    },
+    {
+      "n": "419",
+      "codigo_socio": "ACO-00552",
+      "meta": "1351.2"
+    },
+    {
+      "n": "420",
+      "codigo_socio": "ACO-03393",
+      "meta": "1425"
+    },
+    {
+      "n": "421",
+      "codigo_socio": "ACO-03394",
+      "meta": "1399.8"
+    },
+    {
+      "n": "422",
+      "codigo_socio": "ACO-03977",
+      "meta": "973.2"
+    },
+    {
+      "n": "423",
+      "codigo_socio": "ACO-03320",
+      "meta": "1327.8"
+    },
+    {
+      "n": "424",
+      "codigo_socio": "ACO-02635",
+      "meta": "2336.4"
+    },
+    {
+      "n": "425",
+      "codigo_socio": "ACO-01407",
+      "meta": "1149.6"
+    },
+    {
+      "n": "426",
+      "codigo_socio": "ACO-03039",
+      "meta": "423"
+    },
+    {
+      "n": "427",
+      "codigo_socio": "ACO-02127",
+      "meta": "1983.6"
+    },
+    {
+      "n": "428",
+      "codigo_socio": "ACO-03268",
+      "meta": "1045.2"
+    },
+    {
+      "n": "429",
+      "codigo_socio": "ACO-03571",
+      "meta": "5988.6"
+    },
+    {
+      "n": "430",
+      "codigo_socio": "ACO-03969",
+      "meta": "1140.6"
+    },
+    {
+      "n": "431",
+      "codigo_socio": "ACO-03926",
+      "meta": "1346.4"
+    },
+    {
+      "n": "432",
+      "codigo_socio": "ACO-01585",
+      "meta": "29659.2"
+    },
+    {
+      "n": "433",
+      "codigo_socio": "ACO-03988",
+      "meta": "550"
+    },
+    {
+      "n": "434",
+      "codigo_socio": "ACO-02388",
+      "meta": "978"
+    },
+    {
+      "n": "435",
+      "codigo_socio": "ACO-00973",
+      "meta": "2618.4"
+    },
+    {
+      "n": "436",
+      "codigo_socio": "ACO-02501",
+      "meta": "3986.4"
+    },
+    {
+      "n": "437",
+      "codigo_socio": "ACO-00571",
+      "meta": "1802.4"
+    },
+    {
+      "n": "438",
+      "codigo_socio": "ACO-03806",
+      "meta": "3498"
+    },
+    {
+      "n": "439",
+      "codigo_socio": "ACO-02449",
+      "meta": "4413.6"
+    },
+    {
+      "n": "440",
+      "codigo_socio": "ACO-03871",
+      "meta": "2248.8"
+    },
+    {
+      "n": "441",
+      "codigo_socio": "ACO-00853",
+      "meta": "5577.6"
+    },
+    {
+      "n": "442",
+      "codigo_socio": "ACO-00822",
+      "meta": "6689.4"
+    },
+    {
+      "n": "443",
+      "codigo_socio": "ACO-02257",
+      "meta": "1014"
+    },
+    {
+      "n": "444",
+      "codigo_socio": "ACO-03946",
+      "meta": "5395.2"
+    },
+    {
+      "n": "445",
+      "codigo_socio": "ACO-00737",
+      "meta": "7824.6"
+    },
+    {
+      "n": "446",
+      "codigo_socio": "ACO-03837",
+      "meta": "3290.4"
+    },
+    {
+      "n": "447",
+      "codigo_socio": "ACO-00579",
+      "meta": "3517.2"
+    },
+    {
+      "n": "448",
+      "codigo_socio": "ACO-00241",
+      "meta": "2829"
+    },
+    {
+      "n": "449",
+      "codigo_socio": "ACO-02425",
+      "meta": "8446.8"
+    },
+    {
+      "n": "450",
+      "codigo_socio": "ACO-02691",
+      "meta": "4610.4"
+    },
+    {
+      "n": "451",
+      "codigo_socio": "ACO-00447",
+      "meta": "3786"
+    },
+    {
+      "n": "452",
+      "codigo_socio": "ACO-00265",
+      "meta": "2481.6"
+    },
+    {
+      "n": "453",
+      "codigo_socio": "ACO-03883",
+      "meta": "2508"
+    },
+    {
+      "n": "454",
+      "codigo_socio": "ACO-03690",
+      "meta": "5170.8"
+    },
+    {
+      "n": "455",
+      "codigo_socio": "ACO-02690",
+      "meta": "6483.6"
+    },
+    {
+      "n": "456",
+      "codigo_socio": "ACO-00608",
+      "meta": "1053.6"
+    },
+    {
+      "n": "457",
+      "codigo_socio": "ACO-00343",
+      "meta": "1438.8"
+    },
+    {
+      "n": "458",
+      "codigo_socio": "ACO-00456",
+      "meta": "3441.6"
+    },
+    {
+      "n": "459",
+      "codigo_socio": "ACO-03684",
+      "meta": "415.2"
+    },
+    {
+      "n": "460",
+      "codigo_socio": "ACO-00640",
+      "meta": "5011.8"
+    },
+    {
+      "n": "461",
+      "codigo_socio": "ACO-00570",
+      "meta": "3679.2"
+    },
+    {
+      "n": "462",
+      "codigo_socio": "ACO-00580",
+      "meta": "3603.6"
+    },
+    {
+      "n": "463",
+      "codigo_socio": "ACO-02926",
+      "meta": "2966.4"
+    },
+    {
+      "n": "464",
+      "codigo_socio": "ACO-03923",
+      "meta": "9392.4"
+    },
+    {
+      "n": "465",
+      "codigo_socio": "ACO-02074",
+      "meta": "3090"
+    },
+    {
+      "n": "466",
+      "codigo_socio": "ACO-00632",
+      "meta": "1234.8"
+    },
+    {
+      "n": "467",
+      "codigo_socio": "ACO-03869",
+      "meta": "2788.2"
+    },
+    {
+      "n": "468",
+      "codigo_socio": "ACO-02854",
+      "meta": "1388.4"
+    },
+    {
+      "n": "469",
+      "codigo_socio": "ACO-00354",
+      "meta": "3960"
+    },
+    {
+      "n": "470",
+      "codigo_socio": "ACO-01425",
+      "meta": "4074"
+    },
+    {
+      "n": "471",
+      "codigo_socio": "ACO-03469",
+      "meta": "2636.4"
+    },
+    {
+      "n": "472",
+      "codigo_socio": "ACO-00917",
+      "meta": "4242"
+    },
+    {
+      "n": "473",
+      "codigo_socio": "ACO-03685",
+      "meta": "2376.6"
+    },
+    {
+      "n": "474",
+      "codigo_socio": "ACO-03468",
+      "meta": "208.8"
+    },
+    {
+      "n": "475",
+      "codigo_socio": "ACO-00607",
+      "meta": "5321.4"
+    },
+    {
+      "n": "476",
+      "codigo_socio": "ACO-03622",
+      "meta": "3164.4"
+    },
+    {
+      "n": "477",
+      "codigo_socio": "ACO-03516",
+      "meta": "31785"
+    },
+    {
+      "n": "478",
+      "codigo_socio": "ACO-03809",
+      "meta": "3964.8"
+    },
+    {
+      "n": "479",
+      "codigo_socio": "ACO-00361",
+      "meta": "21536.4"
+    },
+    {
+      "n": "480",
+      "codigo_socio": "ACO-00577",
+      "meta": "12690"
+    },
+    {
+      "n": "481",
+      "codigo_socio": "ACO-02951",
+      "meta": "2336.4"
+    },
+    {
+      "n": "482",
+      "codigo_socio": "ACO-03807",
+      "meta": "7251.6"
+    },
+    {
+      "n": "483",
+      "codigo_socio": "ACO-02427",
+      "meta": "285.6"
+    },
+    {
+      "n": "484",
+      "codigo_socio": "ACO-00759",
+      "meta": "4994.4"
+    },
+    {
+      "n": "485",
+      "codigo_socio": "ACO-00374",
+      "meta": "3757.2"
+    },
+    {
+      "n": "486",
+      "codigo_socio": "ACO-00591",
+      "meta": "3734.4"
+    },
+    {
+      "n": "487",
+      "codigo_socio": "ACO-03805",
+      "meta": "11296.8"
+    },
+    {
+      "n": "488",
+      "codigo_socio": "ACO-03922",
+      "meta": "1378.2"
+    },
+    {
+      "n": "489",
+      "codigo_socio": "ACO-03419",
+      "meta": "4515"
+    },
+    {
+      "n": "490",
+      "codigo_socio": "ACO-00753",
+      "meta": "1356"
+    },
+    {
+      "n": "491",
+      "codigo_socio": "ACO-02274",
+      "meta": "816"
+    },
+    {
+      "n": "492",
+      "codigo_socio": "ACO-02813",
+      "meta": "5797.2"
+    },
+    {
+      "n": "493",
+      "codigo_socio": "ACO-02742",
+      "meta": "1401.6"
+    },
+    {
+      "n": "494",
+      "codigo_socio": "ACO-02660",
+      "meta": "1033.2"
+    },
+    {
+      "n": "495",
+      "codigo_socio": "ACO-02852",
+      "meta": "759.6"
+    },
+    {
+      "n": "496",
+      "codigo_socio": "ACO-02611",
+      "meta": "2030.4"
+    },
+    {
+      "n": "497",
+      "codigo_socio": "ACO-03608",
+      "meta": "295.2"
+    },
+    {
+      "n": "498",
+      "codigo_socio": "ACO-03812",
+      "meta": "5659.2"
+    },
+    {
+      "n": "499",
+      "codigo_socio": "ACO-03249",
+      "meta": "4233.6"
+    },
+    {
+      "n": "500",
+      "codigo_socio": "ACO-03870",
+      "meta": "1465.2"
+    },
+    {
+      "n": "501",
+      "codigo_socio": "ACO-03760",
+      "meta": "3758.4"
+    },
+    {
+      "n": "502",
+      "codigo_socio": "ACO-03981",
+      "meta": "4831.8"
+    },
+    {
+      "n": "503",
+      "codigo_socio": "ACO-03716",
+      "meta": "3906"
+    },
+    {
+      "n": "504",
+      "codigo_socio": "ACO-03979",
+      "meta": "1366.8"
+    },
+    {
+      "n": "505",
+      "codigo_socio": "ACO-03978",
+      "meta": "648"
+    },
+    {
+      "n": "506",
+      "codigo_socio": "ACO-03921",
+      "meta": "2410.8"
+    },
+    {
+      "n": "507",
+      "codigo_socio": "ACO-03624",
+      "meta": "1856.4"
+    },
+    {
+      "n": "508",
+      "codigo_socio": "ACO-00436",
+      "meta": "4005.6"
+    },
+    {
+      "n": "509",
+      "codigo_socio": "ACO-03947",
+      "meta": "1957.2"
+    },
+    {
+      "n": "510",
+      "codigo_socio": "ACO-00916",
+      "meta": "3849.6"
+    },
+    {
+      "n": "511",
+      "codigo_socio": "ACO-03626",
+      "meta": "4116.6"
+    },
+    {
+      "n": "512",
+      "codigo_socio": "ACO-03158",
+      "meta": "442.8"
+    },
+    {
+      "n": "513",
+      "codigo_socio": "ACO-02495",
+      "meta": "207.6"
+    },
+    {
+      "n": "514",
+      "codigo_socio": "ACO-03511",
+      "meta": "45.6"
+    },
+    {
+      "n": "515",
+      "codigo_socio": "ACO-02440",
+      "meta": "1521"
+    },
+    {
+      "n": "516",
+      "codigo_socio": "ACO-02646",
+      "meta": "1258.8"
+    },
+    {
+      "n": "517",
+      "codigo_socio": "ACO-03506",
+      "meta": "1669.8"
+    },
+    {
+      "n": "518",
+      "codigo_socio": "ACO-02442",
+      "meta": "2827.2"
+    },
+    {
+      "n": "519",
+      "codigo_socio": "ACO-03891",
+      "meta": "154.8"
+    },
+    {
+      "n": "520",
+      "codigo_socio": "ACO-02494",
+      "meta": "840.6"
+    },
+    {
+      "n": "521",
+      "codigo_socio": "ACO-03810",
+      "meta": "3055.2"
+    },
+    {
+      "n": "522",
+      "codigo_socio": "ACO-02493",
+      "meta": "2446.2"
+    },
+    {
+      "n": "523",
+      "codigo_socio": "ACO-02647",
+      "meta": "211.2"
+    },
+    {
+      "n": "524",
+      "codigo_socio": "ACO-02664",
+      "meta": "447.6"
+    },
+    {
+      "n": "525",
+      "codigo_socio": "ACO-02439",
+      "meta": "647.4"
+    },
+    {
+      "n": "526",
+      "codigo_socio": "ACO-03957",
+      "meta": "25.8"
+    },
+    {
+      "n": "527",
+      "codigo_socio": "ACO-03811",
+      "meta": "261.6"
+    },
+    {
+      "n": "528",
+      "codigo_socio": "ACO-03512",
+      "meta": "1385.4"
+    },
+    {
+      "n": "529",
+      "codigo_socio": "ACO-01956",
+      "meta": "976.8"
+    },
+    {
+      "n": "530",
+      "codigo_socio": "ACO-01644",
+      "meta": "522.6"
+    },
+    {
+      "n": "531",
+      "codigo_socio": "ACO-03199",
+      "meta": "914.4"
+    },
+    {
+      "n": "532",
+      "codigo_socio": "ACO-01684",
+      "meta": "974.4"
+    },
+    {
+      "n": "533",
+      "codigo_socio": "ACO-03195",
+      "meta": "3441.6"
+    },
+    {
+      "n": "534",
+      "codigo_socio": "ACO-03198",
+      "meta": "1477.2"
+    },
+    {
+      "n": "535",
+      "codigo_socio": "ACO-02203",
+      "meta": "805.8"
+    },
+    {
+      "n": "536",
+      "codigo_socio": "ACO-01188",
+      "meta": "201.6"
+    },
+    {
+      "n": "537",
+      "codigo_socio": "ACO-01643",
+      "meta": "204"
+    },
+    {
+      "n": "538",
+      "codigo_socio": "ACO-01841",
+      "meta": "843.6"
+    },
+    {
+      "n": "539",
+      "codigo_socio": "ACO-02663",
+      "meta": "826.8"
+    },
+    {
+      "n": "540",
+      "codigo_socio": "ACO-00827",
+      "meta": "968.4"
+    },
+    {
+      "n": "541",
+      "codigo_socio": "ACO-03453",
+      "meta": "1691.4"
+    },
+    {
+      "n": "542",
+      "codigo_socio": "ACO-02329",
+      "meta": "2133"
+    },
+    {
+      "n": "543",
+      "codigo_socio": "ACO-03835",
+      "meta": "1498.8"
+    },
+    {
+      "n": "544",
+      "codigo_socio": "ACO-02815",
+      "meta": "3274.2"
+    },
+    {
+      "n": "545",
+      "codigo_socio": "ACO-03953",
+      "meta": "5139"
+    },
+    {
+      "n": "546",
+      "codigo_socio": "ACO-01238",
+      "meta": "3335.4"
+    },
+    {
+      "n": "547",
+      "codigo_socio": "ACO-01224",
+      "meta": "5515.8"
+    },
+    {
+      "n": "548",
+      "codigo_socio": "ACO-00625",
+      "meta": "8948.4"
+    },
+    {
+      "n": "549",
+      "codigo_socio": "ACO-00445",
+      "meta": "1375.2"
+    },
+    {
+      "n": "550",
+      "codigo_socio": "ACO-03378",
+      "meta": "2559.6"
+    },
+    {
+      "n": "551",
+      "codigo_socio": "ACO-03376",
+      "meta": "2465.4"
+    },
+    {
+      "n": "552",
+      "codigo_socio": "ACO-00460",
+      "meta": "2348.4"
+    },
+    {
+      "n": "553",
+      "codigo_socio": "ACO-02670",
+      "meta": "3600"
+    },
+    {
+      "n": "554",
+      "codigo_socio": "ACO-01242",
+      "meta": "430.8"
+    },
+    {
+      "n": "555",
+      "codigo_socio": "ACO-01225",
+      "meta": "1969.2"
+    },
+    {
+      "n": "556",
+      "codigo_socio": "ACO-00619",
+      "meta": "1155"
+    },
+    {
+      "n": "557",
+      "codigo_socio": "ACO-00048",
+      "meta": "858.6"
+    },
+    {
+      "n": "558",
+      "codigo_socio": "ACO-00372",
+      "meta": "436.2"
+    },
+    {
+      "n": "559",
+      "codigo_socio": "ACO-00563",
+      "meta": "1148.4"
+    },
+    {
+      "n": "560",
+      "codigo_socio": "ACO-03313",
+      "meta": "421.2"
+    },
+    {
+      "n": "561",
+      "codigo_socio": "ACO-00272",
+      "meta": "2108.4"
+    },
+    {
+      "n": "562",
+      "codigo_socio": "ACO-00286",
+      "meta": "3466.8"
+    },
+    {
+      "n": "563",
+      "codigo_socio": "ACO-01168",
+      "meta": "6799.8"
+    },
+    {
+      "n": "564",
+      "codigo_socio": "ACO-00249",
+      "meta": "1563.6"
+    },
+    {
+      "n": "565",
+      "codigo_socio": "ACO-03214",
+      "meta": "10214.4"
+    },
+    {
+      "n": "566",
+      "codigo_socio": "ACO-01212",
+      "meta": "516.6"
+    },
+    {
+      "n": "567",
+      "codigo_socio": "ACO-00665",
+      "meta": "5737.8"
+    },
+    {
+      "n": "568",
+      "codigo_socio": "ACO-00631",
+      "meta": "16525.2"
+    },
+    {
+      "n": "569",
+      "codigo_socio": "ACO-01435",
+      "meta": "2077.8"
+    },
+    {
+      "n": "570",
+      "codigo_socio": "ACO-03920",
+      "meta": "10418.4"
+    },
+    {
+      "n": "571",
+      "codigo_socio": "ACO-03375",
+      "meta": "3812.4"
+    },
+    {
+      "n": "572",
+      "codigo_socio": "ACO-00399",
+      "meta": "727.8"
+    },
+    {
+      "n": "573",
+      "codigo_socio": "ACO-00637",
+      "meta": "2061"
+    },
+    {
+      "n": "574",
+      "codigo_socio": "ACO-03012",
+      "meta": "1115.4"
+    },
+    {
+      "n": "575",
+      "codigo_socio": "ACO-01373",
+      "meta": "2853"
+    },
+    {
+      "n": "576",
+      "codigo_socio": "ACO-03889",
+      "meta": "2223"
+    },
+    {
+      "n": "577",
+      "codigo_socio": "ACO-00031",
+      "meta": "60693"
+    },
+    {
+      "n": "578",
+      "codigo_socio": "ACO-01358",
+      "meta": "5838.6"
+    },
+    {
+      "n": "579",
+      "codigo_socio": "ACO-03163",
+      "meta": "1948.8"
+    },
+    {
+      "n": "580",
+      "codigo_socio": "ACO-02763",
+      "meta": "2725.2"
+    },
+    {
+      "n": "581",
+      "codigo_socio": "ACO-03948",
+      "meta": "1106.4"
+    },
+    {
+      "n": "582",
+      "codigo_socio": "ACO-02412",
+      "meta": "5169"
+    },
+    {
+      "n": "583",
+      "codigo_socio": "ACO-01280",
+      "meta": "7754.4"
+    },
+    {
+      "n": "584",
+      "codigo_socio": "ACO-02004",
+      "meta": "3787.8"
+    },
+    {
+      "n": "585",
+      "codigo_socio": "ACO-01269",
+      "meta": "1147.2"
+    },
+    {
+      "n": "586",
+      "codigo_socio": "ACO-01270",
+      "meta": "1748.4"
+    },
+    {
+      "n": "587",
+      "codigo_socio": "ACO-03399",
+      "meta": "989.4"
+    },
+    {
+      "n": "588",
+      "codigo_socio": "ACO-01304",
+      "meta": "1090.8"
+    },
+    {
+      "n": "589",
+      "codigo_socio": "ACO-03472",
+      "meta": "3993.6"
+    },
+    {
+      "n": "590",
+      "codigo_socio": "ACO-03263",
+      "meta": "3894"
+    },
+    {
+      "n": "591",
+      "codigo_socio": "ACO-03253",
+      "meta": "5139.6"
+    },
+    {
+      "n": "592",
+      "codigo_socio": "ACO-01305",
+      "meta": "4425.6"
+    },
+    {
+      "n": "593",
+      "codigo_socio": "ACO-03919",
+      "meta": "1050.6"
+    },
+    {
+      "n": "594",
+      "codigo_socio": "ACO-01240",
+      "meta": "2087.4"
+    },
+    {
+      "n": "595",
+      "codigo_socio": "ACO-02540",
+      "meta": "2895.6"
+    },
+    {
+      "n": "596",
+      "codigo_socio": "ACO-03918",
+      "meta": "1128"
+    },
+    {
+      "n": "597",
+      "codigo_socio": "ACO-02814",
+      "meta": "20521.2"
+    },
+    {
+      "n": "598",
+      "codigo_socio": "ACO-02859",
+      "meta": "378.6"
+    },
+    {
+      "n": "599",
+      "codigo_socio": "ACO-01935",
+      "meta": "892.8"
+    },
+    {
+      "n": "600",
+      "codigo_socio": "ACO-03013",
+      "meta": "2856"
+    },
+    {
+      "n": "601",
+      "codigo_socio": "ACO-02219",
+      "meta": "14882.4"
+    },
+    {
+      "n": "602",
+      "codigo_socio": "ACO-03183",
+      "meta": "1945.2"
+    },
+    {
+      "n": "603",
+      "codigo_socio": "ACO-02143",
+      "meta": "1255.2"
+    },
+    {
+      "n": "604",
+      "codigo_socio": "ACO-03879",
+      "meta": "754.2"
+    },
+    {
+      "n": "605",
+      "codigo_socio": "ACO-03520",
+      "meta": "2174.4"
+    },
+    {
+      "n": "606",
+      "codigo_socio": "ACO-02671",
+      "meta": "4933.8"
+    },
+    {
+      "n": "607",
+      "codigo_socio": "ACO-03172",
+      "meta": "3700.8"
+    },
+    {
+      "n": "608",
+      "codigo_socio": "ACO-03174",
+      "meta": "907.2"
+    },
+    {
+      "n": "609",
+      "codigo_socio": "ACO-02500",
+      "meta": "29503.2"
+    },
+    {
+      "n": "610",
+      "codigo_socio": "ACO-03374",
+      "meta": "2383.8"
+    },
+    {
+      "n": "611",
+      "codigo_socio": "ACO-03314",
+      "meta": "3249.6"
+    },
+    {
+      "n": "612",
+      "codigo_socio": "ACO-03184",
+      "meta": "654.6"
+    },
+    {
+      "n": "613",
+      "codigo_socio": "ACO-00627",
+      "meta": "1574.4"
+    },
+    {
+      "n": "614",
+      "codigo_socio": "ACO-03316",
+      "meta": "2200.2"
+    },
+    {
+      "n": "615",
+      "codigo_socio": "ACO-00050",
+      "meta": "1658.4"
+    },
+    {
+      "n": "616",
+      "codigo_socio": "ACO-01875",
+      "meta": "2966.4"
+    },
+    {
+      "n": "617",
+      "codigo_socio": "ACO-01241",
+      "meta": "1797.6"
+    },
+    {
+      "n": "618",
+      "codigo_socio": "ACO-01223",
+      "meta": "1192.8"
+    },
+    {
+      "n": "619",
+      "codigo_socio": "ACO-01356",
+      "meta": "2886"
+    },
+    {
+      "n": "620",
+      "codigo_socio": "ACO-00797",
+      "meta": "1977.6"
+    },
+    {
+      "n": "621",
+      "codigo_socio": "ACO-03288",
+      "meta": "2807.4"
+    },
+    {
+      "n": "622",
+      "codigo_socio": "ACO-00284",
+      "meta": "23832"
+    },
+    {
+      "n": "623",
+      "codigo_socio": "ACO-02155",
+      "meta": "7268.4"
+    },
+    {
+      "n": "624",
+      "codigo_socio": "ACO-03428",
+      "meta": "872.4"
+    },
+    {
+      "n": "625",
+      "codigo_socio": "ACO-02157",
+      "meta": "3768.6"
+    },
+    {
+      "n": "626",
+      "codigo_socio": "ACO-01014",
+      "meta": "661.2"
+    },
+    {
+      "n": "627",
+      "codigo_socio": "ACO-01361",
+      "meta": "1041.6"
+    },
+    {
+      "n": "628",
+      "codigo_socio": "ACO-02154",
+      "meta": "4074"
+    },
+    {
+      "n": "629",
+      "codigo_socio": "ACO-00605",
+      "meta": "1190.4"
+    },
+    {
+      "n": "630",
+      "codigo_socio": "ACO-01627",
+      "meta": "1586.4"
+    },
+    {
+      "n": "631",
+      "codigo_socio": "ACO-00290",
+      "meta": "321.6"
+    },
+    {
+      "n": "632",
+      "codigo_socio": "ACO-00266",
+      "meta": "1498.8"
+    },
+    {
+      "n": "633",
+      "codigo_socio": "ACO-00564",
+      "meta": "4992.6"
+    },
+    {
+      "n": "634",
+      "codigo_socio": "ACO-00291",
+      "meta": "2288.4"
+    },
+    {
+      "n": "635",
+      "codigo_socio": "ACO-01008",
+      "meta": "5350.2"
+    },
+    {
+      "n": "636",
+      "codigo_socio": "ACO-01838",
+      "meta": "1668"
+    },
+    {
+      "n": "637",
+      "codigo_socio": "ACO-01567",
+      "meta": "1365.6"
+    },
+    {
+      "n": "638",
+      "codigo_socio": "ACO-01602",
+      "meta": "1773.6"
+    },
+    {
+      "n": "639",
+      "codigo_socio": "ACO-01580",
+      "meta": "2493.6"
+    },
+    {
+      "n": "640",
+      "codigo_socio": "ACO-01776",
+      "meta": "2574.6"
+    },
+    {
+      "n": "641",
+      "codigo_socio": "ACO-03519",
+      "meta": "2857.8"
+    },
+    {
+      "n": "642",
+      "codigo_socio": "ACO-01604",
+      "meta": "4813.8"
+    },
+    {
+      "n": "643",
+      "codigo_socio": "ACO-01392",
+      "meta": "4305"
+    },
+    {
+      "n": "644",
+      "codigo_socio": "ACO-01628",
+      "meta": "4842.6"
+    },
+    {
+      "n": "645",
+      "codigo_socio": "ACO-01287",
+      "meta": "3136.2"
+    },
+    {
+      "n": "646",
+      "codigo_socio": "ACO-01284",
+      "meta": "4241.4"
+    },
+    {
+      "n": "647",
+      "codigo_socio": "ACO-03521",
+      "meta": "323.4"
+    },
+    {
+      "n": "648",
+      "codigo_socio": "ACO-03474",
+      "meta": "2625.6"
+    },
+    {
+      "n": "649",
+      "codigo_socio": "ACO-03890",
+      "meta": "855"
+    },
+    {
+      "n": "650",
+      "codigo_socio": "ACO-02161",
+      "meta": "996"
+    },
+    {
+      "n": "651",
+      "codigo_socio": "ACO-03747",
+      "meta": "5387.4"
+    },
+    {
+      "n": "652",
+      "codigo_socio": "ACO-03451",
+      "meta": "419.4"
+    },
+    {
+      "n": "653",
+      "codigo_socio": "ACO-03576",
+      "meta": "1230.6"
+    },
+    {
+      "n": "654",
+      "codigo_socio": "ACO-03888",
+      "meta": "2639.4"
+    },
+    {
+      "n": "655",
+      "codigo_socio": "ACO-03618",
+      "meta": "967.2"
+    },
+    {
+      "n": "656",
+      "codigo_socio": "ACO-03522",
+      "meta": "748.8"
+    },
+    {
+      "n": "657",
+      "codigo_socio": "ACO-03557",
+      "meta": "1821.6"
+    },
+    {
+      "n": "658",
+      "codigo_socio": "ACO-03916",
+      "meta": "526.8"
+    },
+    {
+      "n": "659",
+      "codigo_socio": "ACO-00752",
+      "meta": "3561"
+    },
+    {
+      "n": "660",
+      "codigo_socio": "ACO-03547",
+      "meta": "224.4"
+    },
+    {
+      "n": "661",
+      "codigo_socio": "ACO-01647",
+      "meta": "1503.6"
+    },
+    {
+      "n": "662",
+      "codigo_socio": "ACO-03744",
+      "meta": "2188.8"
+    },
+    {
+      "n": "663",
+      "codigo_socio": "ACO-03648",
+      "meta": "1429.2"
+    },
+    {
+      "n": "664",
+      "codigo_socio": "ACO-02455",
+      "meta": "1113"
+    },
+    {
+      "n": "665",
+      "codigo_socio": "ACO-00277",
+      "meta": "6554.4"
+    },
+    {
+      "n": "666",
+      "codigo_socio": "ACO-00332",
+      "meta": "2969.4"
+    },
+    {
+      "n": "667",
+      "codigo_socio": "ACO-00967",
+      "meta": "3610.2"
+    },
+    {
+      "n": "668",
+      "codigo_socio": "ACO-00211",
+      "meta": "5144.4"
+    },
+    {
+      "n": "669",
+      "codigo_socio": "ACO-03334",
+      "meta": "2240.4"
+    },
+    {
+      "n": "670",
+      "codigo_socio": "ACO-00748",
+      "meta": "1825.2"
+    },
+    {
+      "n": "671",
+      "codigo_socio": "ACO-02488",
+      "meta": "3413.4"
+    },
+    {
+      "n": "672",
+      "codigo_socio": "ACO-03884",
+      "meta": "393.6"
+    },
+    {
+      "n": "673",
+      "codigo_socio": "ACO-00271",
+      "meta": "1365"
+    },
+    {
+      "n": "674",
+      "codigo_socio": "ACO-01213",
+      "meta": "1864.8"
+    },
+    {
+      "n": "675",
+      "codigo_socio": "ACO-03430",
+      "meta": "3303"
+    },
+    {
+      "n": "676",
+      "codigo_socio": "ACO-00862",
+      "meta": "4159.8"
+    },
+    {
+      "n": "677",
+      "codigo_socio": "ACO-03252",
+      "meta": "9300.6"
+    },
+    {
+      "n": "678",
+      "codigo_socio": "ACO-01958",
+      "meta": "2705.4"
+    },
+    {
+      "n": "679",
+      "codigo_socio": "ACO-03674",
+      "meta": "2783.4"
+    },
+    {
+      "n": "680",
+      "codigo_socio": "ACO-00628",
+      "meta": "7350.6"
+    },
+    {
+      "n": "681",
+      "codigo_socio": "ACO-00706",
+      "meta": "2655.6"
+    },
+    {
+      "n": "682",
+      "codigo_socio": "ACO-01591",
+      "meta": "933.6"
+    },
+    {
+      "n": "683",
+      "codigo_socio": "ACO-03341",
+      "meta": "1332"
+    },
+    {
+      "n": "684",
+      "codigo_socio": "ACO-00588",
+      "meta": "1168.8"
+    },
+    {
+      "n": "685",
+      "codigo_socio": "ACO-03379",
+      "meta": "4014"
+    },
+    {
+      "n": "686",
+      "codigo_socio": "ACO-01717",
+      "meta": "5565.6"
+    },
+    {
+      "n": "687",
+      "codigo_socio": "ACO-01836",
+      "meta": "461.4"
+    },
+    {
+      "n": "688",
+      "codigo_socio": "ACO-03461",
+      "meta": "1146"
+    },
+    {
+      "n": "689",
+      "codigo_socio": "ACO-02163",
+      "meta": "2136"
+    },
+    {
+      "n": "690",
+      "codigo_socio": "ACO-00705",
+      "meta": "1248.6"
+    },
+    {
+      "n": "691",
+      "codigo_socio": "ACO-01598",
+      "meta": "1910.4"
+    },
+    {
+      "n": "692",
+      "codigo_socio": "ACO-00638",
+      "meta": "3191.4"
+    },
+    {
+      "n": "693",
+      "codigo_socio": "ACO-02687",
+      "meta": "2262"
+    },
+    {
+      "n": "694",
+      "codigo_socio": "ACO-03261",
+      "meta": "5641.2"
+    },
+    {
+      "n": "695",
+      "codigo_socio": "ACO-03562",
+      "meta": "2911.2"
+    },
+    {
+      "n": "696",
+      "codigo_socio": "ACO-00330",
+      "meta": "5175"
+    },
+    {
+      "n": "697",
+      "codigo_socio": "ACO-00327",
+      "meta": "1455.6"
+    },
+    {
+      "n": "698",
+      "codigo_socio": "ACO-01440",
+      "meta": "2529.6"
+    },
+    {
+      "n": "699",
+      "codigo_socio": "ACO-02158",
+      "meta": "2079"
+    },
+    {
+      "n": "700",
+      "codigo_socio": "ACO-01322",
+      "meta": "6220.2"
+    },
+    {
+      "n": "701",
+      "codigo_socio": "ACO-03790",
+      "meta": "8985.6"
+    },
+    {
+      "n": "702",
+      "codigo_socio": "ACO-01371",
+      "meta": "2338.2"
+    },
+    {
+      "n": "703",
+      "codigo_socio": "ACO-01196",
+      "meta": "2131.8"
+    },
+    {
+      "n": "704",
+      "codigo_socio": "ACO-02026",
+      "meta": "13959"
+    },
+    {
+      "n": "705",
+      "codigo_socio": "ACO-00722",
+      "meta": "4087.2"
+    },
+    {
+      "n": "706",
+      "codigo_socio": "ACO-01402",
+      "meta": "1951.2"
+    },
+    {
+      "n": "707",
+      "codigo_socio": "ACO-03853",
+      "meta": "3799.2"
+    },
+    {
+      "n": "708",
+      "codigo_socio": "ACO-00279",
+      "meta": "4284"
+    },
+    {
+      "n": "709",
+      "codigo_socio": "ACO-03335",
+      "meta": "0"
+    },
+    {
+      "n": "710",
+      "codigo_socio": "ACO-03339",
+      "meta": "3276.6"
+    },
+    {
+      "n": "711",
+      "codigo_socio": "ACO-02025",
+      "meta": "9587.4"
+    },
+    {
+      "n": "712",
+      "codigo_socio": "ACO-01054",
+      "meta": "7732.8"
+    },
+    {
+      "n": "713",
+      "codigo_socio": "ACO-01410",
+      "meta": "410.4"
+    },
+    {
+      "n": "714",
+      "codigo_socio": "ACO-01720",
+      "meta": "2007"
+    },
+    {
+      "n": "715",
+      "codigo_socio": "ACO-00874",
+      "meta": "4791"
+    },
+    {
+      "n": "716",
+      "codigo_socio": "ACO-01983",
+      "meta": "891.6"
+    },
+    {
+      "n": "717",
+      "codigo_socio": "ACO-03673",
+      "meta": "1907.4"
+    },
+    {
+      "n": "718",
+      "codigo_socio": "ACO-01060",
+      "meta": "2409"
+    },
+    {
+      "n": "719",
+      "codigo_socio": "ACO-00906",
+      "meta": "1392.6"
+    },
+    {
+      "n": "720",
+      "codigo_socio": "ACO-01505",
+      "meta": "4238.4"
+    },
+    {
+      "n": "721",
+      "codigo_socio": "ACO-02120",
+      "meta": "8807.4"
+    },
+    {
+      "n": "722",
+      "codigo_socio": "ACO-03878",
+      "meta": "2592"
+    },
+    {
+      "n": "723",
+      "codigo_socio": "ACO-01797",
+      "meta": "1492.8"
+    },
+    {
+      "n": "724",
+      "codigo_socio": "ACO-01349",
+      "meta": "4415.4"
+    },
+    {
+      "n": "725",
+      "codigo_socio": "ACO-00856",
+      "meta": "3256.2"
+    },
+    {
+      "n": "726",
+      "codigo_socio": "ACO-03779",
+      "meta": "6197.4"
+    },
+    {
+      "n": "727",
+      "codigo_socio": "ACO-01418",
+      "meta": "2379"
+    },
+    {
+      "n": "728",
+      "codigo_socio": "ACO-02024",
+      "meta": "3313.2"
+    },
+    {
+      "n": "729",
+      "codigo_socio": "ACO-03712",
+      "meta": "1756.8"
+    },
+    {
+      "n": "730",
+      "codigo_socio": "ACO-01610",
+      "meta": "4383.6"
+    },
+    {
+      "n": "731",
+      "codigo_socio": "ACO-02843",
+      "meta": "2019"
+    },
+    {
+      "n": "732",
+      "codigo_socio": "ACO-03693",
+      "meta": "4884"
+    },
+    {
+      "n": "733",
+      "codigo_socio": "ACO-01321",
+      "meta": "1859.4"
+    },
+    {
+      "n": "734",
+      "codigo_socio": "ACO-03692",
+      "meta": "1124.4"
+    },
+    {
+      "n": "735",
+      "codigo_socio": "ACO-03647",
+      "meta": "606"
+    },
+    {
+      "n": "736",
+      "codigo_socio": "ACO-02247",
+      "meta": "1525.8"
+    },
+    {
+      "n": "737",
+      "codigo_socio": "ACO-02762",
+      "meta": "10075.8"
+    },
+    {
+      "n": "738",
+      "codigo_socio": "ACO-01235",
+      "meta": "738"
+    },
+    {
+      "n": "739",
+      "codigo_socio": "ACO-00891",
+      "meta": "1972.2"
+    },
+    {
+      "n": "740",
+      "codigo_socio": "ACO-03675",
+      "meta": "4672.8"
+    },
+    {
+      "n": "741",
+      "codigo_socio": "ACO-02343",
+      "meta": "1658.4"
+    },
+    {
+      "n": "742",
+      "codigo_socio": "ACO-03560",
+      "meta": "2390.4"
+    },
+    {
+      "n": "743",
+      "codigo_socio": "ACO-03763",
+      "meta": "5956.8"
+    },
+    {
+      "n": "744",
+      "codigo_socio": "ACO-03893",
+      "meta": "3981.6"
+    },
+    {
+      "n": "745",
+      "codigo_socio": "ACO-03336",
+      "meta": "2636.4"
+    },
+    {
+      "n": "746",
+      "codigo_socio": "ACO-03168",
+      "meta": "5810.4"
+    },
+    {
+      "n": "747",
+      "codigo_socio": "ACO-03802",
+      "meta": "1648.8"
+    },
+    {
+      "n": "748",
+      "codigo_socio": "ACO-03333",
+      "meta": "1173"
+    },
+    {
+      "n": "749",
+      "codigo_socio": "ACO-02085",
+      "meta": "9456.6"
+    },
+    {
+      "n": "750",
+      "codigo_socio": "ACO-02106",
+      "meta": "496.8"
+    },
+    {
+      "n": "751",
+      "codigo_socio": "ACO-02560",
+      "meta": "553.2"
+    },
+    {
+      "n": "752",
+      "codigo_socio": "ACO-03340",
+      "meta": "924.6"
+    },
+    {
+      "n": "753",
+      "codigo_socio": "ACO-02023",
+      "meta": "3384.6"
+    },
+    {
+      "n": "754",
+      "codigo_socio": "ACO-01367",
+      "meta": "720.6"
+    },
+    {
+      "n": "755",
+      "codigo_socio": "ACO-02184",
+      "meta": "1723.2"
+    },
+    {
+      "n": "756",
+      "codigo_socio": "ACO-03804",
+      "meta": "2828.4"
+    },
+    {
+      "n": "757",
+      "codigo_socio": "ACO-03338",
+      "meta": "1002"
+    },
+    {
+      "n": "758",
+      "codigo_socio": "ACO-03719",
+      "meta": "111"
+    },
+    {
+      "n": "759",
+      "codigo_socio": "ACO-02523",
+      "meta": "2231.4"
+    },
+    {
+      "n": "760",
+      "codigo_socio": "ACO-02393",
+      "meta": "6082.2"
+    },
+    {
+      "n": "761",
+      "codigo_socio": "ACO-02524",
+      "meta": "1722"
+    },
+    {
+      "n": "762",
+      "codigo_socio": "ACO-02669",
+      "meta": "2584.8"
+    },
+    {
+      "n": "763",
+      "codigo_socio": "ACO-03325",
+      "meta": "2098.2"
+    },
+    {
+      "n": "764",
+      "codigo_socio": "ACO-02142",
+      "meta": "1320.6"
+    },
+    {
+      "n": "765",
+      "codigo_socio": "ACO-02666",
+      "meta": "6270"
+    },
+    {
+      "n": "766",
+      "codigo_socio": "ACO-02521",
+      "meta": "1859.4"
+    },
+    {
+      "n": "767",
+      "codigo_socio": "ACO-01397",
+      "meta": "5107.2"
+    },
+    {
+      "n": "768",
+      "codigo_socio": "ACO-03803",
+      "meta": "657.6"
+    },
+    {
+      "n": "769",
+      "codigo_socio": "ACO-03605",
+      "meta": "888.6"
+    },
+    {
+      "n": "770",
+      "codigo_socio": "ACO-03284",
+      "meta": "910.2"
+    },
+    {
+      "n": "771",
+      "codigo_socio": "ACO-02745",
+      "meta": "2968.8"
+    },
+    {
+      "n": "772",
+      "codigo_socio": "ACO-01823",
+      "meta": "4880.4"
+    },
+    {
+      "n": "773",
+      "codigo_socio": "ACO-01596",
+      "meta": "2266.8"
+    },
+    {
+      "n": "774",
+      "codigo_socio": "ACO-03938",
+      "meta": "483"
+    },
+    {
+      "n": "775",
+      "codigo_socio": "ACO-02667",
+      "meta": "621.6"
+    },
+    {
+      "n": "776",
+      "codigo_socio": "ACO-03877",
+      "meta": "640.8"
+    },
+    {
+      "n": "777",
+      "codigo_socio": "ACO-03678",
+      "meta": "3667.2"
+    },
+    {
+      "n": "778",
+      "codigo_socio": "ACO-02982",
+      "meta": "5316"
+    },
+    {
+      "n": "779",
+      "codigo_socio": "ACO-02499",
+      "meta": "1909.2"
+    },
+    {
+      "n": "780",
+      "codigo_socio": "ACO-03387",
+      "meta": "1809.6"
+    },
+    {
+      "n": "781",
+      "codigo_socio": "ACO-03332",
+      "meta": "1343.4"
+    },
+    {
+      "n": "782",
+      "codigo_socio": "ACO-03283",
+      "meta": "1917.6"
+    },
+    {
+      "n": "783",
+      "codigo_socio": "ACO-02369",
+      "meta": "2492.4"
+    },
+    {
+      "n": "784",
+      "codigo_socio": "ACO-03342",
+      "meta": "2368.8"
+    },
+    {
+      "n": "785",
+      "codigo_socio": "ACO-03770",
+      "meta": "870"
+    },
+    {
+      "n": "786",
+      "codigo_socio": "ACO-02985",
+      "meta": "1240.2"
+    },
+    {
+      "n": "787",
+      "codigo_socio": "ACO-01089",
+      "meta": "1511.4"
+    },
+    {
+      "n": "788",
+      "codigo_socio": "ACO-03388",
+      "meta": "6408"
+    },
+    {
+      "n": "789",
+      "codigo_socio": "ACO-00378",
+      "meta": "240"
+    },
+    {
+      "n": "790",
+      "codigo_socio": "ACO-00902",
+      "meta": "732"
+    },
+    {
+      "n": "791",
+      "codigo_socio": "ACO-00617",
+      "meta": "1945.8"
+    },
+    {
+      "n": "792",
+      "codigo_socio": "ACO-02217",
+      "meta": "1238.4"
+    },
+    {
+      "n": "793",
+      "codigo_socio": "ACO-01938",
+      "meta": "1989"
+    },
+    {
+      "n": "794",
+      "codigo_socio": "ACO-01207",
+      "meta": "420.6"
+    },
+    {
+      "n": "795",
+      "codigo_socio": "ACO-03302",
+      "meta": "759"
+    },
+    {
+      "n": "796",
+      "codigo_socio": "ACO-00375",
+      "meta": "839.4"
+    },
+    {
+      "n": "797",
+      "codigo_socio": "ACO-00540",
+      "meta": "1537.2"
+    },
+    {
+      "n": "798",
+      "codigo_socio": "ACO-02465",
+      "meta": "781.2"
+    },
+    {
+      "n": "799",
+      "codigo_socio": "ACO-00314",
+      "meta": "3028.2"
+    },
+    {
+      "n": "800",
+      "codigo_socio": "ACO-03755",
+      "meta": "394.2"
+    },
+    {
+      "n": "801",
+      "codigo_socio": "ACO-01660",
+      "meta": "719.4"
+    },
+    {
+      "n": "802",
+      "codigo_socio": "ACO-00257",
+      "meta": "1543.8"
+    },
+    {
+      "n": "803",
+      "codigo_socio": "ACO-00498",
+      "meta": "2135.4"
+    },
+    {
+      "n": "804",
+      "codigo_socio": "ACO-00548",
+      "meta": "834.6"
+    },
+    {
+      "n": "805",
+      "codigo_socio": "ACO-00551",
+      "meta": "475.2"
+    },
+    {
+      "n": "806",
+      "codigo_socio": "ACO-01710",
+      "meta": "764.4"
+    },
+    {
+      "n": "807",
+      "codigo_socio": "ACO-01226",
+      "meta": "1801.2"
+    },
+    {
+      "n": "808",
+      "codigo_socio": "ACO-00593",
+      "meta": "42.6"
+    },
+    {
+      "n": "809",
+      "codigo_socio": "ACO-01214",
+      "meta": "2112"
+    },
+    {
+      "n": "810",
+      "codigo_socio": "ACO-02955",
+      "meta": "910.8"
+    },
+    {
+      "n": "811",
+      "codigo_socio": "ACO-01160",
+      "meta": "2680.8"
+    },
+    {
+      "n": "812",
+      "codigo_socio": "ACO-03051",
+      "meta": "372.6"
+    },
+    {
+      "n": "813",
+      "codigo_socio": "ACO-02466",
+      "meta": "766.8"
+    },
+    {
+      "n": "814",
+      "codigo_socio": "ACO-00600",
+      "meta": "1295.4"
+    },
+    {
+      "n": "815",
+      "codigo_socio": "ACO-00839",
+      "meta": "539.4"
+    },
+    {
+      "n": "816",
+      "codigo_socio": "ACO-02954",
+      "meta": "1737.6"
+    },
+    {
+      "n": "817",
+      "codigo_socio": "ACO-01460",
+      "meta": "180"
+    },
+    {
+      "n": "818",
+      "codigo_socio": "ACO-01711",
+      "meta": "895.2"
+    },
+    {
+      "n": "819",
+      "codigo_socio": "ACO-00614",
+      "meta": "3336"
+    },
+    {
+      "n": "820",
+      "codigo_socio": "ACO-02467",
+      "meta": "493.8"
+    },
+    {
+      "n": "821",
+      "codigo_socio": "ACO-02894",
+      "meta": "478.2"
+    },
+    {
+      "n": "822",
+      "codigo_socio": "ACO-03279",
+      "meta": "1056"
+    },
+    {
+      "n": "823",
+      "codigo_socio": "ACO-00807",
+      "meta": "1610.4"
+    },
+    {
+      "n": "824",
+      "codigo_socio": "ACO-01913",
+      "meta": "10299"
+    },
+    {
+      "n": "825",
+      "codigo_socio": "ACO-03697",
+      "meta": "217.2"
+    },
+    {
+      "n": "826",
+      "codigo_socio": "ACO-03292",
+      "meta": "1563"
+    },
+    {
+      "n": "827",
+      "codigo_socio": "ACO-03649",
+      "meta": "209.4"
+    },
+    {
+      "n": "828",
+      "codigo_socio": "ACO-03781",
+      "meta": "728.4"
+    },
+    {
+      "n": "829",
+      "codigo_socio": "ACO-03943",
+      "meta": "48.6"
+    },
+    {
+      "n": "830",
+      "codigo_socio": "ACO-02624",
+      "meta": "375.6"
+    },
+    {
+      "n": "831",
+      "codigo_socio": "ACO-02893",
+      "meta": "635.4"
+    },
+    {
+      "n": "832",
+      "codigo_socio": "ACO-03942",
+      "meta": "526.2"
+    },
+    {
+      "n": "833",
+      "codigo_socio": "ACO-03713",
+      "meta": "239.4"
+    },
+    {
+      "n": "834",
+      "codigo_socio": "ACO-01253",
+      "meta": "2053.2"
+    },
+    {
+      "n": "835",
+      "codigo_socio": "ACO-03778",
+      "meta": "774.6"
+    },
+    {
+      "n": "836",
+      "codigo_socio": "ACO-01703",
+      "meta": "277.2"
+    },
+    {
+      "n": "837",
+      "codigo_socio": "ACO-01571",
+      "meta": "1663.2"
+    },
+    {
+      "n": "838",
+      "codigo_socio": "ACO-00877",
+      "meta": "15980.4"
+    },
+    {
+      "n": "839",
+      "codigo_socio": "ACO-01445",
+      "meta": "591"
+    },
+    {
+      "n": "840",
+      "codigo_socio": "ACO-01004",
+      "meta": "360"
+    },
+    {
+      "n": "841",
+      "codigo_socio": "ACO-00876",
+      "meta": "716.4"
+    },
+    {
+      "n": "842",
+      "codigo_socio": "ACO-02032",
+      "meta": "1733.4"
+    },
+    {
+      "n": "843",
+      "codigo_socio": "ACO-00896",
+      "meta": "712.8"
+    },
+    {
+      "n": "844",
+      "codigo_socio": "ACO-01705",
+      "meta": "2260.2"
+    },
+    {
+      "n": "845",
+      "codigo_socio": "ACO-00909",
+      "meta": "653.4"
+    },
+    {
+      "n": "846",
+      "codigo_socio": "ACO-00713",
+      "meta": "1408.8"
+    },
+    {
+      "n": "847",
+      "codigo_socio": "ACO-01073",
+      "meta": "1829.4"
+    },
+    {
+      "n": "848",
+      "codigo_socio": "ACO-01094",
+      "meta": "314.4"
+    },
+    {
+      "n": "849",
+      "codigo_socio": "ACO-00831",
+      "meta": "466.8"
+    },
+    {
+      "n": "850",
+      "codigo_socio": "ACO-01624",
+      "meta": "684"
+    },
+    {
+      "n": "851",
+      "codigo_socio": "ACO-01000",
+      "meta": "510"
+    },
+    {
+      "n": "852",
+      "codigo_socio": "ACO-02020",
+      "meta": "391.2"
+    },
+    {
+      "n": "853",
+      "codigo_socio": "ACO-01623",
+      "meta": "460.8"
+    },
+    {
+      "n": "854",
+      "codigo_socio": "ACO-01871",
+      "meta": "494.4"
+    },
+    {
+      "n": "855",
+      "codigo_socio": "ACO-01075",
+      "meta": "3493.2"
+    },
+    {
+      "n": "856",
+      "codigo_socio": "ACO-01315",
+      "meta": "1583.4"
+    },
+    {
+      "n": "857",
+      "codigo_socio": "ACO-01579",
+      "meta": "3624"
+    },
+    {
+      "n": "858",
+      "codigo_socio": "ACO-02092",
+      "meta": "1144.8"
+    },
+    {
+      "n": "859",
+      "codigo_socio": "ACO-02015",
+      "meta": "386.4"
+    },
+    {
+      "n": "860",
+      "codigo_socio": "ACO-01078",
+      "meta": "2947.2"
+    },
+    {
+      "n": "861",
+      "codigo_socio": "ACO-03202",
+      "meta": "962.4"
+    },
+    {
+      "n": "862",
+      "codigo_socio": "ACO-03973",
+      "meta": "223.2"
+    },
+    {
+      "n": "863",
+      "codigo_socio": "ACO-03974",
+      "meta": "502.8"
+    },
+    {
+      "n": "864",
+      "codigo_socio": "ACO-03601",
+      "meta": "251.4"
+    },
+    {
+      "n": "865",
+      "codigo_socio": "ACO-02809",
+      "meta": "324"
+    },
+    {
+      "n": "866",
+      "codigo_socio": "ACO-01491",
+      "meta": "177.6"
+    },
+    {
+      "n": "867",
+      "codigo_socio": "ACO-00782",
+      "meta": "2528.4"
+    },
+    {
+      "n": "868",
+      "codigo_socio": "ACO-01803",
+      "meta": "314.4"
+    },
+    {
+      "n": "869",
+      "codigo_socio": "ACO-03567",
+      "meta": "5432.4"
+    },
+    {
+      "n": "870",
+      "codigo_socio": "ACO-00790",
+      "meta": "942.6"
+    },
+    {
+      "n": "871",
+      "codigo_socio": "ACO-00642",
+      "meta": "858"
+    },
+    {
+      "n": "872",
+      "codigo_socio": "ACO-00005",
+      "meta": "1335.6"
+    },
+    {
+      "n": "873",
+      "codigo_socio": "ACO-02000",
+      "meta": "966"
+    },
+    {
+      "n": "874",
+      "codigo_socio": "ACO-00364",
+      "meta": "379.8"
+    },
+    {
+      "n": "875",
+      "codigo_socio": "ACO-00730",
+      "meta": "1724.4"
+    },
+    {
+      "n": "876",
+      "codigo_socio": "ACO-01802",
+      "meta": "3247.8"
+    },
+    {
+      "n": "877",
+      "codigo_socio": "ACO-01854",
+      "meta": "4075.2"
+    },
+    {
+      "n": "878",
+      "codigo_socio": "ACO-02505",
+      "meta": "142.2"
+    },
+    {
+      "n": "879",
+      "codigo_socio": "ACO-02253",
+      "meta": "615"
+    },
+    {
+      "n": "880",
+      "codigo_socio": "ACO-01562",
+      "meta": "3658.8"
+    },
+    {
+      "n": "881",
+      "codigo_socio": "ACO-02939",
+      "meta": "1071.6"
+    },
+    {
+      "n": "882",
+      "codigo_socio": "ACO-03389",
+      "meta": "1050.6"
+    },
+    {
+      "n": "883",
+      "codigo_socio": "ACO-03337",
+      "meta": "682.8"
+    },
+    {
+      "n": "884",
+      "codigo_socio": "ACO-03862",
+      "meta": "2013.6"
+    },
+    {
+      "n": "885",
+      "codigo_socio": "ACO-01844",
+      "meta": "6896.4"
+    },
+    {
+      "n": "886",
+      "codigo_socio": "ACO-02282",
+      "meta": "1399.2"
+    },
+    {
+      "n": "887",
+      "codigo_socio": "ACO-03036",
+      "meta": "1604.4"
+    },
+    {
+      "n": "888",
+      "codigo_socio": "ACO-03764",
+      "meta": "451.2"
+    },
+    {
+      "n": "889",
+      "codigo_socio": "ACO-00889",
+      "meta": "918"
+    },
+    {
+      "n": "890",
+      "codigo_socio": "ACO-02205",
+      "meta": "1384.2"
+    },
+    {
+      "n": "891",
+      "codigo_socio": "ACO-01783",
+      "meta": "4202.4"
+    },
+    {
+      "n": "892",
+      "codigo_socio": "ACO-02618",
+      "meta": "280.8"
+    },
+    {
+      "n": "893",
+      "codigo_socio": "ACO-03447",
+      "meta": "966"
+    },
+    {
+      "n": "894",
+      "codigo_socio": "ACO-03699",
+      "meta": "243.6"
+    },
+    {
+      "n": "895",
+      "codigo_socio": "ACO-03654",
+      "meta": "1831.2"
+    },
+    {
+      "n": "896",
+      "codigo_socio": "ACO-03791",
+      "meta": "946.2"
+    },
+    {
+      "n": "897",
+      "codigo_socio": "ACO-03121",
+      "meta": "2041.2"
+    },
+    {
+      "n": "898",
+      "codigo_socio": "ACO-02410",
+      "meta": "1730.4"
+    },
+    {
+      "n": "899",
+      "codigo_socio": "ACO-03425",
+      "meta": "666"
+    },
+    {
+      "n": "900",
+      "codigo_socio": "ACO-02857",
+      "meta": "1276.8"
+    },
+    {
+      "n": "901",
+      "codigo_socio": "ACO-02411",
+      "meta": "5014.8"
+    },
+    {
+      "n": "902",
+      "codigo_socio": "ACO-03578",
+      "meta": "888"
+    },
+    {
+      "n": "903",
+      "codigo_socio": "ACO-03278",
+      "meta": "1486.8"
+    },
+    {
+      "n": "904",
+      "codigo_socio": "ACO-03277",
+      "meta": "2257.8"
+    },
+    {
+      "n": "905",
+      "codigo_socio": "ACO-02398",
+      "meta": "3023.4"
+    },
+    {
+      "n": "906",
+      "codigo_socio": "ACO-03444",
+      "meta": "1016.4"
+    },
+    {
+      "n": "907",
+      "codigo_socio": "ACO-02210",
+      "meta": "1282.8"
+    },
+    {
+      "n": "908",
+      "codigo_socio": "ACO-03892",
+      "meta": "2568.6"
+    },
+    {
+      "n": "909",
+      "codigo_socio": "ACO-03275",
+      "meta": "2025.6"
+    },
+    {
+      "n": "910",
+      "codigo_socio": "ACO-02529",
+      "meta": "655.2"
+    },
+    {
+      "n": "911",
+      "codigo_socio": "ACO-03450",
+      "meta": "1744.8"
+    },
+    {
+      "n": "912",
+      "codigo_socio": "ACO-03445",
+      "meta": "478.8"
+    },
+    {
+      "n": "913",
+      "codigo_socio": "ACO-03112",
+      "meta": "603"
+    },
+    {
+      "n": "914",
+      "codigo_socio": "ACO-03111",
+      "meta": "9368.4"
+    },
+    {
+      "n": "915",
+      "codigo_socio": "ACO-03741",
+      "meta": "6256.2"
+    },
+    {
+      "n": "916",
+      "codigo_socio": "ACO-03448",
+      "meta": "512.4"
+    },
+    {
+      "n": "917",
+      "codigo_socio": "ACO-03734",
+      "meta": "709.2"
+    },
+    {
+      "n": "918",
+      "codigo_socio": "ACO-02209",
+      "meta": "672"
+    },
+    {
+      "n": "919",
+      "codigo_socio": "ACO-03443",
+      "meta": "823.2"
+    },
+    {
+      "n": "920",
+      "codigo_socio": "ACO-00256",
+      "meta": "7183.2"
+    },
+    {
+      "n": "921",
+      "codigo_socio": "ACO-01833",
+      "meta": "1121.4"
+    },
+    {
+      "n": "922",
+      "codigo_socio": "ACO-01369",
+      "meta": "3117.6"
+    },
+    {
+      "n": "923",
+      "codigo_socio": "ACO-01082",
+      "meta": "655.2"
+    },
+    {
+      "n": "924",
+      "codigo_socio": "ACO-00597",
+      "meta": "3294.6"
+    },
+    {
+      "n": "925",
+      "codigo_socio": "ACO-00924",
+      "meta": "2289.6"
+    },
+    {
+      "n": "926",
+      "codigo_socio": "ACO-01042",
+      "meta": "5409.6"
+    },
+    {
+      "n": "927",
+      "codigo_socio": "ACO-00515",
+      "meta": "14761.2"
+    },
+    {
+      "n": "928",
+      "codigo_socio": "ACO-02176",
+      "meta": "147"
+    },
+    {
+      "n": "929",
+      "codigo_socio": "ACO-00976",
+      "meta": "5955.6"
+    },
+    {
+      "n": "930",
+      "codigo_socio": "ACO-01117",
+      "meta": "852.6"
+    },
+    {
+      "n": "931",
+      "codigo_socio": "ACO-00878",
+      "meta": "4315.8"
+    },
+    {
+      "n": "932",
+      "codigo_socio": "ACO-00945",
+      "meta": "940.8"
+    },
+    {
+      "n": "933",
+      "codigo_socio": "ACO-00001",
+      "meta": "11857.2"
+    },
+    {
+      "n": "934",
+      "codigo_socio": "ACO-01467",
+      "meta": "1738.8"
+    },
+    {
+      "n": "935",
+      "codigo_socio": "ACO-02734",
+      "meta": "2613.6"
+    },
+    {
+      "n": "936",
+      "codigo_socio": "ACO-00586",
+      "meta": "1940.4"
+    },
+    {
+      "n": "937",
+      "codigo_socio": "ACO-00611",
+      "meta": "5191.2"
+    },
+    {
+      "n": "938",
+      "codigo_socio": "ACO-03026",
+      "meta": "835.8"
+    },
+    {
+      "n": "939",
+      "codigo_socio": "ACO-00214",
+      "meta": "9558.6"
+    },
+    {
+      "n": "940",
+      "codigo_socio": "ACO-01527",
+      "meta": "2136"
+    },
+    {
+      "n": "941",
+      "codigo_socio": "ACO-03857",
+      "meta": "5707.8"
+    },
+    {
+      "n": "942",
+      "codigo_socio": "ACO-03580",
+      "meta": "1006.8"
+    },
+    {
+      "n": "943",
+      "codigo_socio": "ACO-00581",
+      "meta": "1617"
+    },
+    {
+      "n": "944",
+      "codigo_socio": "ACO-02922",
+      "meta": "2207.4"
+    },
+    {
+      "n": "945",
+      "codigo_socio": "ACO-03251",
+      "meta": "735"
+    },
+    {
+      "n": "946",
+      "codigo_socio": "ACO-03736",
+      "meta": "6090"
+    },
+    {
+      "n": "947",
+      "codigo_socio": "ACO-03148",
+      "meta": "5468.4"
+    },
+    {
+      "n": "948",
+      "codigo_socio": "ACO-01832",
+      "meta": "3485.4"
+    },
+    {
+      "n": "949",
+      "codigo_socio": "ACO-02825",
+      "meta": "4019.4"
+    },
+    {
+      "n": "950",
+      "codigo_socio": "ACO-01038",
+      "meta": "9118.2"
+    },
+    {
+      "n": "951",
+      "codigo_socio": "ACO-02520",
+      "meta": "2679.6"
+    },
+    {
+      "n": "952",
+      "codigo_socio": "ACO-03223",
+      "meta": "1516.2"
+    },
+    {
+      "n": "953",
+      "codigo_socio": "ACO-00921",
+      "meta": "1453.2"
+    },
+    {
+      "n": "954",
+      "codigo_socio": "ACO-02771",
+      "meta": "2877"
+    },
+    {
+      "n": "955",
+      "codigo_socio": "ACO-01998",
+      "meta": "3015.6"
+    },
+    {
+      "n": "956",
+      "codigo_socio": "ACO-00975",
+      "meta": "3296.4"
+    },
+    {
+      "n": "957",
+      "codigo_socio": "ACO-01302",
+      "meta": "7748.4"
+    },
+    {
+      "n": "958",
+      "codigo_socio": "ACO-03221",
+      "meta": "5380.2"
+    },
+    {
+      "n": "959",
+      "codigo_socio": "ACO-03856",
+      "meta": "2440.2"
+    },
+    {
+      "n": "960",
+      "codigo_socio": "ACO-03564",
+      "meta": "5165.4"
+    },
+    {
+      "n": "961",
+      "codigo_socio": "ACO-02408",
+      "meta": "9399.6"
+    },
+    {
+      "n": "962",
+      "codigo_socio": "ACO-01166",
+      "meta": "3301.2"
+    },
+    {
+      "n": "963",
+      "codigo_socio": "ACO-01986",
+      "meta": "978.6"
+    },
+    {
+      "n": "964",
+      "codigo_socio": "ACO-01159",
+      "meta": "367.2"
+    },
+    {
+      "n": "965",
+      "codigo_socio": "ACO-01420",
+      "meta": "7014"
+    },
+    {
+      "n": "966",
+      "codigo_socio": "ACO-01389",
+      "meta": "697.2"
+    },
+    {
+      "n": "967",
+      "codigo_socio": "ACO-01834",
+      "meta": "3192"
+    },
+    {
+      "n": "968",
+      "codigo_socio": "ACO-01845",
+      "meta": "829.2"
+    },
+    {
+      "n": "969",
+      "codigo_socio": "ACO-01962",
+      "meta": "676.2"
+    },
+    {
+      "n": "970",
+      "codigo_socio": "ACO-01041",
+      "meta": "3000"
+    },
+    {
+      "n": "971",
+      "codigo_socio": "ACO-01368",
+      "meta": "1951.2"
+    },
+    {
+      "n": "972",
+      "codigo_socio": "ACO-02934",
+      "meta": "6106.8"
+    },
+    {
+      "n": "973",
+      "codigo_socio": "ACO-00879",
+      "meta": "5712"
+    },
+    {
+      "n": "974",
+      "codigo_socio": "ACO-00819",
+      "meta": "698.4"
+    },
+    {
+      "n": "975",
+      "codigo_socio": "ACO-02917",
+      "meta": "2524.2"
+    },
+    {
+      "n": "976",
+      "codigo_socio": "ACO-03925",
+      "meta": "67.2"
+    },
+    {
+      "n": "977",
+      "codigo_socio": "ACO-03585",
+      "meta": "365.4"
+    },
+    {
+      "n": "978",
+      "codigo_socio": "ACO-01961",
+      "meta": "991.2"
+    },
+    {
+      "n": "979",
+      "codigo_socio": "ACO-03119",
+      "meta": "2469.6"
+    },
+    {
+      "n": "980",
+      "codigo_socio": "ACO-02935",
+      "meta": "2373"
+    },
+    {
+      "n": "981",
+      "codigo_socio": "ACO-01454",
+      "meta": "1579.2"
+    },
+    {
+      "n": "982",
+      "codigo_socio": "ACO-02937",
+      "meta": "2419.2"
+    },
+    {
+      "n": "983",
+      "codigo_socio": "ACO-03159",
+      "meta": "2113.8"
+    },
+    {
+      "n": "984",
+      "codigo_socio": "ACO-03604",
+      "meta": "688.8"
+    },
+    {
+      "n": "985",
+      "codigo_socio": "ACO-02602",
+      "meta": "2473.8"
+    },
+    {
+      "n": "986",
+      "codigo_socio": "ACO-01616",
+      "meta": "1132.8"
+    },
+    {
+      "n": "987",
+      "codigo_socio": "ACO-01386",
+      "meta": "2548.2"
+    },
+    {
+      "n": "988",
+      "codigo_socio": "ACO-03581",
+      "meta": "3910.8"
+    },
+    {
+      "n": "989",
+      "codigo_socio": "ACO-01065",
+      "meta": "327.6"
+    },
+    {
+      "n": "990",
+      "codigo_socio": "ACO-03208",
+      "meta": "1327.2"
+    },
+    {
+      "n": "991",
+      "codigo_socio": "ACO-01115",
+      "meta": "2712.6"
+    },
+    {
+      "n": "992",
+      "codigo_socio": "ACO-00947",
+      "meta": "1326.6"
+    },
+    {
+      "n": "993",
+      "codigo_socio": "ACO-00974",
+      "meta": "12952.8"
+    },
+    {
+      "n": "994",
+      "codigo_socio": "ACO-01853",
+      "meta": "1125.6"
+    },
+    {
+      "n": "995",
+      "codigo_socio": "ACO-03533",
+      "meta": "1087.8"
+    },
+    {
+      "n": "996",
+      "codigo_socio": "ACO-02686",
+      "meta": "924"
+    },
+    {
+      "n": "997",
+      "codigo_socio": "ACO-00946",
+      "meta": "5367.6"
+    },
+    {
+      "n": "998",
+      "codigo_socio": "ACO-02620",
+      "meta": "6487.2"
+    },
+    {
+      "n": "999",
+      "codigo_socio": "ACO-00700",
+      "meta": "1293.6"
+    },
+    {
+      "n": "1000",
+      "codigo_socio": "ACO-00998",
+      "meta": "1535.4"
+    },
+    {
+      "n": "1001",
+      "codigo_socio": "ACO-00922",
+      "meta": "1751.4"
+    },
+    {
+      "n": "1002",
+      "codigo_socio": "ACO-03984",
+      "meta": "742.8"
+    },
+    {
+      "n": "1003",
+      "codigo_socio": "ACO-01063",
+      "meta": "2994"
+    },
+    {
+      "n": "1004",
+      "codigo_socio": "ACO-01057",
+      "meta": "966"
+    },
+    {
+      "n": "1005",
+      "codigo_socio": "ACO-02283",
+      "meta": "5959.2"
+    },
+    {
+      "n": "1006",
+      "codigo_socio": "ACO-01704",
+      "meta": "2188.8"
+    },
+    {
+      "n": "1007",
+      "codigo_socio": "ACO-03385",
+      "meta": "1520.4"
+    },
+    {
+      "n": "1008",
+      "codigo_socio": "ACO-01837",
+      "meta": "483.6"
+    },
+    {
+      "n": "1009",
+      "codigo_socio": "ACO-01522",
+      "meta": "7386"
+    },
+    {
+      "n": "1010",
+      "codigo_socio": "ACO-01690",
+      "meta": "6941.4"
+    },
+    {
+      "n": "1011",
+      "codigo_socio": "ACO-02263",
+      "meta": "487.2"
+    },
+    {
+      "n": "1012",
+      "codigo_socio": "ACO-02958",
+      "meta": "1524"
+    },
+    {
+      "n": "1013",
+      "codigo_socio": "ACO-03016",
+      "meta": "2840.4"
+    },
+    {
+      "n": "1014",
+      "codigo_socio": "ACO-02286",
+      "meta": "2050.2"
+    },
+    {
+      "n": "1015",
+      "codigo_socio": "ACO-02956",
+      "meta": "650.4"
+    },
+    {
+      "n": "1016",
+      "codigo_socio": "ACO-03579",
+      "meta": "1473.6"
+    },
+    {
+      "n": "1017",
+      "codigo_socio": "ACO-03582",
+      "meta": "352.8"
+    },
+    {
+      "n": "1018",
+      "codigo_socio": "ACO-00962",
+      "meta": "3998.4"
+    },
+    {
+      "n": "1019",
+      "codigo_socio": "ACO-03266",
+      "meta": "1083.6"
+    },
+    {
+      "n": "1020",
+      "codigo_socio": "ACO-03297",
+      "meta": "1163.4"
+    },
+    {
+      "n": "1021",
+      "codigo_socio": "ACO-00693",
+      "meta": "4912.2"
+    },
+    {
+      "n": "1022",
+      "codigo_socio": "ACO-00710",
+      "meta": "1635.6"
+    },
+    {
+      "n": "1023",
+      "codigo_socio": "ACO-01011",
+      "meta": "244.2"
+    },
+    {
+      "n": "1024",
+      "codigo_socio": "ACO-02516",
+      "meta": "643.2"
+    },
+    {
+      "n": "1025",
+      "codigo_socio": "ACO-01217",
+      "meta": "555"
+    },
+    {
+      "n": "1026",
+      "codigo_socio": "ACO-03291",
+      "meta": "1746.6"
+    },
+    {
+      "n": "1027",
+      "codigo_socio": "ACO-00781",
+      "meta": "499.8"
+    },
+    {
+      "n": "1028",
+      "codigo_socio": "ACO-01473",
+      "meta": "1298.4"
+    },
+    {
+      "n": "1029",
+      "codigo_socio": "ACO-02078",
+      "meta": "646.8"
+    },
+    {
+      "n": "1030",
+      "codigo_socio": "ACO-02314",
+      "meta": "1307.4"
+    },
+    {
+      "n": "1031",
+      "codigo_socio": "ACO-00955",
+      "meta": "747"
+    },
+    {
+      "n": "1032",
+      "codigo_socio": "ACO-02271",
+      "meta": "308.4"
+    },
+    {
+      "n": "1033",
+      "codigo_socio": "ACO-02993",
+      "meta": "4059.6"
+    },
+    {
+      "n": "1034",
+      "codigo_socio": "ACO-00542",
+      "meta": "1270.8"
+    },
+    {
+      "n": "1035",
+      "codigo_socio": "ACO-01039",
+      "meta": "1048.2"
+    },
+    {
+      "n": "1036",
+      "codigo_socio": "ACO-00714",
+      "meta": "316.8"
+    },
+    {
+      "n": "1037",
+      "codigo_socio": "ACO-02390",
+      "meta": "460.8"
+    },
+    {
+      "n": "1038",
+      "codigo_socio": "ACO-00992",
+      "meta": "772.8"
+    },
+    {
+      "n": "1039",
+      "codigo_socio": "ACO-02317",
+      "meta": "477.6"
+    },
+    {
+      "n": "1040",
+      "codigo_socio": "ACO-01051",
+      "meta": "1432.8"
+    },
+    {
+      "n": "1041",
+      "codigo_socio": "ACO-00746",
+      "meta": "355.2"
+    },
+    {
+      "n": "1042",
+      "codigo_socio": "ACO-01412",
+      "meta": "698.4"
+    },
+    {
+      "n": "1043",
+      "codigo_socio": "ACO-03668",
+      "meta": "4417.2"
+    },
+    {
+      "n": "1044",
+      "codigo_socio": "ACO-01533",
+      "meta": "5993.4"
+    },
+    {
+      "n": "1045",
+      "codigo_socio": "ACO-01105",
+      "meta": "1080"
+    },
+    {
+      "n": "1046",
+      "codigo_socio": "ACO-02270",
+      "meta": "419.4"
+    },
+    {
+      "n": "1047",
+      "codigo_socio": "ACO-01025",
+      "meta": "1123.2"
+    },
+    {
+      "n": "1048",
+      "codigo_socio": "ACO-00458",
+      "meta": "1973.4"
+    },
+    {
+      "n": "1049",
+      "codigo_socio": "ACO-03629",
+      "meta": "141.6"
+    },
+    {
+      "n": "1050",
+      "codigo_socio": "ACO-03180",
+      "meta": "1276.8"
+    },
+    {
+      "n": "1051",
+      "codigo_socio": "ACO-03179",
+      "meta": "190.8"
+    },
+    {
+      "n": "1052",
+      "codigo_socio": "ACO-01678",
+      "meta": "1035.6"
+    },
+    {
+      "n": "1053",
+      "codigo_socio": "ACO-01672",
+      "meta": "757.2"
+    },
+    {
+      "n": "1054",
+      "codigo_socio": "ACO-01936",
+      "meta": "9078"
+    },
+    {
+      "n": "1055",
+      "codigo_socio": "ACO-03125",
+      "meta": "5919.6"
+    },
+    {
+      "n": "1056",
+      "codigo_socio": "ACO-01941",
+      "meta": "1671.6"
+    },
+    {
+      "n": "1057",
+      "codigo_socio": "ACO-01275",
+      "meta": "405"
+    },
+    {
+      "n": "1058",
+      "codigo_socio": "ACO-01457",
+      "meta": "277.8"
+    },
+    {
+      "n": "1059",
+      "codigo_socio": "ACO-02640",
+      "meta": "757.8"
+    },
+    {
+      "n": "1060",
+      "codigo_socio": "ACO-02462",
+      "meta": "231"
+    },
+    {
+      "n": "1061",
+      "codigo_socio": "ACO-01311",
+      "meta": "2233.2"
+    },
+    {
+      "n": "1062",
+      "codigo_socio": "ACO-00725",
+      "meta": "448.8"
+    },
+    {
+      "n": "1063",
+      "codigo_socio": "ACO-01944",
+      "meta": "320.4"
+    },
+    {
+      "n": "1064",
+      "codigo_socio": "ACO-00699",
+      "meta": "4152"
+    },
+    {
+      "n": "1065",
+      "codigo_socio": "ACO-00929",
+      "meta": "663"
+    },
+    {
+      "n": "1066",
+      "codigo_socio": "ACO-01040",
+      "meta": "235.8"
+    },
+    {
+      "n": "1067",
+      "codigo_socio": "ACO-01959",
+      "meta": "588"
+    },
+    {
+      "n": "1068",
+      "codigo_socio": "ACO-03244",
+      "meta": "288"
+    },
+    {
+      "n": "1069",
+      "codigo_socio": "ACO-02473",
+      "meta": "1348.2"
+    },
+    {
+      "n": "1070",
+      "codigo_socio": "ACO-01136",
+      "meta": "2190"
+    },
+    {
+      "n": "1071",
+      "codigo_socio": "ACO-03612",
+      "meta": "1592.4"
+    },
+    {
+      "n": "1072",
+      "codigo_socio": "ACO-02877",
+      "meta": "790.8"
+    },
+    {
+      "n": "1073",
+      "codigo_socio": "ACO-02876",
+      "meta": "1112.4"
+    },
+    {
+      "n": "1074",
+      "codigo_socio": "ACO-03264",
+      "meta": "570.6"
+    },
+    {
+      "n": "1075",
+      "codigo_socio": "ACO-01942",
+      "meta": "1415.4"
+    },
+    {
+      "n": "1076",
+      "codigo_socio": "ACO-02400",
+      "meta": "1165.2"
+    },
+    {
+      "n": "1077",
+      "codigo_socio": "ACO-02113",
+      "meta": "557.4"
+    },
+    {
+      "n": "1078",
+      "codigo_socio": "ACO-01807",
+      "meta": "510"
+    },
+    {
+      "n": "1079",
+      "codigo_socio": "ACO-03308",
+      "meta": "1361.4"
+    },
+    {
+      "n": "1080",
+      "codigo_socio": "ACO-03243",
+      "meta": "631.8"
+    },
+    {
+      "n": "1081",
+      "codigo_socio": "ACO-03868",
+      "meta": "985.8"
+    },
+    {
+      "n": "1082",
+      "codigo_socio": "ACO-01528",
+      "meta": "824.4"
+    },
+    {
+      "n": "1083",
+      "codigo_socio": "ACO-00999",
+      "meta": "3423.6"
+    },
+    {
+      "n": "1084",
+      "codigo_socio": "ACO-01444",
+      "meta": "497.4"
+    },
+    {
+      "n": "1085",
+      "codigo_socio": "ACO-02737",
+      "meta": "1245"
+    },
+    {
+      "n": "1086",
+      "codigo_socio": "ACO-00799",
+      "meta": "1111.2"
+    },
+    {
+      "n": "1087",
+      "codigo_socio": "ACO-01161",
+      "meta": "3047.4"
+    },
+    {
+      "n": "1088",
+      "codigo_socio": "ACO-01146",
+      "meta": "3972.6"
+    },
+    {
+      "n": "1089",
+      "codigo_socio": "ACO-03653",
+      "meta": "4152"
+    },
+    {
+      "n": "1090",
+      "codigo_socio": "ACO-03828",
+      "meta": "2050.8"
+    },
+    {
+      "n": "1091",
+      "codigo_socio": "ACO-01819",
+      "meta": "5662.8"
+    },
+    {
+      "n": "1092",
+      "codigo_socio": "ACO-01653",
+      "meta": "4830"
+    },
+    {
+      "n": "1093",
+      "codigo_socio": "ACO-03683",
+      "meta": "1659"
+    },
+    {
+      "n": "1094",
+      "codigo_socio": "ACO-02509",
+      "meta": "1864.2"
+    },
+    {
+      "n": "1095",
+      "codigo_socio": "ACO-03827",
+      "meta": "969"
+    },
+    {
+      "n": "1096",
+      "codigo_socio": "ACO-01515",
+      "meta": "802.2"
+    },
+    {
+      "n": "1097",
+      "codigo_socio": "ACO-02280",
+      "meta": "2722.8"
+    },
+    {
+      "n": "1098",
+      "codigo_socio": "ACO-03775",
+      "meta": "2695.2"
+    },
+    {
+      "n": "1099",
+      "codigo_socio": "ACO-03619",
+      "meta": "896.4"
+    },
+    {
+      "n": "1100",
+      "codigo_socio": "ACO-01482",
+      "meta": "3584.4"
+    },
+    {
+      "n": "1101",
+      "codigo_socio": "ACO-02510",
+      "meta": "4222.8"
+    },
+    {
+      "n": "1102",
+      "codigo_socio": "ACO-00762",
+      "meta": "2324.4"
+    },
+    {
+      "n": "1103",
+      "codigo_socio": "ACO-01652",
+      "meta": "4351.2"
+    },
+    {
+      "n": "1104",
+      "codigo_socio": "ACO-01732",
+      "meta": "3343.2"
+    },
+    {
+      "n": "1105",
+      "codigo_socio": "ACO-01654",
+      "meta": "1939.2"
+    },
+    {
+      "n": "1106",
+      "codigo_socio": "ACO-01840",
+      "meta": "4122"
+    },
+    {
+      "n": "1107",
+      "codigo_socio": "ACO-00837",
+      "meta": "4069.2"
+    },
+    {
+      "n": "1108",
+      "codigo_socio": "ACO-03841",
+      "meta": "3652.8"
+    },
+    {
+      "n": "1109",
+      "codigo_socio": "ACO-00805",
+      "meta": "6806.4"
+    },
+    {
+      "n": "1110",
+      "codigo_socio": "ACO-02279",
+      "meta": "2140.8"
+    },
+    {
+      "n": "1111",
+      "codigo_socio": "ACO-03704",
+      "meta": "480"
+    },
+    {
+      "n": "1112",
+      "codigo_socio": "ACO-01077",
+      "meta": "6406.8"
+    },
+    {
+      "n": "1113",
+      "codigo_socio": "ACO-03641",
+      "meta": "3255.6"
+    },
+    {
+      "n": "1114",
+      "codigo_socio": "ACO-03702",
+      "meta": "578.4"
+    },
+    {
+      "n": "1115",
+      "codigo_socio": "ACO-03909",
+      "meta": "1296"
+    },
+    {
+      "n": "1116",
+      "codigo_socio": "ACO-03700",
+      "meta": "2508"
+    },
+    {
+      "n": "1117",
+      "codigo_socio": "ACO-02546",
+      "meta": "1405.2"
+    },
+    {
+      "n": "1118",
+      "codigo_socio": "ACO-03908",
+      "meta": "610.8"
+    },
+    {
+      "n": "1119",
+      "codigo_socio": "ACO-03701",
+      "meta": "2571.6"
+    },
+    {
+      "n": "1120",
+      "codigo_socio": "ACO-02741",
+      "meta": "8338.8"
+    },
+    {
+      "n": "1121",
+      "codigo_socio": "ACO-02819",
+      "meta": "4428"
+    },
+    {
+      "n": "1122",
+      "codigo_socio": "ACO-03703",
+      "meta": "3372"
+    },
+    {
+      "n": "1123",
+      "codigo_socio": "ACO-03941",
+      "meta": "3609.6"
+    },
+    {
+      "n": "1124",
+      "codigo_socio": "ACO-01650",
+      "meta": "17503.2"
+    },
+    {
+      "n": "1125",
+      "codigo_socio": "ACO-03640",
+      "meta": "2821.2"
+    },
+    {
+      "n": "1126",
+      "codigo_socio": "ACO-03753",
+      "meta": "2168.4"
+    },
+    {
+      "n": "1127",
+      "codigo_socio": "ACO-00547",
+      "meta": "1580.4"
+    },
+    {
+      "n": "1128",
+      "codigo_socio": "ACO-00140",
+      "meta": "576.6"
+    },
+    {
+      "n": "1129",
+      "codigo_socio": "ACO-00561",
+      "meta": "468.6"
+    },
+    {
+      "n": "1130",
+      "codigo_socio": "ACO-00356",
+      "meta": "757.8"
+    },
+    {
+      "n": "1131",
+      "codigo_socio": "ACO-00476",
+      "meta": "3836.4"
+    },
+    {
+      "n": "1132",
+      "codigo_socio": "ACO-00558",
+      "meta": "2430"
+    },
+    {
+      "n": "1133",
+      "codigo_socio": "ACO-00475",
+      "meta": "1764"
+    },
+    {
+      "n": "1134",
+      "codigo_socio": "ACO-02707",
+      "meta": "435"
+    },
+    {
+      "n": "1135",
+      "codigo_socio": "ACO-00267",
+      "meta": "136.8"
+    },
+    {
+      "n": "1136",
+      "codigo_socio": "ACO-01560",
+      "meta": "1887.6"
+    },
+    {
+      "n": "1137",
+      "codigo_socio": "ACO-00695",
+      "meta": "985.2"
+    },
+    {
+      "n": "1138",
+      "codigo_socio": "ACO-00377",
+      "meta": "1936.2"
+    },
+    {
+      "n": "1139",
+      "codigo_socio": "ACO-01396",
+      "meta": "329.4"
+    },
+    {
+      "n": "1140",
+      "codigo_socio": "ACO-01463",
+      "meta": "323.4"
+    },
+    {
+      "n": "1141",
+      "codigo_socio": "ACO-01772",
+      "meta": "3346.2"
+    },
+    {
+      "n": "1142",
+      "codigo_socio": "ACO-01730",
+      "meta": "1692"
+    },
+    {
+      "n": "1143",
+      "codigo_socio": "ACO-02144",
+      "meta": "1895.4"
+    },
+    {
+      "n": "1144",
+      "codigo_socio": "ACO-00243",
+      "meta": "2464.8"
+    },
+    {
+      "n": "1145",
+      "codigo_socio": "ACO-00030",
+      "meta": "1219.2"
+    },
+    {
+      "n": "1146",
+      "codigo_socio": "ACO-00866",
+      "meta": "635.4"
+    },
+    {
+      "n": "1147",
+      "codigo_socio": "ACO-00448",
+      "meta": "132"
+    },
+    {
+      "n": "1148",
+      "codigo_socio": "ACO-02372",
+      "meta": "1619.4"
+    },
+    {
+      "n": "1149",
+      "codigo_socio": "ACO-02293",
+      "meta": "655.8"
+    },
+    {
+      "n": "1150",
+      "codigo_socio": "ACO-00582",
+      "meta": "273"
+    },
+    {
+      "n": "1151",
+      "codigo_socio": "ACO-01520",
+      "meta": "3687"
+    },
+    {
+      "n": "1152",
+      "codigo_socio": "ACO-00478",
+      "meta": "687.6"
+    },
+    {
+      "n": "1153",
+      "codigo_socio": "ACO-03643",
+      "meta": "1270.8"
+    },
+    {
+      "n": "1154",
+      "codigo_socio": "ACO-00863",
+      "meta": "862.2"
+    },
+    {
+      "n": "1155",
+      "codigo_socio": "ACO-00355",
+      "meta": "399.6"
+    },
+    {
+      "n": "1156",
+      "codigo_socio": "ACO-00590",
+      "meta": "1327.8"
+    },
+    {
+      "n": "1157",
+      "codigo_socio": "ACO-00549",
+      "meta": "445.2"
+    },
+    {
+      "n": "1158",
+      "codigo_socio": "ACO-00612",
+      "meta": "556.8"
+    },
+    {
+      "n": "1159",
+      "codigo_socio": "ACO-00761",
+      "meta": "162.6"
+    },
+    {
+      "n": "1160",
+      "codigo_socio": "ACO-01826",
+      "meta": "438"
+    },
+    {
+      "n": "1161",
+      "codigo_socio": "ACO-00938",
+      "meta": "914.4"
+    },
+    {
+      "n": "1162",
+      "codigo_socio": "ACO-00733",
+      "meta": "205.2"
+    },
+    {
+      "n": "1163",
+      "codigo_socio": "ACO-01857",
+      "meta": "961.2"
+    },
+    {
+      "n": "1164",
+      "codigo_socio": "ACO-03155",
+      "meta": "1099.2"
+    },
+    {
+      "n": "1165",
+      "codigo_socio": "ACO-02806",
+      "meta": "646.2"
+    },
+    {
+      "n": "1166",
+      "codigo_socio": "ACO-00775",
+      "meta": "1404.6"
+    },
+    {
+      "n": "1167",
+      "codigo_socio": "ACO-03400",
+      "meta": "1099.8"
+    },
+    {
+      "n": "1168",
+      "codigo_socio": "ACO-01185",
+      "meta": "406.8"
+    },
+    {
+      "n": "1169",
+      "codigo_socio": "ACO-00568",
+      "meta": "3676.8"
+    },
+    {
+      "n": "1170",
+      "codigo_socio": "ACO-02351",
+      "meta": "1832.4"
+    },
+    {
+      "n": "1171",
+      "codigo_socio": "ACO-00574",
+      "meta": "4641"
+    },
+    {
+      "n": "1172",
+      "codigo_socio": "ACO-03813",
+      "meta": "210.6"
+    },
+    {
+      "n": "1173",
+      "codigo_socio": "ACO-00583",
+      "meta": "940.8"
+    },
+    {
+      "n": "1174",
+      "codigo_socio": "ACO-00287",
+      "meta": "2734.8"
+    },
+    {
+      "n": "1175",
+      "codigo_socio": "ACO-03232",
+      "meta": "1036.2"
+    },
+    {
+      "n": "1176",
+      "codigo_socio": "ACO-01774",
+      "meta": "306"
+    },
+    {
+      "n": "1177",
+      "codigo_socio": "ACO-00051",
+      "meta": "1093.2"
+    },
+    {
+      "n": "1178",
+      "codigo_socio": "ACO-02018",
+      "meta": "397.8"
+    },
+    {
+      "n": "1179",
+      "codigo_socio": "ACO-00584",
+      "meta": "430.8"
+    },
+    {
+      "n": "1180",
+      "codigo_socio": "ACO-00702",
+      "meta": "897"
+    },
+    {
+      "n": "1181",
+      "codigo_socio": "ACO-00359",
+      "meta": "1659.6"
+    },
+    {
+      "n": "1182",
+      "codigo_socio": "ACO-03000",
+      "meta": "682.8"
+    },
+    {
+      "n": "1183",
+      "codigo_socio": "ACO-00017",
+      "meta": "854.4"
+    },
+    {
+      "n": "1184",
+      "codigo_socio": "ACO-02322",
+      "meta": "1414.2"
+    },
+    {
+      "n": "1185",
+      "codigo_socio": "ACO-01508",
+      "meta": "246"
+    },
+    {
+      "n": "1186",
+      "codigo_socio": "ACO-00984",
+      "meta": "1738.8"
+    },
+    {
+      "n": "1187",
+      "codigo_socio": "ACO-01870",
+      "meta": "70.2"
+    },
+    {
+      "n": "1188",
+      "codigo_socio": "ACO-00844",
+      "meta": "1161.6"
+    },
+    {
+      "n": "1189",
+      "codigo_socio": "ACO-02807",
+      "meta": "1686.6"
+    },
+    {
+      "n": "1190",
+      "codigo_socio": "ACO-03642",
+      "meta": "2421"
+    },
+    {
+      "n": "1191",
+      "codigo_socio": "ACO-03985",
+      "meta": "18.6"
+    },
+    {
+      "n": "1192",
+      "codigo_socio": "ACO-03774",
+      "meta": "601.8"
+    },
+    {
+      "n": "1193",
+      "codigo_socio": "ACO-01395",
+      "meta": "630"
+    },
+    {
+      "n": "1194",
+      "codigo_socio": "ACO-02424",
+      "meta": "123.6"
+    },
+    {
+      "n": "1195",
+      "codigo_socio": "ACO-00158",
+      "meta": "1575.6"
+    },
+    {
+      "n": "1196",
+      "codigo_socio": "ACO-01780",
+      "meta": "1945.2"
+    },
+    {
+      "n": "1197",
+      "codigo_socio": "ACO-00888",
+      "meta": "731.4"
+    },
+    {
+      "n": "1198",
+      "codigo_socio": "ACO-03540",
+      "meta": "1182"
+    },
+    {
+      "n": "1199",
+      "codigo_socio": "ACO-03343",
+      "meta": "307.2"
+    },
+    {
+      "n": "1200",
+      "codigo_socio": "ACO-00305",
+      "meta": "2656.2"
+    },
+    {
+      "n": "1201",
+      "codigo_socio": "ACO-03627",
+      "meta": "64.8"
+    },
+    {
+      "n": "1202",
+      "codigo_socio": "ACO-01731",
+      "meta": "110.4"
+    },
+    {
+      "n": "1203",
+      "codigo_socio": "ACO-03986",
+      "meta": "0"
+    },
+    {
+      "n": "1204",
+      "codigo_socio": "ACO-00576",
+      "meta": "1720.2"
+    },
+    {
+      "n": "1205",
+      "codigo_socio": "ACO-00933",
+      "meta": "1741.2"
+    },
+    {
+      "n": "1206",
+      "codigo_socio": "ACO-03637",
+      "meta": "8.4"
+    },
+    {
+      "n": "1207",
+      "codigo_socio": "ACO-00704",
+      "meta": "711.6"
+    },
+    {
+      "n": "1208",
+      "codigo_socio": "ACO-03487",
+      "meta": "0"
+    },
+    {
+      "n": "1209",
+      "codigo_socio": "ACO-03817",
+      "meta": "1490.4"
+    },
+    {
+      "n": "1210",
+      "codigo_socio": "ACO-03658",
+      "meta": "475.8"
+    },
+    {
+      "n": "1211",
+      "codigo_socio": "ACO-02801",
+      "meta": "2470.2"
+    },
+    {
+      "n": "1212",
+      "codigo_socio": "ACO-02331",
+      "meta": "246"
+    },
+    {
+      "n": "1213",
+      "codigo_socio": "ACO-00810",
+      "meta": "78"
+    },
+    {
+      "n": "1214",
+      "codigo_socio": "ACO-01163",
+      "meta": "784.8"
+    },
+    {
+      "n": "1215",
+      "codigo_socio": "ACO-03874",
+      "meta": "1933.2"
+    },
+    {
+      "n": "1216",
+      "codigo_socio": "ACO-01455",
+      "meta": "394.2"
+    },
+    {
+      "n": "1217",
+      "codigo_socio": "ACO-00609",
+      "meta": "1536.6"
+    },
+    {
+      "n": "1218",
+      "codigo_socio": "ACO-01261",
+      "meta": "1081.2"
+    },
+    {
+      "n": "1219",
+      "codigo_socio": "ACO-03485",
+      "meta": "1092"
+    },
+    {
+      "n": "1220",
+      "codigo_socio": "ACO-00519",
+      "meta": "1113.6"
+    },
+    {
+      "n": "1221",
+      "codigo_socio": "ACO-01233",
+      "meta": "5458.8"
+    },
+    {
+      "n": "1222",
+      "codigo_socio": "ACO-02891",
+      "meta": "1633.2"
+    },
+    {
+      "n": "1223",
+      "codigo_socio": "ACO-02695",
+      "meta": "6832.8"
+    },
+    {
+      "n": "1224",
+      "codigo_socio": "ACO-00319",
+      "meta": "3231.6"
+    },
+    {
+      "n": "1225",
+      "codigo_socio": "ACO-02949",
+      "meta": "1219.2"
+    },
+    {
+      "n": "1226",
+      "codigo_socio": "ACO-00405",
+      "meta": "2581.2"
+    },
+    {
+      "n": "1227",
+      "codigo_socio": "ACO-01326",
+      "meta": "7104"
+    },
+    {
+      "n": "1228",
+      "codigo_socio": "ACO-02950",
+      "meta": "2511.6"
+    },
+    {
+      "n": "1229",
+      "codigo_socio": "ACO-01340",
+      "meta": "4817.4"
+    },
+    {
+      "n": "1230",
+      "codigo_socio": "ACO-01593",
+      "meta": "1582.8"
+    },
+    {
+      "n": "1231",
+      "codigo_socio": "ACO-03390",
+      "meta": "3326.4"
+    },
+    {
+      "n": "1232",
+      "codigo_socio": "ACO-00376",
+      "meta": "241.8"
+    },
+    {
+      "n": "1233",
+      "codigo_socio": "ACO-01798",
+      "meta": "2468.4"
+    },
+    {
+      "n": "1234",
+      "codigo_socio": "ACO-01327",
+      "meta": "3398.4"
+    },
+    {
+      "n": "1235",
+      "codigo_socio": "ACO-00979",
+      "meta": "1114.8"
+    },
+    {
+      "n": "1236",
+      "codigo_socio": "ACO-02831",
+      "meta": "256.8"
+    },
+    {
+      "n": "1237",
+      "codigo_socio": "ACO-00736",
+      "meta": "1190.4"
+    },
+    {
+      "n": "1238",
+      "codigo_socio": "ACO-02512",
+      "meta": "2257.2"
+    },
+    {
+      "n": "1239",
+      "codigo_socio": "ACO-03001",
+      "meta": "3763.2"
+    },
+    {
+      "n": "1240",
+      "codigo_socio": "ACO-00829",
+      "meta": "6219"
+    },
+    {
+      "n": "1241",
+      "codigo_socio": "ACO-02017",
+      "meta": "2236.8"
+    },
+    {
+      "n": "1242",
+      "codigo_socio": "ACO-02948",
+      "meta": "2451.6"
+    },
+    {
+      "n": "1243",
+      "codigo_socio": "ACO-03033",
+      "meta": "3504.6"
+    },
+    {
+      "n": "1244",
+      "codigo_socio": "ACO-03486",
+      "meta": "1030.8"
+    },
+    {
+      "n": "1245",
+      "codigo_socio": "ACO-02294",
+      "meta": "3980.4"
+    },
+    {
+      "n": "1246",
+      "codigo_socio": "ACO-03670",
+      "meta": "3639.6"
+    },
+    {
+      "n": "1247",
+      "codigo_socio": "ACO-03161",
+      "meta": "159.6"
+    },
+    {
+      "n": "1248",
+      "codigo_socio": "ACO-03846",
+      "meta": "2339.4"
+    },
+    {
+      "n": "1249",
+      "codigo_socio": "ACO-01676",
+      "meta": "2026.2"
+    },
+    {
+      "n": "1250",
+      "codigo_socio": "ACO-01499",
+      "meta": "1341"
+    },
+    {
+      "n": "1251",
+      "codigo_socio": "ACO-00851",
+      "meta": "2573.4"
+    },
+    {
+      "n": "1252",
+      "codigo_socio": "ACO-00816",
+      "meta": "6387.6"
+    },
+    {
+      "n": "1253",
+      "codigo_socio": "ACO-01839",
+      "meta": "2436"
+    },
+    {
+      "n": "1254",
+      "codigo_socio": "ACO-00901",
+      "meta": "682.8"
+    },
+    {
+      "n": "1255",
+      "codigo_socio": "ACO-02420",
+      "meta": "1014"
+    },
+    {
+      "n": "1256",
+      "codigo_socio": "ACO-00865",
+      "meta": "773.4"
+    },
+    {
+      "n": "1257",
+      "codigo_socio": "ACO-03840",
+      "meta": "1650"
+    },
+    {
+      "n": "1258",
+      "codigo_socio": "ACO-02421",
+      "meta": "856.2"
+    },
+    {
+      "n": "1259",
+      "codigo_socio": "ACO-02898",
+      "meta": "672"
+    },
+    {
+      "n": "1260",
+      "codigo_socio": "ACO-03231",
+      "meta": "2164.8"
+    },
+    {
+      "n": "1261",
+      "codigo_socio": "ACO-03433",
+      "meta": "1245"
+    },
+    {
+      "n": "1262",
+      "codigo_socio": "ACO-03972",
+      "meta": "621.6"
+    },
+    {
+      "n": "1263",
+      "codigo_socio": "ACO-03798",
+      "meta": "351"
+    },
+    {
+      "n": "1264",
+      "codigo_socio": "ACO-03847",
+      "meta": "1780.8"
+    },
+    {
+      "n": "1265",
+      "codigo_socio": "ACO-00664",
+      "meta": "1264.2"
+    },
+    {
+      "n": "1266",
+      "codigo_socio": "ACO-03559",
+      "meta": "72"
+    },
+    {
+      "n": "1267",
+      "codigo_socio": "ACO-01020",
+      "meta": "2130"
+    },
+    {
+      "n": "1268",
+      "codigo_socio": "ACO-02682",
+      "meta": "2169.6"
+    },
+    {
+      "n": "1269",
+      "codigo_socio": "ACO-00908",
+      "meta": "831.6"
+    },
+    {
+      "n": "1270",
+      "codigo_socio": "ACO-03150",
+      "meta": "1029.6"
+    },
+    {
+      "n": "1271",
+      "codigo_socio": "ACO-02681",
+      "meta": "753"
+    },
+    {
+      "n": "1272",
+      "codigo_socio": "ACO-02446",
+      "meta": "92.4"
+    },
+    {
+      "n": "1273",
+      "codigo_socio": "ACO-03945",
+      "meta": "651.6"
+    },
+    {
+      "n": "1274",
+      "codigo_socio": "ACO-02197",
+      "meta": "1428"
+    },
+    {
+      "n": "1275",
+      "codigo_socio": "ACO-03241",
+      "meta": "3813"
+    },
+    {
+      "n": "1276",
+      "codigo_socio": "ACO-01139",
+      "meta": "388.8"
+    },
+    {
+      "n": "1277",
+      "codigo_socio": "ACO-02033",
+      "meta": "3238.2"
+    },
+    {
+      "n": "1278",
+      "codigo_socio": "ACO-03570",
+      "meta": "460.8"
+    },
+    {
+      "n": "1279",
+      "codigo_socio": "ACO-01601",
+      "meta": "2175.6"
+    },
+    {
+      "n": "1280",
+      "codigo_socio": "ACO-02683",
+      "meta": "1753.2"
+    },
+    {
+      "n": "1281",
+      "codigo_socio": "ACO-01469",
+      "meta": "3054"
+    },
+    {
+      "n": "1282",
+      "codigo_socio": "ACO-01831",
+      "meta": "778.8"
+    },
+    {
+      "n": "1283",
+      "codigo_socio": "ACO-03714",
+      "meta": "361.2"
+    },
+    {
+      "n": "1284",
+      "codigo_socio": "ACO-03858",
+      "meta": "1074"
+    },
+    {
+      "n": "1285",
+      "codigo_socio": "ACO-03185",
+      "meta": "594.6"
+    },
+    {
+      "n": "1286",
+      "codigo_socio": "ACO-02800",
+      "meta": "1724.4"
+    },
+    {
+      "n": "1287",
+      "codigo_socio": "ACO-03134",
+      "meta": "2348.4"
+    },
+    {
+      "n": "1288",
+      "codigo_socio": "ACO-03944",
+      "meta": "862.2"
+    },
+    {
+      "n": "1289",
+      "codigo_socio": "ACO-03715",
+      "meta": "1903.2"
+    },
+    {
+      "n": "1290",
+      "codigo_socio": "ACO-03780",
+      "meta": "521.4"
+    },
+    {
+      "n": "1291",
+      "codigo_socio": "ACO-03240",
+      "meta": "1491.6"
+    },
+    {
+      "n": "1292",
+      "codigo_socio": "ACO-02046",
+      "meta": "1974"
+    },
+    {
+      "n": "1293",
+      "codigo_socio": "ACO-03848",
+      "meta": "831"
+    },
+    {
+      "n": "1294",
+      "codigo_socio": "ACO-03607",
+      "meta": "704.4"
+    },
+    {
+      "n": "1295",
+      "codigo_socio": "ACO-03746",
+      "meta": "1041.6"
+    },
+    {
+      "n": "1296",
+      "codigo_socio": "ACO-00937",
+      "meta": "355"
+    },
+    {
+      "n": "1297",
+      "codigo_socio": "ACO-02574",
+      "meta": "1017"
+    },
+    {
+      "n": "1298",
+      "codigo_socio": "ACO-00942",
+      "meta": "1780.8"
+    },
+    {
+      "n": "1299",
+      "codigo_socio": "ACO-00932",
+      "meta": "302.4"
+    },
+    {
+      "n": "1300",
+      "codigo_socio": "ACO-01611",
+      "meta": "2009.4"
+    },
+    {
+      "n": "1301",
+      "codigo_socio": "ACO-01519",
+      "meta": "628.2"
+    },
+    {
+      "n": "1302",
+      "codigo_socio": "ACO-01925",
+      "meta": "3142.8"
+    },
+    {
+      "n": "1303",
+      "codigo_socio": "ACO-01152",
+      "meta": "8167.8"
+    },
+    {
+      "n": "1304",
+      "codigo_socio": "ACO-01637",
+      "meta": "1890.6"
+    },
+    {
+      "n": "1305",
+      "codigo_socio": "ACO-01109",
+      "meta": "1697.4"
+    },
+    {
+      "n": "1306",
+      "codigo_socio": "ACO-01612",
+      "meta": "1297.2"
+    },
+    {
+      "n": "1307",
+      "codigo_socio": "ACO-02677",
+      "meta": "2028.6"
+    },
+    {
+      "n": "1308",
+      "codigo_socio": "ACO-02827",
+      "meta": "1619.4"
+    },
+    {
+      "n": "1309",
+      "codigo_socio": "ACO-03849",
+      "meta": "1476.6"
+    },
+    {
+      "n": "1310",
+      "codigo_socio": "ACO-02678",
+      "meta": "771"
+    },
+    {
+      "n": "1311",
+      "codigo_socio": "ACO-02863",
+      "meta": "1148.4"
+    },
+    {
+      "n": "1312",
+      "codigo_socio": "ACO-03657",
+      "meta": "342.6"
+    },
+    {
+      "n": "1313",
+      "codigo_socio": "ACO-03656",
+      "meta": "480"
+    },
+    {
+      "n": "1314",
+      "codigo_socio": "ACO-03171",
+      "meta": "12886.2"
+    },
+    {
+      "n": "1315",
+      "codigo_socio": "ACO-00845",
+      "meta": "4540.8"
+    },
+    {
+      "n": "1316",
+      "codigo_socio": "ACO-02871",
+      "meta": "1210.8"
+    },
+    {
+      "n": "1317",
+      "codigo_socio": "ACO-03411",
+      "meta": "1957.2"
+    },
+    {
+      "n": "1318",
+      "codigo_socio": "ACO-03412",
+      "meta": "2842.8"
+    },
+    {
+      "n": "1319",
+      "codigo_socio": "ACO-02659",
+      "meta": "3691.8"
+    },
+    {
+      "n": "1320",
+      "codigo_socio": "ACO-03936",
+      "meta": "558.6"
+    },
+    {
+      "n": "1321",
+      "codigo_socio": "ACO-02423",
+      "meta": "2431.8"
+    },
+    {
+      "n": "1322",
+      "codigo_socio": "ACO-01479",
+      "meta": "3940.8"
+    },
+    {
+      "n": "1323",
+      "codigo_socio": "ACO-00821",
+      "meta": "1177.8"
+    },
+    {
+      "n": "1324",
+      "codigo_socio": "ACO-02658",
+      "meta": "1820.4"
+    },
+    {
+      "n": "1325",
+      "codigo_socio": "ACO-00926",
+      "meta": "1076.4"
+    },
+    {
+      "n": "1326",
+      "codigo_socio": "ACO-03381",
+      "meta": "2029.8"
+    },
+    {
+      "n": "1327",
+      "codigo_socio": "ACO-00562",
+      "meta": "9027.6"
+    },
+    {
+      "n": "1328",
+      "codigo_socio": "ACO-00854",
+      "meta": "151.8"
+    },
+    {
+      "n": "1329",
+      "codigo_socio": "ACO-00846",
+      "meta": "700.2"
+    },
+    {
+      "n": "1330",
+      "codigo_socio": "ACO-00872",
+      "meta": "1366.2"
+    },
+    {
+      "n": "1331",
+      "codigo_socio": "ACO-02063",
+      "meta": "571.2"
+    },
+    {
+      "n": "1332",
+      "codigo_socio": "ACO-02382",
+      "meta": "1492.2"
+    },
+    {
+      "n": "1333",
+      "codigo_socio": "ACO-01554",
+      "meta": "2842.2"
+    },
+    {
+      "n": "1334",
+      "codigo_socio": "ACO-00935",
+      "meta": "406.8"
+    },
+    {
+      "n": "1335",
+      "codigo_socio": "ACO-01745",
+      "meta": "552"
+    },
+    {
+      "n": "1336",
+      "codigo_socio": "ACO-03272",
+      "meta": "960.6"
+    },
+    {
+      "n": "1337",
+      "codigo_socio": "ACO-03367",
+      "meta": "941.4"
+    },
+    {
+      "n": "1338",
+      "codigo_socio": "ACO-02638",
+      "meta": "837"
+    },
+    {
+      "n": "1339",
+      "codigo_socio": "ACO-02639",
+      "meta": "3433.2"
+    },
+    {
+      "n": "1340",
+      "codigo_socio": "ACO-03463",
+      "meta": "487.8"
+    },
+    {
+      "n": "1341",
+      "codigo_socio": "ACO-02803",
+      "meta": "1170"
+    },
+    {
+      "n": "1342",
+      "codigo_socio": "ACO-01461",
+      "meta": "477.6"
+    },
+    {
+      "n": "1343",
+      "codigo_socio": "ACO-03830",
+      "meta": "4251"
+    },
+    {
+      "n": "1344",
+      "codigo_socio": "ACO-01744",
+      "meta": "1681.2"
+    },
+    {
+      "n": "1345",
+      "codigo_socio": "ACO-02804",
+      "meta": "1262.4"
+    },
+    {
+      "n": "1346",
+      "codigo_socio": "ACO-03935",
+      "meta": "405"
+    },
+    {
+      "n": "1347",
+      "codigo_socio": "ACO-02195",
+      "meta": "543"
+    },
+    {
+      "n": "1348",
+      "codigo_socio": "ACO-01134",
+      "meta": "1133.4"
+    },
+    {
+      "n": "1349",
+      "codigo_socio": "ACO-01449",
+      "meta": "181.2"
+    },
+    {
+      "n": "1350",
+      "codigo_socio": "ACO-02757",
+      "meta": "2063.4"
+    },
+    {
+      "n": "1351",
+      "codigo_socio": "ACO-03829",
+      "meta": "6702"
+    },
+    {
+      "n": "1352",
+      "codigo_socio": "ACO-02862",
+      "meta": "1076.4"
+    },
+    {
+      "n": "1353",
+      "codigo_socio": "ACO-03937",
+      "meta": "320.4"
+    },
+    {
+      "n": "1354",
+      "codigo_socio": "ACO-01450",
+      "meta": "361.2"
+    },
+    {
+      "n": "1355",
+      "codigo_socio": "ACO-01366",
+      "meta": "1310.4"
+    },
+    {
+      "n": "1356",
+      "codigo_socio": "ACO-02729",
+      "meta": "1218"
+    },
+    {
+      "n": "1357",
+      "codigo_socio": "ACO-01013",
+      "meta": "327.6"
+    },
+    {
+      "n": "1358",
+      "codigo_socio": "ACO-02576",
+      "meta": "862.8"
+    },
+    {
+      "n": "1359",
+      "codigo_socio": "ACO-02989",
+      "meta": "3332.4"
+    },
+    {
+      "n": "1360",
+      "codigo_socio": "ACO-03818",
+      "meta": "2674.2"
+    },
+    {
+      "n": "1361",
+      "codigo_socio": "ACO-03109",
+      "meta": "1848"
+    },
+    {
+      "n": "1362",
+      "codigo_socio": "ACO-00371",
+      "meta": "76.2"
+    },
+    {
+      "n": "1363",
+      "codigo_socio": "ACO-02149",
+      "meta": "2092.8"
+    },
+    {
+      "n": "1364",
+      "codigo_socio": "ACO-03493",
+      "meta": "10231.2"
+    },
+    {
+      "n": "1365",
+      "codigo_socio": "ACO-03844",
+      "meta": "420"
+    },
+    {
+      "n": "1366",
+      "codigo_socio": "ACO-02414",
+      "meta": "1380"
+    },
+    {
+      "n": "1367",
+      "codigo_socio": "ACO-03414",
+      "meta": "2230.8"
+    },
+    {
+      "n": "1368",
+      "codigo_socio": "ACO-00373",
+      "meta": "2097"
+    },
+    {
+      "n": "1369",
+      "codigo_socio": "ACO-03491",
+      "meta": "1041"
+    },
+    {
+      "n": "1370",
+      "codigo_socio": "ACO-02150",
+      "meta": "1234.2"
+    },
+    {
+      "n": "1371",
+      "codigo_socio": "ACO-01825",
+      "meta": "929.4"
+    },
+    {
+      "n": "1372",
+      "codigo_socio": "ACO-03776",
+      "meta": "2259.6"
+    },
+    {
+      "n": "1373",
+      "codigo_socio": "ACO-02650",
+      "meta": "672"
+    },
+    {
+      "n": "1374",
+      "codigo_socio": "ACO-03833",
+      "meta": "1554"
+    },
+    {
+      "n": "1375",
+      "codigo_socio": "ACO-03864",
+      "meta": "849.6"
+    },
+    {
+      "n": "1376",
+      "codigo_socio": "ACO-01324",
+      "meta": "676.8"
+    },
+    {
+      "n": "1377",
+      "codigo_socio": "ACO-01824",
+      "meta": "2196.6"
+    },
+    {
+      "n": "1378",
+      "codigo_socio": "ACO-03822",
+      "meta": "1186.8"
+    },
+    {
+      "n": "1379",
+      "codigo_socio": "ACO-02652",
+      "meta": "2935.8"
+    },
+    {
+      "n": "1380",
+      "codigo_socio": "ACO-03964",
+      "meta": "450"
+    },
+    {
+      "n": "1381",
+      "codigo_socio": "ACO-03901",
+      "meta": "482.4"
+    },
+    {
+      "n": "1382",
+      "codigo_socio": "ACO-03696",
+      "meta": "1612.8"
+    },
+    {
+      "n": "1383",
+      "codigo_socio": "ACO-03282",
+      "meta": "1058.4"
+    },
+    {
+      "n": "1384",
+      "codigo_socio": "ACO-03845",
+      "meta": "1239"
+    },
+    {
+      "n": "1385",
+      "codigo_socio": "ACO-01886",
+      "meta": "1087.8"
+    },
+    {
+      "n": "1386",
+      "codigo_socio": "ACO-03882",
+      "meta": "1344"
+    },
+    {
+      "n": "1387",
+      "codigo_socio": "ACO-03290",
+      "meta": "2321.4"
+    },
+    {
+      "n": "1388",
+      "codigo_socio": "ACO-03416",
+      "meta": "1077.6"
+    },
+    {
+      "n": "1389",
+      "codigo_socio": "ACO-03924",
+      "meta": "1833"
+    },
+    {
+      "n": "1390",
+      "codigo_socio": "ACO-02261",
+      "meta": "148.2"
+    },
+    {
+      "n": "1391",
+      "codigo_socio": "ACO-01922",
+      "meta": "856.8"
+    },
+    {
+      "n": "1392",
+      "codigo_socio": "ACO-03966",
+      "meta": "160.2"
+    },
+    {
+      "n": "1393",
+      "codigo_socio": "ACO-03897",
+      "meta": "1683.6"
+    },
+    {
+      "n": "1394",
+      "codigo_socio": "ACO-03823",
+      "meta": "1915.2"
+    },
+    {
+      "n": "1395",
+      "codigo_socio": "ACO-02323",
+      "meta": "38.4"
+    },
+    {
+      "n": "1396",
+      "codigo_socio": "ACO-03489",
+      "meta": "1226.4"
+    },
+    {
+      "n": "1397",
+      "codigo_socio": "ACO-03899",
+      "meta": "294.6"
+    },
+    {
+      "n": "1398",
+      "codigo_socio": "ACO-03834",
+      "meta": "294"
+    },
+    {
+      "n": "1399",
+      "codigo_socio": "ACO-03980",
+      "meta": "894.6"
+    },
+    {
+      "n": "1400",
+      "codigo_socio": "ACO-03898",
+      "meta": "357.6"
+    },
+    {
+      "n": "1401",
+      "codigo_socio": "ACO-03963",
+      "meta": "316.2"
+    },
+    {
+      "n": "1402",
+      "codigo_socio": "ACO-01219",
+      "meta": "1833.6"
+    },
+    {
+      "n": "1403",
+      "codigo_socio": "ACO-03108",
+      "meta": "628.8"
+    },
+    {
+      "n": "1404",
+      "codigo_socio": "ACO-02260",
+      "meta": "529.2"
+    },
+    {
+      "n": "1405",
+      "codigo_socio": "ACO-00787",
+      "meta": "252.6"
+    },
+    {
+      "n": "1406",
+      "codigo_socio": "ACO-03384",
+      "meta": "378.6"
+    },
+    {
+      "n": "1407",
+      "codigo_socio": "ACO-03225",
+      "meta": "2509.8"
+    },
+    {
+      "n": "1408",
+      "codigo_socio": "ACO-01502",
+      "meta": "367.8"
+    },
+    {
+      "n": "1409",
+      "codigo_socio": "ACO-01276",
+      "meta": "223.8"
+    },
+    {
+      "n": "1410",
+      "codigo_socio": "ACO-01427",
+      "meta": "1021.8"
+    },
+    {
+      "n": "1411",
+      "codigo_socio": "ACO-01430",
+      "meta": "574.2"
+    },
+    {
+      "n": "1412",
+      "codigo_socio": "ACO-03660",
+      "meta": "4609.8"
+    },
+    {
+      "n": "1413",
+      "codigo_socio": "ACO-03117",
+      "meta": "1162.2"
+    },
+    {
+      "n": "1414",
+      "codigo_socio": "ACO-01085",
+      "meta": "5298.6"
+    },
+    {
+      "n": "1415",
+      "codigo_socio": "ACO-03556",
+      "meta": "1105.2"
+    },
+    {
+      "n": "1416",
+      "codigo_socio": "ACO-01964",
+      "meta": "1802.4"
+    },
+    {
+      "n": "1417",
+      "codigo_socio": "ACO-02312",
+      "meta": "777"
+    },
+    {
+      "n": "1418",
+      "codigo_socio": "ACO-03855",
+      "meta": "1486.8"
+    },
+    {
+      "n": "1419",
+      "codigo_socio": "ACO-01887",
+      "meta": "2697.6"
+    },
+    {
+      "n": "1420",
+      "codigo_socio": "ACO-03017",
+      "meta": "516"
+    },
+    {
+      "n": "1421",
+      "codigo_socio": "ACO-01086",
+      "meta": "743.4"
+    },
+    {
+      "n": "1422",
+      "codigo_socio": "ACO-02978",
+      "meta": "751.8"
+    },
+    {
+      "n": "1423",
+      "codigo_socio": "ACO-03737",
+      "meta": "1243.2"
+    },
+    {
+      "n": "1424",
+      "codigo_socio": "ACO-03382",
+      "meta": "2772"
+    },
+    {
+      "n": "1425",
+      "codigo_socio": "ACO-03867",
+      "meta": "742.2"
+    },
+    {
+      "n": "1426",
+      "codigo_socio": "ACO-03460",
+      "meta": "362.4"
+    },
+    {
+      "n": "1427",
+      "codigo_socio": "ACO-03417",
+      "meta": "548.4"
+    },
+    {
+      "n": "1428",
+      "codigo_socio": "ACO-01132",
+      "meta": "991.2"
+    },
+    {
+      "n": "1429",
+      "codigo_socio": "ACO-03773",
+      "meta": "1224.6"
+    },
+    {
+      "n": "1430",
+      "codigo_socio": "ACO-03528",
+      "meta": "1035.6"
+    },
+    {
+      "n": "1431",
+      "codigo_socio": "ACO-03866",
+      "meta": "1224"
+    },
+    {
+      "n": "1432",
+      "codigo_socio": "ACO-03526",
+      "meta": "4421.4"
+    },
+    {
+      "n": "1433",
+      "codigo_socio": "ACO-03330",
+      "meta": "300"
+    },
+    {
+      "n": "1434",
+      "codigo_socio": "ACO-00556",
+      "meta": "3486"
+    },
+    {
+      "n": "1435",
+      "codigo_socio": "ACO-01510",
+      "meta": "282.6"
+    },
+    {
+      "n": "1436",
+      "codigo_socio": "ACO-01513",
+      "meta": "1353.6"
+    },
+    {
+      "n": "1437",
+      "codigo_socio": "ACO-00959",
+      "meta": "1597.8"
+    },
+    {
+      "n": "1438",
+      "codigo_socio": "ACO-01600",
+      "meta": "1126.2"
+    },
+    {
+      "n": "1439",
+      "codigo_socio": "ACO-01557",
+      "meta": "636.6"
+    },
+    {
+      "n": "1440",
+      "codigo_socio": "ACO-03484",
+      "meta": "431.4"
+    },
+    {
+      "n": "1441",
+      "codigo_socio": "ACO-00480",
+      "meta": "1486.8"
+    },
+    {
+      "n": "1442",
+      "codigo_socio": "ACO-03143",
+      "meta": "446.4"
+    },
+    {
+      "n": "1443",
+      "codigo_socio": "ACO-03144",
+      "meta": "604.2"
+    },
+    {
+      "n": "1444",
+      "codigo_socio": "ACO-01201",
+      "meta": "1167.6"
+    },
+    {
+      "n": "1445",
+      "codigo_socio": "ACO-02673",
+      "meta": "556.2"
+    },
+    {
+      "n": "1446",
+      "codigo_socio": "ACO-02802",
+      "meta": "281.4"
+    },
+    {
+      "n": "1447",
+      "codigo_socio": "ACO-03380",
+      "meta": "270"
+    },
+    {
+      "n": "1448",
+      "codigo_socio": "ACO-03142",
+      "meta": "300"
+    },
+    {
+      "n": "1449",
+      "codigo_socio": "ACO-02435",
+      "meta": "961.2"
+    },
+    {
+      "n": "1450",
+      "codigo_socio": "ACO-00535",
+      "meta": "1974"
+    },
+    {
+      "n": "1451",
+      "codigo_socio": "ACO-01694",
+      "meta": "2283.6"
+    },
+    {
+      "n": "1452",
+      "codigo_socio": "ACO-02108",
+      "meta": "3649.2"
+    },
+    {
+      "n": "1453",
+      "codigo_socio": "ACO-01104",
+      "meta": "631.2"
+    },
+    {
+      "n": "1454",
+      "codigo_socio": "ACO-00650",
+      "meta": "2610.6"
+    },
+    {
+      "n": "1455",
+      "codigo_socio": "ACO-00639",
+      "meta": "2456.4"
+    },
+    {
+      "n": "1456",
+      "codigo_socio": "ACO-01549",
+      "meta": "69.6"
+    },
+    {
+      "n": "1457",
+      "codigo_socio": "ACO-01180",
+      "meta": "1356.6"
+    },
+    {
+      "n": "1458",
+      "codigo_socio": "ACO-01873",
+      "meta": "2860.8"
+    },
+    {
+      "n": "1459",
+      "codigo_socio": "ACO-02434",
+      "meta": "1072.8"
+    },
+    {
+      "n": "1460",
+      "codigo_socio": "ACO-03831",
+      "meta": "396"
+    },
+    {
+      "n": "1461",
+      "codigo_socio": "ACO-03365",
+      "meta": "828.6"
+    },
+    {
+      "n": "1462",
+      "codigo_socio": "ACO-01056",
+      "meta": "1290.6"
+    },
+    {
+      "n": "1463",
+      "codigo_socio": "ACO-03286",
+      "meta": "675"
+    },
+    {
+      "n": "1464",
+      "codigo_socio": "ACO-03285",
+      "meta": "625.2"
+    },
+    {
+      "n": "1465",
+      "codigo_socio": "ACO-02657",
+      "meta": "421.2"
+    },
+    {
+      "n": "1466",
+      "codigo_socio": "ACO-03366",
+      "meta": "1260"
+    },
+    {
+      "n": "1467",
+      "codigo_socio": "ACO-01695",
+      "meta": "1037.4"
+    },
+    {
+      "n": "1468",
+      "codigo_socio": "ACO-01220",
+      "meta": "2146.8"
+    },
+    {
+      "n": "1469",
+      "codigo_socio": "ACO-02654",
+      "meta": "1041"
+    },
+    {
+      "n": "1470",
+      "codigo_socio": "ACO-01200",
+      "meta": "1468.8"
+    },
+    {
+      "n": "1471",
+      "codigo_socio": "ACO-01177",
+      "meta": "2009.4"
+    },
+    {
+      "n": "1472",
+      "codigo_socio": "ACO-02575",
+      "meta": "2640.6"
+    },
+    {
+      "n": "1473",
+      "codigo_socio": "ACO-03188",
+      "meta": "487.2"
+    },
+    {
+      "n": "1474",
+      "codigo_socio": "ACO-03190",
+      "meta": "435"
+    },
+    {
+      "n": "1475",
+      "codigo_socio": "ACO-03801",
+      "meta": "1849.2"
+    },
+    {
+      "n": "1476",
+      "codigo_socio": "ACO-03189",
+      "meta": "1410"
+    },
+    {
+      "n": "1477",
+      "codigo_socio": "ACO-02943",
+      "meta": "1644"
+    },
+    {
+      "n": "1478",
+      "codigo_socio": "ACO-00342",
+      "meta": "22365.6"
+    },
+    {
+      "n": "1479",
+      "codigo_socio": "ACO-02656",
+      "meta": "610.2"
+    },
+    {
+      "n": "1480",
+      "codigo_socio": "ACO-01293",
+      "meta": "1182"
+    },
+    {
+      "n": "1481",
+      "codigo_socio": "ACO-03902",
+      "meta": "643.2"
+    },
+    {
+      "n": "1482",
+      "codigo_socio": "ACO-03620",
+      "meta": "681"
+    },
+    {
+      "n": "1483",
+      "codigo_socio": "ACO-03769",
+      "meta": "814.2"
+    },
+    {
+      "n": "1484",
+      "codigo_socio": "ACO-02548",
+      "meta": "1489.2"
+    },
+    {
+      "n": "1485",
+      "codigo_socio": "ACO-02453",
+      "meta": "1510.2"
+    },
+    {
+      "n": "1486",
+      "codigo_socio": "ACO-02310",
+      "meta": "1119"
+    },
+    {
+      "n": "1487",
+      "codigo_socio": "ACO-03758",
+      "meta": "378.6"
+    },
+    {
+      "n": "1488",
+      "codigo_socio": "ACO-02311",
+      "meta": "1039.8"
+    },
+    {
+      "n": "1489",
+      "codigo_socio": "ACO-03128",
+      "meta": "5781.6"
+    },
+    {
+      "n": "1490",
+      "codigo_socio": "ACO-03600",
+      "meta": "2208"
+    },
+    {
+      "n": "1491",
+      "codigo_socio": "ACO-03126",
+      "meta": "1747.2"
+    },
+    {
+      "n": "1492",
+      "codigo_socio": "ACO-03019",
+      "meta": "2049.6"
+    },
+    {
+      "n": "1493",
+      "codigo_socio": "ACO-02309",
+      "meta": "4003.8"
+    },
+    {
+      "n": "1494",
+      "codigo_socio": "ACO-02557",
+      "meta": "3729"
+    },
+    {
+      "n": "1495",
+      "codigo_socio": "ACO-02256",
+      "meta": "4193.4"
+    },
+    {
+      "n": "1496",
+      "codigo_socio": "ACO-02793",
+      "meta": "4878"
+    },
+    {
+      "n": "1497",
+      "codigo_socio": "ACO-02525",
+      "meta": "540"
+    },
+    {
+      "n": "1498",
+      "codigo_socio": "ACO-01577",
+      "meta": "7207.2"
+    },
+    {
+      "n": "1499",
+      "codigo_socio": "ACO-02030",
+      "meta": "4203"
+    },
+    {
+      "n": "1500",
+      "codigo_socio": "ACO-00229",
+      "meta": "2958.6"
+    },
+    {
+      "n": "1501",
+      "codigo_socio": "ACO-01753",
+      "meta": "325.2"
+    },
+    {
+      "n": "1502",
+      "codigo_socio": "ACO-02721",
+      "meta": "1277.4"
+    },
+    {
+      "n": "1503",
+      "codigo_socio": "ACO-02162",
+      "meta": "811.2"
+    },
+    {
+      "n": "1504",
+      "codigo_socio": "ACO-01031",
+      "meta": "469.2"
+    },
+    {
+      "n": "1505",
+      "codigo_socio": "ACO-01127",
+      "meta": "989.4"
+    },
+    {
+      "n": "1506",
+      "codigo_socio": "ACO-00350",
+      "meta": "2311.2"
+    },
+    {
+      "n": "1507",
+      "codigo_socio": "ACO-01812",
+      "meta": "1398.6"
+    },
+    {
+      "n": "1508",
+      "codigo_socio": "ACO-00028",
+      "meta": "2236.2"
+    },
+    {
+      "n": "1509",
+      "codigo_socio": "ACO-02507",
+      "meta": "2179.2"
+    },
+    {
+      "n": "1510",
+      "codigo_socio": "ACO-02527",
+      "meta": "986.4"
+    },
+    {
+      "n": "1511",
+      "codigo_socio": "ACO-00477",
+      "meta": "221.4"
+    },
+    {
+      "n": "1512",
+      "codigo_socio": "ACO-00585",
+      "meta": "1640.4"
+    },
+    {
+      "n": "1513",
+      "codigo_socio": "ACO-00857",
+      "meta": "2262.6"
+    },
+    {
+      "n": "1514",
+      "codigo_socio": "ACO-00544",
+      "meta": "3387.6"
+    },
+    {
+      "n": "1515",
+      "codigo_socio": "ACO-02720",
+      "meta": "4080"
+    },
+    {
+      "n": "1516",
+      "codigo_socio": "ACO-03821",
+      "meta": "2285.4"
+    },
+    {
+      "n": "1517",
+      "codigo_socio": "ACO-01339",
+      "meta": "13789.2"
+    },
+    {
+      "n": "1518",
+      "codigo_socio": "ACO-03105",
+      "meta": "2883"
+    },
+    {
+      "n": "1519",
+      "codigo_socio": "ACO-02370",
+      "meta": "6276.6"
+    },
+    {
+      "n": "1520",
+      "codigo_socio": "ACO-03906",
+      "meta": "2818.8"
+    },
+    {
+      "n": "1521",
+      "codigo_socio": "ACO-02528",
+      "meta": "2223.6"
+    },
+    {
+      "n": "1522",
+      "codigo_socio": "ACO-01761",
+      "meta": "222.6"
+    },
+    {
+      "n": "1523",
+      "codigo_socio": "ACO-02034",
+      "meta": "517.8"
+    },
+    {
+      "n": "1524",
+      "codigo_socio": "ACO-01721",
+      "meta": "2940"
+    },
+    {
+      "n": "1525",
+      "codigo_socio": "ACO-01768",
+      "meta": "182.4"
+    },
+    {
+      "n": "1526",
+      "codigo_socio": "ACO-03777",
+      "meta": "194.4"
+    },
+    {
+      "n": "1527",
+      "codigo_socio": "ACO-03114",
+      "meta": "272.4"
+    },
+    {
+      "n": "1528",
+      "codigo_socio": "ACO-03383",
+      "meta": "1538.4"
+    },
+    {
+      "n": "1529",
+      "codigo_socio": "ACO-01762",
+      "meta": "121.2"
+    },
+    {
+      "n": "1530",
+      "codigo_socio": "ACO-03226",
+      "meta": "1368"
+    },
+    {
+      "n": "1531",
+      "codigo_socio": "ACO-03768",
+      "meta": "2928"
+    },
+    {
+      "n": "1532",
+      "codigo_socio": "ACO-02651",
+      "meta": "360"
+    },
+    {
+      "n": "1533",
+      "codigo_socio": "ACO-01945",
+      "meta": "183.6"
+    },
+    {
+      "n": "1534",
+      "codigo_socio": "ACO-01769",
+      "meta": "361.2"
+    },
+    {
+      "n": "1535",
+      "codigo_socio": "ACO-03865",
+      "meta": "761.4"
+    },
+    {
+      "n": "1536",
+      "codigo_socio": "ACO-01384",
+      "meta": "4804.2"
+    },
+    {
+      "n": "1537",
+      "codigo_socio": "ACO-03488",
+      "meta": "1251.6"
+    },
+    {
+      "n": "1538",
+      "codigo_socio": "ACO-03495",
+      "meta": "3948.6"
+    },
+    {
+      "n": "1539",
+      "codigo_socio": "ACO-03496",
+      "meta": "835.8"
+    },
+    {
+      "n": "1540",
+      "codigo_socio": "ACO-00517",
+      "meta": "1604.4"
+    },
+    {
+      "n": "1541",
+      "codigo_socio": "ACO-00653",
+      "meta": "961.8"
+    },
+    {
+      "n": "1542",
+      "codigo_socio": "ACO-01084",
+      "meta": "554.4"
+    },
+    {
+      "n": "1543",
+      "codigo_socio": "ACO-01933",
+      "meta": "610.8"
+    },
+    {
+      "n": "1544",
+      "codigo_socio": "ACO-03248",
+      "meta": "843"
+    },
+    {
+      "n": "1545",
+      "codigo_socio": "ACO-01399",
+      "meta": "496.8"
+    },
+    {
+      "n": "1546",
+      "codigo_socio": "ACO-01904",
+      "meta": "356.4"
+    },
+    {
+      "n": "1547",
+      "codigo_socio": "ACO-03116",
+      "meta": "514.8"
+    },
+    {
+      "n": "1548",
+      "codigo_socio": "ACO-03523",
+      "meta": "1738.8"
+    },
+    {
+      "n": "1549",
+      "codigo_socio": "ACO-01931",
+      "meta": "764.4"
+    },
+    {
+      "n": "1550",
+      "codigo_socio": "ACO-01336",
+      "meta": "466.2"
+    },
+    {
+      "n": "1551",
+      "codigo_socio": "ACO-03120",
+      "meta": "12790.8"
+    },
+    {
+      "n": "1552",
+      "codigo_socio": "ACO-02399",
+      "meta": "417.6"
+    },
+    {
+      "n": "1553",
+      "codigo_socio": "ACO-01740",
+      "meta": "99"
+    },
+    {
+      "n": "1554",
+      "codigo_socio": "ACO-01674",
+      "meta": "9314.4"
+    },
+    {
+      "n": "1555",
+      "codigo_socio": "ACO-03397",
+      "meta": "0"
+    },
+    {
+      "n": "1556",
+      "codigo_socio": "ACO-03306",
+      "meta": "840"
+    },
+    {
+      "n": "1557",
+      "codigo_socio": "ACO-03395",
+      "meta": "912"
+    },
+    {
+      "n": "1558",
+      "codigo_socio": "ACO-01379",
+      "meta": "235.2"
+    },
+    {
+      "n": "1559",
+      "codigo_socio": "ACO-02967",
+      "meta": "758.4"
+    },
+    {
+      "n": "1560",
+      "codigo_socio": "ACO-03127",
+      "meta": "2557.2"
+    },
+    {
+      "n": "1561",
+      "codigo_socio": "ACO-03759",
+      "meta": "994.8"
+    },
+    {
+      "n": "1562",
+      "codigo_socio": "ACO-01565",
+      "meta": "970.8"
+    },
+    {
+      "n": "1563",
+      "codigo_socio": "ACO-02029",
+      "meta": "1005.6"
+    },
+    {
+      "n": "1564",
+      "codigo_socio": "ACO-03546",
+      "meta": "3573.6"
+    },
+    {
+      "n": "1565",
+      "codigo_socio": "ACO-03396",
+      "meta": "816"
+    },
+    {
+      "n": "1566",
+      "codigo_socio": "ACO-03536",
+      "meta": "418.8"
+    },
+    {
+      "n": "1567",
+      "codigo_socio": "ACO-03257",
+      "meta": "448.8"
+    },
+    {
+      "n": "1568",
+      "codigo_socio": "ACO-02965",
+      "meta": "22206"
+    },
+    {
+      "n": "1569",
+      "codigo_socio": "ACO-03480",
+      "meta": "1486.8"
+    },
+    {
+      "n": "1570",
+      "codigo_socio": "ACO-03398",
+      "meta": "856.8"
+    },
+    {
+      "n": "1571",
+      "codigo_socio": "ACO-02970",
+      "meta": "3032.4"
+    },
+    {
+      "n": "1572",
+      "codigo_socio": "ACO-02969",
+      "meta": "0"
+    },
+    {
+      "n": "1573",
+      "codigo_socio": "ACO-03535",
+      "meta": "1970.4"
+    },
+    {
+      "n": "1574",
+      "codigo_socio": "ACO-03894",
+      "meta": "1868.4"
+    },
+    {
+      "n": "1575",
+      "codigo_socio": "ACO-03311",
+      "meta": "252"
+    },
+    {
+      "n": "1576",
+      "codigo_socio": "ACO-03310",
+      "meta": "317.4"
+    },
+    {
+      "n": "1577",
+      "codigo_socio": "ACO-03896",
+      "meta": "235.2"
+    },
+    {
+      "n": "1578",
+      "codigo_socio": "ACO-03312",
+      "meta": "957.6"
+    },
+    {
+      "n": "1579",
+      "codigo_socio": "ACO-02962",
+      "meta": "1034.4"
+    },
+    {
+      "n": "1580",
+      "codigo_socio": "ACO-03307",
+      "meta": "1327.2"
+    },
+    {
+      "n": "1581",
+      "codigo_socio": "ACO-03602",
+      "meta": "957.6"
+    },
+    {
+      "n": "1582",
+      "codigo_socio": "ACO-03915",
+      "meta": "522"
+    },
+    {
+      "n": "1583",
+      "codigo_socio": "ACO-03534",
+      "meta": "2612.4"
+    },
+    {
+      "n": "1584",
+      "codigo_socio": "ACO-03309",
+      "meta": "1142.4"
+    },
+    {
+      "n": "1585",
+      "codigo_socio": "ACO-03863",
+      "meta": "1386"
+    },
+    {
+      "n": "1586",
+      "codigo_socio": "ACO-02971",
+      "meta": "970.8"
+    },
+    {
+      "n": "1587",
+      "codigo_socio": "ACO-03544",
+      "meta": "3435.6"
+    },
+    {
+      "n": "1588",
+      "codigo_socio": "ACO-03940",
+      "meta": "1272"
+    },
+    {
+      "n": "1589",
+      "codigo_socio": "ACO-01151",
+      "meta": "3229.2"
+    },
+    {
+      "n": "1590",
+      "codigo_socio": "ACO-03542",
+      "meta": "178.8"
+    },
+    {
+      "n": "1591",
+      "codigo_socio": "ACO-03539",
+      "meta": "5200.8"
+    },
+    {
+      "n": "1592",
+      "codigo_socio": "ACO-03989",
+      "meta": "550"
+    },
+    {
+      "n": "1593",
+      "codigo_socio": "ACO-03303",
+      "meta": "1182"
+    },
+    {
+      "n": "1594",
+      "codigo_socio": "ACO-03545",
+      "meta": "663.6"
+    },
+    {
+      "n": "1595",
+      "codigo_socio": "ACO-01757",
+      "meta": "1644"
+    },
+    {
+      "n": "1596",
+      "codigo_socio": "ACO-03239",
+      "meta": "1616.4"
+    },
+    {
+      "n": "1597",
+      "codigo_socio": "ACO-02675",
+      "meta": "16.8"
+    },
+    {
+      "n": "1598",
+      "codigo_socio": "ACO-02672",
+      "meta": "163.2"
+    },
+    {
+      "n": "1599",
+      "codigo_socio": "ACO-03293",
+      "meta": "296.4"
+    },
+    {
+      "n": "1600",
+      "codigo_socio": "ACO-03169",
+      "meta": "1060.8"
+    },
+    {
+      "n": "1601",
+      "codigo_socio": "ACO-00661",
+      "meta": "2579.4"
+    },
+    {
+      "n": "1602",
+      "codigo_socio": "ACO-03329",
+      "meta": "3277.2"
+    },
+    {
+      "n": "1603",
+      "codigo_socio": "ACO-01027",
+      "meta": "0"
+    },
+    {
+      "n": "1604",
+      "codigo_socio": "ACO-03934",
+      "meta": "370"
+    },
+    {
+      "n": "1605",
+      "codigo_socio": "ACO-03289",
+      "meta": "0"
+    },
+    {
+      "n": "1606",
+      "codigo_socio": "ACO-03933",
+      "meta": "567"
+    },
+    {
+      "n": "1607",
+      "codigo_socio": "ACO-01664",
+      "meta": "952.8"
+    },
+    {
+      "n": "1608",
+      "codigo_socio": "ACO-03931",
+      "meta": "280"
+    },
+    {
+      "n": "1609",
+      "codigo_socio": "ACO-03364",
+      "meta": "1100.4"
+    },
+    {
+      "n": "1610",
+      "codigo_socio": "ACO-01335",
+      "meta": "10552.8"
+    },
+    {
+      "n": "1611",
+      "codigo_socio": "ACO-03483",
+      "meta": "447.6"
+    },
+    {
+      "n": "1612",
+      "codigo_socio": "ACO-03930",
+      "meta": "663.6"
+    },
+    {
+      "n": "1613",
+      "codigo_socio": "ACO-03971",
+      "meta": "260.4"
+    },
+    {
+      "n": "1614",
+      "codigo_socio": "ACO-03843",
+      "meta": "559.2"
+    },
+    {
+      "n": "1615",
+      "codigo_socio": "ACO-03932",
+      "meta": "250"
+    },
+    {
+      "n": "1616",
+      "codigo_socio": "ACO-02920",
+      "meta": "2950.2"
+    },
+    {
+      "n": "1617",
+      "codigo_socio": "ACO-02979",
+      "meta": "1912.2"
+    },
+    {
+      "n": "1618",
+      "codigo_socio": "ACO-02980",
+      "meta": "504.6"
+    },
+    {
+      "n": "1619",
+      "codigo_socio": "ACO-03967",
+      "meta": "117.6"
+    },
+    {
+      "n": "1620",
+      "codigo_socio": "ACO-03832",
+      "meta": "1042.8"
+    },
+    {
+      "n": "1621",
+      "codigo_socio": "ACO-03928",
+      "meta": "270"
+    },
+    {
+      "n": "1622",
+      "codigo_socio": "ACO-00302",
+      "meta": "1475.4"
+    },
+    {
+      "n": "1623",
+      "codigo_socio": "ACO-00292",
+      "meta": "829.2"
+    },
+    {
+      "n": "1624",
+      "codigo_socio": "ACO-03154",
+      "meta": "364.8"
+    },
+    {
+      "n": "1625",
+      "codigo_socio": "ACO-02890",
+      "meta": "250.8"
+    },
+    {
+      "n": "1626",
+      "codigo_socio": "ACO-01524",
+      "meta": "535.2"
+    },
+    {
+      "n": "1627",
+      "codigo_socio": "ACO-03372",
+      "meta": "1271.4"
+    },
+    {
+      "n": "1628",
+      "codigo_socio": "ACO-00672",
+      "meta": "1235.4"
+    },
+    {
+      "n": "1629",
+      "codigo_socio": "ACO-02584",
+      "meta": "373.2"
+    },
+    {
+      "n": "1630",
+      "codigo_socio": "ACO-03872",
+      "meta": "599.4"
+    },
+    {
+      "n": "1631",
+      "codigo_socio": "ACO-03873",
+      "meta": "2831.4"
+    },
+    {
+      "n": "1632",
+      "codigo_socio": "ACO-03820",
+      "meta": "1498.8"
+    },
+    {
+      "n": "1633",
+      "codigo_socio": "ACO-03429",
+      "meta": "2790.6"
+    },
+    {
+      "n": "1634",
+      "codigo_socio": "ACO-03191",
+      "meta": "4501.8"
+    },
+    {
+      "n": "1635",
+      "codigo_socio": "ACO-02889",
+      "meta": "6595.2"
+    },
+    {
+      "n": "1636",
+      "codigo_socio": "ACO-01483",
+      "meta": "2719.8"
+    },
+    {
+      "n": "1637",
+      "codigo_socio": "ACO-03373",
+      "meta": "394.8"
+    },
+    {
+      "n": "1638",
+      "codigo_socio": "ACO-03153",
+      "meta": "348.6"
+    },
+    {
+      "n": "1639",
+      "codigo_socio": "ACO-01538",
+      "meta": "222.6"
+    },
+    {
+      "n": "1640",
+      "codigo_socio": "ACO-01957",
+      "meta": "193.2"
+    },
+    {
+      "n": "1641",
+      "codigo_socio": "ACO-02583",
+      "meta": "601.8"
+    },
+    {
+      "n": "1642",
+      "codigo_socio": "ACO-03819",
+      "meta": "2258.4"
+    },
+    {
+      "n": "1643",
+      "codigo_socio": "ACO-03194",
+      "meta": "3037.2"
+    },
+    {
+      "n": "1644",
+      "codigo_socio": "ACO-02404",
+      "meta": "2718"
+    },
+    {
+      "n": "1645",
+      "codigo_socio": "ACO-01989",
+      "meta": "376.8"
+    },
+    {
+      "n": "1646",
+      "codigo_socio": "ACO-02758",
+      "meta": "1856.4"
+    },
+    {
+      "n": "1647",
+      "codigo_socio": "ACO-02191",
+      "meta": "718.8"
+    },
+    {
+      "n": "1648",
+      "codigo_socio": "ACO-00875",
+      "meta": "105.6"
+    },
+    {
+      "n": "1649",
+      "codigo_socio": "ACO-00430",
+      "meta": "180"
+    },
+    {
+      "n": "1650",
+      "codigo_socio": "ACO-02052",
+      "meta": "290"
+    },
+    {
+      "n": "1651",
+      "codigo_socio": "ACO-00238",
+      "meta": "1189.8"
+    },
+    {
+      "n": "1652",
+      "codigo_socio": "ACO-00428",
+      "meta": "265.8"
+    },
+    {
+      "n": "1653",
+      "codigo_socio": "ACO-00643",
+      "meta": "2982"
+    },
+    {
+      "n": "1654",
+      "codigo_socio": "ACO-01636",
+      "meta": "467.4"
+    },
+    {
+      "n": "1655",
+      "codigo_socio": "ACO-03192",
+      "meta": "8022"
+    },
+    {
+      "n": "1656",
+      "codigo_socio": "ACO-02823",
+      "meta": "346.8"
+    },
+    {
+      "n": "1657",
+      "codigo_socio": "ACO-01597",
+      "meta": "136.8"
+    },
+    {
+      "n": "1658",
+      "codigo_socio": "ACO-00426",
+      "meta": "134.4"
+    },
+    {
+      "n": "1659",
+      "codigo_socio": "ACO-03569",
+      "meta": "431.4"
+    },
+    {
+      "n": "1660",
+      "codigo_socio": "ACO-00843",
+      "meta": "938.4"
+    },
+    {
+      "n": "1661",
+      "codigo_socio": "ACO-03193",
+      "meta": "2169"
+    },
+    {
+      "n": "1662",
+      "codigo_socio": "ACO-00855",
+      "meta": "3145.8"
+    },
+    {
+      "n": "1663",
+      "codigo_socio": "ACO-00859",
+      "meta": "0"
+    },
+    {
+      "n": "1664",
+      "codigo_socio": "ACO-02855",
+      "meta": "0"
+    },
+    {
+      "n": "1665",
+      "codigo_socio": "ACO-02799",
+      "meta": "114.6"
+    },
+    {
+      "n": "1666",
+      "codigo_socio": "ACO-02190",
+      "meta": "183"
+    },
+    {
+      "n": "1667",
+      "codigo_socio": "ACO-00842",
+      "meta": "8138.4"
+    },
+    {
+      "n": "1668",
+      "codigo_socio": "ACO-02218",
+      "meta": "1540.2"
+    },
+    {
+      "n": "1669",
+      "codigo_socio": "ACO-00298",
+      "meta": "7479"
+    },
+    {
+      "n": "1670",
+      "codigo_socio": "ACO-00820",
+      "meta": "1843.8"
+    },
+    {
+      "n": "1671",
+      "codigo_socio": "ACO-03122",
+      "meta": "4247.4"
+    },
+    {
+      "n": "1672",
+      "codigo_socio": "ACO-03590",
+      "meta": "4008.6"
+    },
+    {
+      "n": "1673",
+      "codigo_socio": "ACO-03552",
+      "meta": "2824.8"
+    },
+    {
+      "n": "1674",
+      "codigo_socio": "ACO-01681",
+      "meta": "691.2"
+    },
+    {
+      "n": "1675",
+      "codigo_socio": "ACO-01682",
+      "meta": "760.2"
+    },
+    {
+      "n": "1676",
+      "codigo_socio": "ACO-00329",
+      "meta": "155.4"
+    },
+    {
+      "n": "1677",
+      "codigo_socio": "ACO-01688",
+      "meta": "3481.8"
+    },
+    {
+      "n": "1678",
+      "codigo_socio": "ACO-03680",
+      "meta": "2556"
+    },
+    {
+      "n": "1679",
+      "codigo_socio": "ACO-03254",
+      "meta": "3540"
+    },
+    {
+      "n": "1680",
+      "codigo_socio": "ACO-03124",
+      "meta": "3007.2"
+    },
+    {
+      "n": "1681",
+      "codigo_socio": "ACO-01706",
+      "meta": "2259"
+    },
+    {
+      "n": "1682",
+      "codigo_socio": "ACO-03502",
+      "meta": "734.4"
+    },
+    {
+      "n": "1683",
+      "codigo_socio": "ACO-01165",
+      "meta": "1515"
+    },
+    {
+      "n": "1684",
+      "codigo_socio": "ACO-01699",
+      "meta": "424.8"
+    },
+    {
+      "n": "1685",
+      "codigo_socio": "ACO-03903",
+      "meta": "1251.6"
+    },
+    {
+      "n": "1686",
+      "codigo_socio": "ACO-03591",
+      "meta": "1354.2"
+    },
+    {
+      "n": "1687",
+      "codigo_socio": "ACO-02229",
+      "meta": "3893.4"
+    },
+    {
+      "n": "1688",
+      "codigo_socio": "ACO-00834",
+      "meta": "3890.4"
+    },
+    {
+      "n": "1689",
+      "codigo_socio": "ACO-00599",
+      "meta": "13807.8"
+    },
+    {
+      "n": "1690",
+      "codigo_socio": "ACO-00522",
+      "meta": "1562.4"
+    },
+    {
+      "n": "1691",
+      "codigo_socio": "ACO-01698",
+      "meta": "5725.2"
+    },
+    {
+      "n": "1692",
+      "codigo_socio": "ACO-01661",
+      "meta": "4501.2"
+    },
+    {
+      "n": "1693",
+      "codigo_socio": "ACO-01697",
+      "meta": "2220"
+    },
+    {
+      "n": "1694",
+      "codigo_socio": "ACO-01663",
+      "meta": "1920"
+    },
+    {
+      "n": "1695",
+      "codigo_socio": "ACO-03838",
+      "meta": "4702.8"
+    },
+    {
+      "n": "1696",
+      "codigo_socio": "ACO-03589",
+      "meta": "1464"
+    },
+    {
+      "n": "1697",
+      "codigo_socio": "ACO-03152",
+      "meta": "3736.8"
+    },
+    {
+      "n": "1698",
+      "codigo_socio": "ACO-02347",
+      "meta": "2970"
+    },
+    {
+      "n": "1699",
+      "codigo_socio": "ACO-03771",
+      "meta": "7812"
+    },
+    {
+      "n": "1700",
+      "codigo_socio": "ACO-03754",
+      "meta": "2396.4"
+    },
+    {
+      "n": "1701",
+      "codigo_socio": "ACO-03267",
+      "meta": "1119.6"
+    },
+    {
+      "n": "1702",
+      "codigo_socio": "ACO-03574",
+      "meta": "2790"
+    },
+    {
+      "n": "1703",
+      "codigo_socio": "ACO-03458",
+      "meta": "476.4"
+    },
+    {
+      "n": "1704",
+      "codigo_socio": "ACO-03438",
+      "meta": "1239.6"
+    },
+    {
+      "n": "1705",
+      "codigo_socio": "ACO-02833",
+      "meta": "2106"
+    },
+    {
+      "n": "1706",
+      "codigo_socio": "ACO-03549",
+      "meta": "2850"
+    },
+    {
+      "n": "1707",
+      "codigo_socio": "ACO-00486",
+      "meta": "3635.4"
+    },
+    {
+      "n": "1708",
+      "codigo_socio": "ACO-03509",
+      "meta": "1065"
+    },
+    {
+      "n": "1709",
+      "codigo_socio": "ACO-03510",
+      "meta": "1374.6"
+    },
+    {
+      "n": "1710",
+      "codigo_socio": "ACO-03568",
+      "meta": "1499.4"
+    },
+    {
+      "n": "1711",
+      "codigo_socio": "ACO-03956",
+      "meta": "342.6"
+    },
+    {
+      "n": "1712",
+      "codigo_socio": "ACO-03515",
+      "meta": "286.2"
+    },
+    {
+      "n": "1713",
+      "codigo_socio": "ACO-03555",
+      "meta": "150.6"
+    },
+    {
+      "n": "1714",
+      "codigo_socio": "ACO-03954",
+      "meta": "2241.6"
+    },
+    {
+      "n": "1715",
+      "codigo_socio": "ACO-03513",
+      "meta": "1884.6"
+    },
+    {
+      "n": "1716",
+      "codigo_socio": "ACO-03504",
+      "meta": "1503"
+    },
+    {
+      "n": "1717",
+      "codigo_socio": "ACO-03955",
+      "meta": "169.8"
+    },
+    {
+      "n": "1718",
+      "codigo_socio": "ACO-03503",
+      "meta": "836.4"
+    },
+    {
+      "n": "1719",
+      "codigo_socio": "ACO-03687",
+      "meta": "1290.6"
+    },
+    {
+      "n": "1720",
+      "codigo_socio": "ACO-01586",
+      "meta": "528"
+    },
+    {
+      "n": "1721",
+      "codigo_socio": "ACO-01605",
+      "meta": "806.4"
+    },
+    {
+      "n": "1722",
+      "codigo_socio": "ACO-02014",
+      "meta": "685.8"
+    },
+    {
+      "n": "1723",
+      "codigo_socio": "ACO-02788",
+      "meta": "997.8"
+    },
+    {
+      "n": "1724",
+      "codigo_socio": "ACO-03850",
+      "meta": "583.8"
+    },
+    {
+      "n": "1725",
+      "codigo_socio": "ACO-00018",
+      "meta": "2021.4"
+    },
+    {
+      "n": "1726",
+      "codigo_socio": "ACO-00204",
+      "meta": "728.4"
+    },
+    {
+      "n": "1727",
+      "codigo_socio": "ACO-00604",
+      "meta": "918"
+    },
+    {
+      "n": "1728",
+      "codigo_socio": "ACO-00109",
+      "meta": "433.2"
+    },
+    {
+      "n": "1729",
+      "codigo_socio": "ACO-00142",
+      "meta": "981.6"
+    },
+    {
+      "n": "1730",
+      "codigo_socio": "ACO-00949",
+      "meta": "281.4"
+    },
+    {
+      "n": "1731",
+      "codigo_socio": "ACO-00484",
+      "meta": "799.8"
+    },
+    {
+      "n": "1732",
+      "codigo_socio": "ACO-02789",
+      "meta": "333"
+    },
+    {
+      "n": "1733",
+      "codigo_socio": "ACO-00112",
+      "meta": "852.6"
+    },
+    {
+      "n": "1734",
+      "codigo_socio": "ACO-02038",
+      "meta": "989.4"
+    },
+    {
+      "n": "1735",
+      "codigo_socio": "ACO-03968",
+      "meta": "250.8"
+    },
+    {
+      "n": "1736",
+      "codigo_socio": "ACO-03913",
+      "meta": "303"
+    },
+    {
+      "n": "1737",
+      "codigo_socio": "ACO-03783",
+      "meta": "1234.2"
+    },
+    {
+      "n": "1738",
+      "codigo_socio": "ACO-03784",
+      "meta": "1603.2"
+    },
+    {
+      "n": "1739",
+      "codigo_socio": "ACO-00659",
+      "meta": "901.8"
+    },
+    {
+      "n": "1740",
+      "codigo_socio": "ACO-03836",
+      "meta": "339"
+    },
+    {
+      "n": "1741",
+      "codigo_socio": "ACO-00070",
+      "meta": "3494.4"
+    },
+    {
+      "n": "1742",
+      "codigo_socio": "ACO-00110",
+      "meta": "2199.6"
+    },
+    {
+      "n": "1743",
+      "codigo_socio": "ACO-00111",
+      "meta": "475.2"
+    },
+    {
+      "n": "1744",
+      "codigo_socio": "ACO-02728",
+      "meta": "694.8"
+    },
+    {
+      "n": "1745",
+      "codigo_socio": "ACO-02111",
+      "meta": "160.8"
+    },
+    {
+      "n": "1746",
+      "codigo_socio": "ACO-02492",
+      "meta": "270.6"
+    },
+    {
+      "n": "1747",
+      "codigo_socio": "ACO-03782",
+      "meta": "1818"
+    },
+    {
+      "n": "1748",
+      "codigo_socio": "ACO-00960",
+      "meta": "940.2"
+    },
+    {
+      "n": "1749",
+      "codigo_socio": "ACO-01203",
+      "meta": "1666.2"
+    },
+    {
+      "n": "1750",
+      "codigo_socio": "ACO-02765",
+      "meta": "580.2"
+    },
+    {
+      "n": "1751",
+      "codigo_socio": "ACO-00509",
+      "meta": "334.8"
+    },
+    {
+      "n": "1752",
+      "codigo_socio": "ACO-00510",
+      "meta": "1194"
+    },
+    {
+      "n": "1753",
+      "codigo_socio": "ACO-02766",
+      "meta": "253.2"
+    },
+    {
+      "n": "1754",
+      "codigo_socio": "ACO-02735",
+      "meta": "787.2"
+    },
+    {
+      "n": "1755",
+      "codigo_socio": "ACO-00507",
+      "meta": "219.6"
+    },
+    {
+      "n": "1756",
+      "codigo_socio": "ACO-01100",
+      "meta": "546"
+    },
+    {
+      "n": "1757",
+      "codigo_socio": "ACO-01575",
+      "meta": "708"
+    },
+    {
+      "n": "1758",
+      "codigo_socio": "ACO-02782",
+      "meta": "303"
+    },
+    {
+      "n": "1759",
+      "codigo_socio": "ACO-02114",
+      "meta": "1624.8"
+    },
+    {
+      "n": "1760",
+      "codigo_socio": "ACO-01914",
+      "meta": "7815"
+    },
+    {
+      "n": "1761",
+      "codigo_socio": "ACO-01195",
+      "meta": "160.8"
+    },
+    {
+      "n": "1762",
+      "codigo_socio": "ACO-03583",
+      "meta": "985.2"
+    },
+    {
+      "n": "1763",
+      "codigo_socio": "ACO-03786",
+      "meta": "243"
+    },
+    {
+      "n": "1764",
+      "codigo_socio": "ACO-01058",
+      "meta": "970.8"
+    },
+    {
+      "n": "1765",
+      "codigo_socio": "ACO-03743",
+      "meta": "934.8"
+    },
+    {
+      "n": "1766",
+      "codigo_socio": "ACO-03638",
+      "meta": "1639.8"
+    },
+    {
+      "n": "1767",
+      "codigo_socio": "ACO-03788",
+      "meta": "310.2"
+    },
+    {
+      "n": "1768",
+      "codigo_socio": "ACO-03260",
+      "meta": "505.2"
+    },
+    {
+      "n": "1769",
+      "codigo_socio": "ACO-03639",
+      "meta": "2503.2"
+    },
+    {
+      "n": "1770",
+      "codigo_socio": "ACO-03839",
+      "meta": "523.8"
+    },
+    {
+      "n": "1771",
+      "codigo_socio": "ACO-03912",
+      "meta": "509.4"
+    },
+    {
+      "n": "1772",
+      "codigo_socio": "ACO-01687",
+      "meta": "244.8"
+    },
+    {
+      "n": "1773",
+      "codigo_socio": "ACO-03207",
+      "meta": "1485.6"
+    },
+    {
+      "n": "1774",
+      "codigo_socio": "ACO-03200",
+      "meta": "717.6"
+    },
+    {
+      "n": "1775",
+      "codigo_socio": "ACO-03177",
+      "meta": "9703.2"
+    },
+    {
+      "n": "1776",
+      "codigo_socio": "ACO-01497",
+      "meta": "2090.4"
+    },
+    {
+      "n": "1777",
+      "codigo_socio": "ACO-03911",
+      "meta": "432"
+    },
+    {
+      "n": "1778",
+      "codigo_socio": "ACO-03566",
+      "meta": "1560.6"
+    },
+    {
+      "n": "1779",
+      "codigo_socio": "ACO-03799",
+      "meta": "192.6"
+    },
+    {
+      "n": "1780",
+      "codigo_socio": "ACO-01881",
+      "meta": "3552"
+    },
+    {
+      "n": "1781",
+      "codigo_socio": "ACO-03565",
+      "meta": "1581.6"
+    },
+    {
+      "n": "1782",
+      "codigo_socio": "ACO-00208",
+      "meta": "830.4"
+    },
+    {
+      "n": "1783",
+      "codigo_socio": "ACO-00091",
+      "meta": "658.8"
+    },
+    {
+      "n": "1784",
+      "codigo_socio": "ACO-00130",
+      "meta": "1734"
+    },
+    {
+      "n": "1785",
+      "codigo_socio": "ACO-00092",
+      "meta": "813.6"
+    },
+    {
+      "n": "1786",
+      "codigo_socio": "ACO-00089",
+      "meta": "437.4"
+    }
+  ]

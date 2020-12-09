@@ -1,0 +1,342 @@
+[
+    {
+        "n": "1",
+        "centro_acopio": "SAPOSOA",
+        "serie": "5"
+    },
+    {
+        "n": "2",
+        "centro_acopio": "SAN REGIS",
+        "serie": "5"
+    },
+    {
+        "n": "3",
+        "centro_acopio": "PISCOYACU",
+        "serie": "5"
+    },
+    {
+        "n": "4",
+        "centro_acopio": "AHUIHUA",
+        "serie": "5"
+    },
+    {
+        "n": "5",
+        "centro_acopio": "PASARRAYA",
+        "serie": "5"
+    },
+    {
+        "n": "6",
+        "centro_acopio": "TANGER",
+        "serie": "5"
+    },
+    {
+        "n": "7",
+        "centro_acopio": "NUEVA VIDA",
+        "serie": "5"
+    },
+    {
+        "n": "8",
+        "centro_acopio": "YACUSISA",
+        "serie": "5"
+    },
+    {
+        "n": "9",
+        "centro_acopio": "TINGO DE SAPOSOA",
+        "serie": "5"
+    },
+    {
+        "n": "10",
+        "centro_acopio": "CASPIAZAPA",
+        "serie": "6"
+    },
+    {
+        "n": "11",
+        "centro_acopio": "PUCACACA",
+        "serie": "6"
+    },
+    {
+        "n": "12",
+        "centro_acopio": "TRES UNIDOS",
+        "serie": "6"
+    },
+    {
+        "n": "13",
+        "centro_acopio": "SANTA ROSILLO",
+        "serie": "6"
+    },
+    {
+        "n": "14",
+        "centro_acopio": "BUENOS AIRES",
+        "serie": "6"
+    },
+    {
+        "n": "15",
+        "centro_acopio": "CEDRO PAMPA",
+        "serie": "6"
+    },
+    {
+        "n": "16",
+        "centro_acopio": "BELLAVISTA",
+        "serie": "6"
+    },
+    {
+        "n": "17",
+        "centro_acopio": "PANAMA",
+        "serie": "6"
+    },
+    {
+        "n": "18",
+        "centro_acopio": "SAN HILARION",
+        "serie": "6"
+    },
+    {
+        "n": "19",
+        "centro_acopio": "NUEVA FLORIDA",
+        "serie": "6"
+    },
+    {
+        "n": "20",
+        "centro_acopio": "LAS MERCEDES",
+        "serie": "6"
+    },
+    {
+        "n": "21",
+        "centro_acopio": "HUINGOYACU",
+        "serie": "6"
+    },
+    {
+        "n": "22",
+        "centro_acopio": "CENTRO AMERICA",
+        "serie": "6"
+    },
+    {
+        "n": "23",
+        "centro_acopio": "PUERTO BUERMUDEZ",
+        "serie": "6"
+    },
+    {
+        "n": "24",
+        "centro_acopio": "ALTO YANAYACU",
+        "serie": "6"
+    },
+    {
+        "n": "25",
+        "centro_acopio": "AUCARARCA",
+        "serie": "6"
+    },
+    {
+        "n": "26",
+        "centro_acopio": "LEDOY",
+        "serie": "6"
+    },
+    {
+        "n": "27",
+        "centro_acopio": "LA LIBERTAD",
+        "serie": "6"
+    },
+    {
+        "n": "28",
+        "centro_acopio": "LA VICTORIA",
+        "serie": "9"
+    },
+    {
+        "n": "29",
+        "centro_acopio": "SOLEDAD",
+        "serie": "9"
+    },
+    {
+        "n": "30",
+        "centro_acopio": "NUEVO JAEN",
+        "serie": "9"
+    },
+    {
+        "n": "31",
+        "centro_acopio": "PERLA MAYO",
+        "serie": "9"
+    },
+    {
+        "n": "32",
+        "centro_acopio": "CAYENA",
+        "serie": "9"
+    },
+    {
+        "n": "33",
+        "centro_acopio": "SHUMANZA",
+        "serie": "9"
+    },
+    {
+        "n": "34",
+        "centro_acopio": "SANCHIMA",
+        "serie": "9"
+    },
+    {
+        "n": "35",
+        "centro_acopio": "MONTERREY",
+        "serie": "9"
+    },
+    {
+        "n": "36",
+        "centro_acopio": "MOJARRAS",
+        "serie": "9"
+    },
+    {
+        "n": "37",
+        "centro_acopio": "NUEVO EDEN",
+        "serie": "9"
+    },
+    {
+        "n": "38",
+        "centro_acopio": "SANTA INES",
+        "serie": "9"
+    },
+    {
+        "n": "39",
+        "centro_acopio": "ALTO EL SOL",
+        "serie": "9"
+    },
+    {
+        "n": "40",
+        "centro_acopio": "SAN JUAN DEL CAÑO",
+        "serie": "9"
+    },
+    {
+        "n": "41",
+        "centro_acopio": "ARMAYARI",
+        "serie": "9"
+    },
+    {
+        "n": "42",
+        "centro_acopio": "BELLO HORIZONTE",
+        "serie": "9"
+    },
+    {
+        "n": "43",
+        "centro_acopio": "PIZARRO",
+        "serie": "9"
+    },
+    {
+        "n": "44",
+        "centro_acopio": "NUEVA ESPERANZA",
+        "serie": "9"
+    },
+    {
+        "n": "45",
+        "centro_acopio": "SANAMBO",
+        "serie": "9"
+    },
+    {
+        "n": "46",
+        "centro_acopio": "SHEPTE",
+        "serie": "9"
+    },
+    {
+        "n": "47",
+        "centro_acopio": "PUCALLPILLO",
+        "serie": "9"
+    },
+    {
+        "n": "48",
+        "centro_acopio": "HUICUNGO",
+        "serie": "9"
+    },
+    {
+        "n": "49",
+        "centro_acopio": "MARISOL",
+        "serie": "9"
+    },
+    {
+        "n": "50",
+        "centro_acopio": "PRIMAVERA",
+        "serie": "9"
+    },
+    {
+        "n": "51",
+        "centro_acopio": "CUÑUMBUZA",
+        "serie": "9"
+    },
+    {
+        "n": "52",
+        "centro_acopio": "JUANJUI",
+        "serie": "9"
+    },
+    {
+        "n": "53",
+        "centro_acopio": "CHAMBIRA",
+        "serie": "9"
+    },
+    {
+        "n": "54",
+        "centro_acopio": "PORVENIR",
+        "serie": "9"
+    },
+    {
+        "n": "55",
+        "centro_acopio": "GERVACIO",
+        "serie": "9"
+    },
+    {
+        "n": "56",
+        "centro_acopio": "MAGDALENA",
+        "serie": "9"
+    },
+    {
+        "n": "57",
+        "centro_acopio": "BAGAZAN",
+        "serie": "9"
+    },
+    {
+        "n": "58",
+        "centro_acopio": "SAN RAMON",
+        "serie": "9"
+    },
+    {
+        "n": "59",
+        "centro_acopio": "PAMPA HERMOSA",
+        "serie": "9"
+    },
+    {
+        "n": "60",
+        "centro_acopio": "CAPIRONA",
+        "serie": "9"
+    },
+    {
+        "n": "61",
+        "centro_acopio": "DOS UNIDOS",
+        "serie": "9"
+    },
+    {
+        "n": "62",
+        "centro_acopio": "PACHIZA",
+        "serie": "9"
+    },
+    {
+        "n": "63",
+        "centro_acopio": "PAJARILLO",
+        "serie": "9"
+    },
+    {
+        "n": "64",
+        "centro_acopio": "RICARDO PALMA",
+        "serie": "9"
+    },
+    {
+        "n": "65",
+        "centro_acopio": "ATAHUALLPA",
+        "serie": "9"
+    },
+    {
+        "n": "66",
+        "centro_acopio": "DOS DE MAYO",
+        "serie": "9"
+    },
+    {
+        "n": "67",
+        "centro_acopio": "BALSAYACU",
+        "serie": "13"
+    },
+    {
+        "n": "68",
+        "centro_acopio": "CAMPANILLA",
+        "serie": "15"
+    }
+]

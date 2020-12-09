@@ -1,0 +1,119 @@
+[
+	{
+		"id_almacen": 1,
+		"id_acopio": 37,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "48899",
+		"fecha": "2020-06-01"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 40,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "52613",
+		"fecha": "2020-06-02"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 7,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "55277",
+		"fecha": "2020-06-03"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 17,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "55577",
+		"fecha": "2020-06-04"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 40,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "52616",
+		"fecha": "2020-06-04"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 4,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "55291",
+		"fecha": "2020-06-05"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 35,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "52618",
+		"fecha": "2020-06-05"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 27,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "56539",
+		"fecha": "2020-06-11"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 33,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "56543",
+		"fecha": "2020-06-18"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 32,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "56531",
+		"fecha": "2020-06-11"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 32,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "56527",
+		"fecha": "2020-06-11"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 37,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "56404",
+		"fecha": "2020-06-12"
+	},
+	{
+		"id_almacen": 1,
+		"id_acopio": 5,
+		"id_comprobante": 3,
+		"id_lote": 116,
+		"id_usuario": 2,
+		"correlativo": "56023",
+		"fecha": "2020-06-15"
+	}
+]

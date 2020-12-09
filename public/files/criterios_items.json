@@ -1,0 +1,170 @@
+[
+    {
+      "n": "1",
+      "criterio": "Manejo Documentario y Participativo",
+      "item": "No registra sus actividades mensuales en su cuaderno del productor",
+      "accion_correctiva": "Iniciar inmediatamente el registro de sus actividades"
+    },
+    {
+      "n": "2",
+      "criterio": "Manejo Documentario y Participativo",
+      "item": "No conserva la documentacion en orden y actualizada",
+      "accion_correctiva": "Ordenar su documentacion y actualizar sus registros"
+    },
+    {
+      "n": "3",
+      "criterio": "Manejo Documentario y Participativo",
+      "item": "No asiste a las Capacitaciones Tecnicas, Enc. Cooperativos entre otros; frecuentemente",
+      "accion_correctiva": "Compromiso de asistir continuamente a la reuniones"
+    },
+    {
+      "n": "4",
+      "criterio": "Manejo Documentario y Participativo",
+      "item": "No conserva sus recibos de ventas de cacao y de compra de insumos/herramientas",
+      "accion_correctiva": "Registra en su cuaderno y conservar siempre los recibos en su folder"
+    },
+    {
+      "n": "5",
+      "criterio": "Manejo Ambiental",
+      "item": "Destruye o deforesta ecosistemas naturales (Bosques, Purma alta)",
+      "accion_correctiva": "Reforestar dicho ecosistema, protegerlos y conservarlos"
+    },
+    {
+      "n": "6",
+      "criterio": "Manejo Ambiental",
+      "item": "Quema la basura inorganica a cielo abierto",
+      "accion_correctiva": "Abandone esta practica/poner al microrrelleno o reciclar los plasticos"
+    },
+    {
+      "n": "7",
+      "criterio": "Manejo Ambiental",
+      "item": "Ha quemado para establecer nuevas areas de cultivo",
+      "accion_correctiva": "Recuperar el suelo con abonamiento, coberturas y siembra de arboles"
+    },
+    {
+      "n": "8",
+      "criterio": "Manejo Ambiental",
+      "item": "No tiene sombra o asociacion el cacao, con especies forestales, ni leguminosas",
+      "accion_correctiva": "Asociar el cacao con Sp. Forestales/Guaba en los linderos e interiores"
+    },
+    {
+      "n": "9",
+      "criterio": "Manejo Ambiental",
+      "item": "Caza animales silvestres indiscriminadamente",
+      "accion_correctiva": "Abandonar esta mala practica"
+    },
+    {
+      "n": "10",
+      "criterio": "Manejo Hidrico",
+      "item": "Contamina las fuentes de agua con solidos organicos e inorganicos",
+      "accion_correctiva": "Abandonar esta practica / Limpiar la zona contaminada y mantenerla"
+    },
+    {
+      "n": "11",
+      "criterio": "Manejo Hidrico",
+      "item": "Bordes de las quebradas y zanjas sin vegetacion o proteccion.",
+      "accion_correctiva": "Sembrar arboles o instalar eritrina"
+    },
+    {
+      "n": "12",
+      "criterio": "Manejo Hidrico",
+      "item": "No hay o falta proteccion en las riberas de los rios y quebradas",
+      "accion_correctiva": "Establecer franjas de proteccion con Sp. Forestales"
+    },
+    {
+      "n": "13",
+      "criterio": "Manejo Agricola",
+      "item": "No preparo Compost (Mat. Veg.) en condiciones adecuadas de sombra",
+      "accion_correctiva": "Instalar su compostera, preparar su compost (Material Vegetal) y aplicar"
+    },
+    {
+      "n": "14",
+      "criterio": "Manejo Agricola",
+      "item": "Se encontro uso e indicios de almacenamiento de productos quimicos",
+      "accion_correctiva": "Retiro inmediato del Programa Organico"
+    },
+    {
+      "n": "15",
+      "criterio": "Manejo Agricola",
+      "item": "No existe remocion de frutos infestados, ni control de plagas",
+      "accion_correctiva": "Poda Fitosanitaria y aplicacion de insumos autorizados o permitidos"
+    },
+    {
+      "n": "16",
+      "criterio": "Manejo Agricola",
+      "item": "No realiza podas de mantenimiento y apertura de calles en su cacaotal",
+      "accion_correctiva": "Realizar la poda (mantenimiento, apertura de calles)"
+    },
+    {
+      "n": "17",
+      "criterio": "Manejo Agricola",
+      "item": "Existe erosion significativa del suelo en la parcela de cacao",
+      "accion_correctiva": "Instalar barreras vivas y conservar cobertura (hojarascas)"
+    },
+    {
+      "n": "18",
+      "criterio": "Manejo Agricola",
+      "item": "Almacena y/o aplica productos foliares/fitosanitarios y del suelo NO autorizados",
+      "accion_correctiva": "Decertificacion del Programa Organico y ubicarlo en T2"
+    },
+    {
+      "n": "19",
+      "criterio": "Manejo Agricola",
+      "item": "No existe barrerras de amortiguamiento o vegetacion en los linderos de la U.P",
+      "accion_correctiva": "Sembrar cercos vivos con arboles forestales (estratos bajo-medio-alto)"
+    },
+    {
+      "n": "20",
+      "criterio": "Manejo Agricola",
+      "item": "Existe riesgo de contaminacion por deriva y/o aplicacion quimica de los colindantes",
+      "accion_correctiva": "No cosechar o cosechar dejando 5-6 filas paralelas / Realizar barreras de amortiguamiento"
+    },
+    {
+      "n": "21",
+      "criterio": "Manejo Agricola",
+      "item": "Utiliza mochilas de productores convencionales o no certificadas",
+      "accion_correctiva": "Utilizar la mochila de un productor Organico o de la empresa"
+    },
+    {
+      "n": "22",
+      "criterio": "Manejo Laboral o Seguridad Ocupacional",
+      "item": "No hay en la parcela equipo de primeros auxilios (Botiquin)",
+      "accion_correctiva": "Tener un botiquin o medicinas de primeros auxilios (no expirado)"
+    },
+    {
+      "n": "23",
+      "criterio": "Manejo Laboral o Seguridad Ocupacional",
+      "item": "El productor no cuenta con equipos de proteccion al momento de la aplicacion",
+      "accion_correctiva": "Implementar con equipos de proteccion o de seguridad"
+    },
+    {
+      "n": "24",
+      "criterio": "Manejo Laboral o Seguridad Ocupacional",
+      "item": "Existe contratacion de menores de edad",
+      "accion_correctiva": "Impedir esta practica y Decertificacion al productor"
+    },
+    {
+      "n": "25",
+      "criterio": "Manejo Laboral o Seguridad Ocupacional",
+      "item": "Las herramientas e insumos en el almacen no se encuentran señalizado y ordenado",
+      "accion_correctiva": "Ordenar y señalizar de acuerdo a los insumos y herramientas"
+    },
+    {
+      "n": "26",
+      "criterio": "Manejo Integrado de Desechos",
+      "item": "Tiene basura inorganica regada o acumulada en la parcela",
+      "accion_correctiva": "Realizar la limpieza urgente y mantenerla"
+    },
+    {
+      "n": "27",
+      "criterio": "Manejo Integrado de Desechos",
+      "item": "No tiene letrina debidamente ubicada y conservada",
+      "accion_correctiva": "Construir la letrina con techo"
+    },
+    {
+      "n": "28",
+      "criterio": "Manejo Integrado de Desechos",
+      "item": "No tiene pozo (microrrelleno) para los inservibles inOrganicos con techo",
+      "accion_correctiva": "Elaborar un microrrelleno para inservibles con techo"
+    }
+  ]

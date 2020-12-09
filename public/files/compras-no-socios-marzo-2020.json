@@ -1,0 +1,50 @@
+[
+    {
+      "n": "1",
+      "dni": "870258",
+      "nombre": "MARIA ANGELICA GARCIA SUAREZ",
+      "centro_acopio": "1.2.13",
+      "comite_local": "HUICUNGO",
+      "fecha": "03/06/2020",
+      "correlativo": "95023",
+      "cantidad": "814",
+      "precio": "8.5",
+      "importe": "6919"
+    },
+    {
+      "n": "2",
+      "dni": "870258",
+      "nombre": "MARIA ANGELICA GARCIA SUAREZ",
+      "centro_acopio": "1.2.13",
+      "comite_local": "HUICUNGO",
+      "fecha": "03/14/2020",
+      "correlativo": "95031",
+      "cantidad": "300",
+      "precio": "7.6",
+      "importe": "2280"
+    },
+    {
+      "n": "3",
+      "dni": "870258",
+      "nombre": "MARIA ANGELICA GARCIA SUAREZ",
+      "centro_acopio": "1.2.13",
+      "comite_local": "HUICUNGO",
+      "fecha": "03/18/2020",
+      "correlativo": "95038",
+      "cantidad": "140",
+      "precio": "7",
+      "importe": "980"
+    },
+    {
+      "n": "4",
+      "dni": "1007621",
+      "nombre": "CASANOVA VALDERRAMA FRANCISCO",
+      "centro_acopio": "1.1.60",
+      "comite_local": "MAGDALENA",
+      "fecha": "03/23/2020",
+      "correlativo": "375368",
+      "cantidad": "33",
+      "precio": "6.5",
+      "importe": "214.5"
+    }
+  ]
